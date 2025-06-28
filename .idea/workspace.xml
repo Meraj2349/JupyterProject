@@ -1,38 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7fc24f75-87d6-463f-9648-aac47fda2667" name="Changes" comment="" />
+    <list default="true" id="7fc24f75-87d6-463f-9648-aac47fda2667" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/JupyterProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-exploration.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text-classification.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2t4lnecvHj5yVgNQFokayeGIRlO" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -44,8 +68,51 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739619396707</updated>
-      <workItem from="1739619397595" duration="5000" />
+      <workItem from="1739619397595" duration="385000" />
+      <workItem from="1739619797299" duration="762000" />
+      <workItem from="1739711607891" duration="3852000" />
+      <workItem from="1739719839695" duration="2987000" />
+      <workItem from="1747304450729" duration="262000" />
+      <workItem from="1749048603016" duration="487000" />
+      <workItem from="1749049196722" duration="990000" />
+      <workItem from="1749050879035" duration="35000" />
+      <workItem from="1749089985373" duration="161000" />
+      <workItem from="1749090164037" duration="7611000" />
+      <workItem from="1749171483532" duration="5857000" />
+      <workItem from="1749532797110" duration="3000" />
+      <workItem from="1749719219087" duration="2770000" />
+      <workItem from="1750472200778" duration="254000" />
+      <workItem from="1750473066287" duration="312000" />
+      <workItem from="1750473407642" duration="4222000" />
+      <workItem from="1750502928122" duration="1175000" />
+      <workItem from="1750504122757" duration="1150000" />
+      <workItem from="1750505287084" duration="4158000" />
+      <workItem from="1750616241544" duration="1423000" />
+      <workItem from="1750661563962" duration="2279000" />
+      <workItem from="1750663875759" duration="58000" />
+      <workItem from="1750663951442" duration="2529000" />
+      <workItem from="1750681581253" duration="5489000" />
+      <workItem from="1750688091218" duration="2863000" />
+      <workItem from="1750691046854" duration="206000" />
+      <workItem from="1750756683272" duration="1202000" />
+      <workItem from="1750920948631" duration="913000" />
+      <workItem from="1751028467465" duration="11195000" />
+      <workItem from="1751049502492" duration="13000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
