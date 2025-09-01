@@ -1,0 +1,1003 @@
+Student ID,Name,Class,Subject,Exam Category,Exam Date,Score,Attendance (%),Participation,Behavior Score,Final Grade,Participation_Numeric,Final Grade Letter,Performance Category,Pass_Fail,Risk_Level,Risk_Probability,Engagement_Score,Engagement_Group
+202.0,Mehedi Hasan,10.0,Biology,Class Test,2025-01-01,53,93,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+535.0,Nusrat Hossain,10.0,Computer,Final Exam,2025-01-02,48,60,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+960.0,Tanvir Alam,10.0,Physics,Final Exam,2025-01-03,66,64,medium,8,50.0,1,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+370.0,Tanvir Alam,10.0,Physics,Mid Exam,2025-01-04,37,65,high,10,50.0,2,F,Poor,Fail,Low Risk,0.0,79.0,High
+206.0,Nusrat Hossain,10.0,Bangla,Final Exam,2025-01-05,57,60,medium,9,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+171.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-01-06,34,60,low,9,73.2,0,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+800.0,Sakib Khan,10.0,English,Class Test,2025-01-07,46,51,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.04349999999999998,50.599999999999994,Medium
+120.0,Tania Jahan,10.0,Computer,Final Exam,2025-01-08,65,99,high,8,68.0,2,C-,Below Average,Pass,Low Risk,0.0,99.4,Very High
+714.0,Mehedi Hasan,10.0,English,Class Test,2025-01-09,48,61,medium,8,95.0,1,A+,Excellent,Pass,Low Risk,0.004865967365967339,56.6,Medium
+221.0,Tania Jahan,10.0,Computer,Final Exam,2025-01-10,93,100,medium,6,50.0,1,F,Poor,Fail,Medium Risk,0.4591428571428571,80.0,High
+566.0,Nusrat Hossain,10.0,UnkownSubject,Class Test,2025-01-11,40,75,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+314.0,Sakib Khan,10.0,Math,Final Exam,2025-01-12,83,72,low,10,95.0,0,A+,Excellent,Pass,Low Risk,0.0,43.199999999999996,Medium
+430.0,Mehedi Hasan,10.0,Physics,Class Test,2025-01-13,74,67,medium,10,68.0,1,C-,Below Average,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+558.0,Nusrat Hossain,10.0,Computer,Class Test,2025-01-14,76,81,medium,6,68.8,1,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+187.0,Ayesha Rahman,10.0,Bangla,Final Exam,2025-01-15,41,98,low,10,82.0,0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+472.0,Tanvir Alam,10.0,Computer,Class Test,32-13-2025,50,87,high,7,78.0,2,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+199.0,Tania Jahan,10.0,Biology,Class Test,2025-01-17,40,96,high,6,50.0,2,F,Poor,Fail,Low Risk,0.2292165473415474,97.6,Very High
+971.0,Mim Akter,10.0,Physics,Class Test,2025-01-18,34,52,high,8,58.0,2,D-,Poor,Fail,Medium Risk,0.429952380952381,71.2,High
+763.0,Mim Akter,10.0,Biology,Final Exam,2025-01-19,85,87,low,7,50.0,0,F,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+230.0,Sakib Khan,10.0,Physics,Final Exam,2025-01-20,49,52,high,10,90.0,2,A,Excellent,Pass,Medium Risk,0.429952380952381,71.2,High
+761.0,Ayesha Rahman,10.0,Biology,Class Test,2025-01-21,70,79,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.0,67.4,High
+408.0,Tania Jahan,10.0,Computer,Class Test,2025-01-22,75,50,medium,5,82.0,1,B,Good,Pass,Low Risk,0.36729761904761904,50.0,Medium
+869.0,Ayesha Rahman,10.0,Computer,Final Exam,2025-01-23,41,79,low,6,78.0,0,B-,Average,Pass,Low Risk,0.0,47.4,Medium
+443.0,Tania Jahan,10.0,Math,Final Exam,2025-01-24,99,94,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.22823809523809513,76.4,High
+591.0,Sakib Khan,10.0,Bangla,Class Test,2025-01-25,46,81,high,10,95.0,2,A+,Excellent,Pass,Low Risk,0.011472527472527472,88.6,Very High
+513.0,Sakib Khan,10.0,Biology,Class Test,2025-01-26,Eighty,77,low,8,82.0,0,B,Good,Pass,Low Risk,0.005079365079365239,46.199999999999996,Medium
+905.0,Mim Akter,10.0,English,Class Test,2025-01-27,55,70,high,5,50.0,2,F,Poor,Fail,High Risk,1.0,82.0,Very High
+485.0,Ayesha Rahman,10.0,Math,Mid Exam,2025-01-28,77,95,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+291.0,Mehedi Hasan,10.0,Biology,Final Exam,2025-01-29,81,60,high,5,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+376.0,Mim Akter,10.0,Biology,Mid Exam,2025-01-30,99,76,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.14249314574314564,45.6,Medium
+260.0,Ayesha Rahman,10.0,Math,Final Exam,2025-01-31,84,85,medium,Nine,78.0,1,B-,Average,Pass,Low Risk,0.31039285714285714,71.0,High
+559.0,Mim Akter,10.0,Computer,Final Exam,2025-02-01,62,56,medium,8,82.0,1,B,Good,Pass,Low Risk,0.0,53.6,Medium
+413.0,Mehedi Hasan,10.0,Biology,Final Exam,2025-02-02,91,71,high,10,95.0,2,A+,Excellent,Pass,Low Risk,0.010000000000000009,82.6,Very High
+121.0,Tanvir Alam,10.0,Computer,Final Exam,2025-02-03,52,59,low,5,83.3,0,B+,Good,Pass,Low Risk,0.10713438359026639,35.4,Low
+352.0,Tanvir Alam,10.0,Math,Final Exam,2025-02-04,44,88,low,9,50.0,0,F,Poor,Fail,Medium Risk,0.525686507936508,52.8,Medium
+847.0,Tanvir Alam,10.0,Computer,Final Exam,2025-02-05,56,60,medium,6,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+956.0,Tanvir Alam,10.0,Physics,Final Exam,2025-02-06,93,64,medium,6,68.0,1,C-,Below Average,Pass,High Risk,0.7560452831482244,58.4,Medium
+660.0,Nusrat Hossain,10.0,English,Mid Exam,2025-02-07,80,53,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.3354642857142859,31.799999999999997,Low
+574.0,Tania Jahan,10.0,Biology,Class Test,2025-02-08,82,81,high,9,82.0,2,B,Good,Pass,Low Risk,0.011472527472527472,88.6,Very High
+158.0,Nusrat Hossain,10.0,Bangla,Class Test,2025-02-09,80,60,medium,9,50.0,1,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+610.0,Nusrat Hossain,10.0,English,Mid Exam,2025-02-10,76,55,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+781.0,Nusrat Hossain,10.0,Computer,Mid Exam,2025-02-11,33,73,low,10,50.0,0,F,Poor,Fail,Low Risk,0.2918571428571429,43.8,Medium
+575.0,Tanvir Alam,10.0,Biology,Mid Exam,2025-02-12,36,69,high,10,78.0,2,B-,Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+799.0,Mehedi Hasan,10.0,Computer,Mid Exam,2025-02-13,64,86,medium,7,68.0,1,C-,Below Average,Pass,Low Risk,0.007857142857142896,71.6,High
+882.0,Sakib Khan,10.0,Physics,Final Exam,2025-02-14,77,60,low,10,78.0,0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+289.0,Sakib Khan,10.0,Math,Class Test,2025-02-15,74,61,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.004865967365967339,56.6,Medium
+786.0,Tania Jahan,10.0,Biology,Final Exam,2025-02-16,48,82,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.08050000000000002,49.199999999999996,Medium
+662.0,Tanvir Alam,10.0,Physics,Class Test,2025-02-17,92,77,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+975.0,Tanvir Alam,10.0,Physics,Class Test,2025-02-18,67,57,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.19108766233766228,34.199999999999996,Low
+666.0,Tanvir Alam,10.0,Biology,Mid Exam,2025-02-19,96,60,medium,5,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+343.0,Mim Akter,10.0,Computer,Final Exam,2025-02-20,88,86,high,10,78.0,2,B-,Average,Pass,Low Risk,0.1090243367743372,91.6,Very High
+931.0,Ayesha Rahman,10.0,Bangla,Mid Exam,2025-02-21,98,71,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.010000000000000009,82.6,Very High
+604.0,Mim Akter,10.0,Physics,Final Exam,2025-02-22,42,55,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+230.0,Ayesha Rahman,10.0,English,Class Test,2025-02-23,76,70,medium,9,78.0,1,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+584.0,Tanvir Alam,10.0,Physics,Mid Exam,2025-02-24,90,81,medium,9,82.0,1,B,Good,Pass,Low Risk,0.35945050855577176,68.6,High
+918.0,Tanvir Alam,10.0,Bangla,Mid Exam,2025-02-25,60,84,high,9,58.0,2,D-,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+746.0,Mim Akter,10.0,Computer,Class Test,2025-02-26,51,64,high,10,68.0,2,C-,Below Average,Pass,Low Risk,0.022499999999999964,78.4,High
+120.0,Mim Akter,10.0,Computer,Class Test,2025-02-27,72,54,low,7,77.2,0,B-,Average,Pass,Low Risk,0.194017676767677,32.4,Low
+940.0,Ayesha Rahman,10.0,English,Class Test,2025-02-28,96,95,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.0,57.0,Medium
+266.0,Sakib Khan,10.0,Physics,Mid Exam,2025-03-01,83,99,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.31485556110556123,59.4,Medium
+373.0,Ayesha Rahman,10.0,Computer,Final Exam,2025-03-02,39,97,high,6,82.0,2,B,Good,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+487.0,Mim Akter,10.0,Bangla,Mid Exam,2025-03-03,71,55,high,5,78.0,2,B-,Average,Pass,Low Risk,0.2985634920634921,73.0,High
+700.0,Mehedi Hasan,10.0,Biology,Final Exam,2025-03-04,93,74,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.020000000000000018,84.4,Very High
+415.0,Mim Akter,10.0,Math,Mid Exam,2025-03-05,50,95,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.0,57.0,Medium
+113.0,Mehedi Hasan,10.0,Math,Mid Exam,2025-03-06,95,89,medium,6,58.0,1,D-,Poor,Fail,Medium Risk,0.4154589577089578,73.4,High
+341.0,Tania Jahan,10.0,Math,Class Test,2025-03-07,70,78,high,6,82.0,2,B,Good,Pass,Low Risk,0.34269078144078147,86.8,Very High
+876.0,Mim Akter,10.0,Physics,Final Exam,2025-03-08,53,56,medium,8,82.0,1,B,Good,Pass,Low Risk,0.0,53.6,Medium
+445.0,Tania Jahan,10.0,English,Mid Exam,2025-03-09,64,89,medium,9,50.0,1,F,Poor,Fail,Medium Risk,0.4154589577089578,73.4,High
+664.0,Sakib Khan,10.0,Computer,Mid Exam,2025-03-10,85,60,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+997.0,Ayesha Rahman,10.0,Biology,Class Test,2025-03-11,59,87,low,10,95.0,0,A+,Excellent,Pass,High Risk,0.7860079365079365,52.199999999999996,Medium
+439.0,Mehedi Hasan,10.0,Bangla,Class Test,2025-03-12,86,67,medium,10,50.0,1,F,Poor,Fail,Medium Risk,0.5161599511599512,60.199999999999996,High
+191.0,Ayesha Rahman,10.0,Biology,Final Exam,2025-03-13,76,51,high,5,78.0,2,B-,Average,Pass,Low Risk,0.2330218253968258,70.6,High
+466.0,Tania Jahan,10.0,Bangla,Mid Exam,2025-03-14,64,57,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+554.0,Mehedi Hasan,10.0,Physics,Final Exam,2025-03-15,48,60,high,9,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+527.0,Ayesha Rahman,10.0,Math,Mid Exam,2025-03-16,37,82,high,9,78.0,2,B-,Average,Pass,Low Risk,0.0,89.19999999999999,Very High
+608.0,Mim Akter,10.0,Physics,Final Exam,2025-03-17,55,87,low,8,78.0,0,B-,Average,Pass,High Risk,0.7860079365079365,52.199999999999996,Medium
+875.0,Tanvir Alam,10.0,English,Class Test,2025-03-18,100,97,high,7,68.0,2,C-,Below Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+134.0,Tania Jahan,10.0,English,Mid Exam,2025-03-19,59,76,high,5,82.0,2,B,Good,Pass,Low Risk,0.03428571428571425,85.6,Very High
+305.0,Ayesha Rahman,10.0,Bangla,Final Exam,2025-03-20,36,69,low,9,73.0,0,C+,Average,Pass,Low Risk,0.20352380952380955,41.4,Medium
+180.0,Tania Jahan,10.0,Computer,Class Test,2025-03-21,96,60,high,5,82.0,2,B,Good,Pass,Low Risk,0.33532916367571486,76.0,High
+661.0,Nusrat Hossain,10.0,Computer,Class Test,2025-03-22,94,60,medium,9,82.0,1,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+971.0,Tania Jahan,10.0,Bangla,Final Exam,2025-03-23,65,80,high,6,68.0,2,C-,Below Average,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+487.0,Mehedi Hasan,10.0,English,Mid Exam,2025-03-24,54,76,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.0045000000000000595,65.6,High
+101.0,Nusrat Hossain,10.0,English,Mid Exam,2025-03-25,66,81,high,6,78.0,2,B-,Average,Pass,Low Risk,0.011472527472527472,88.6,Very High
+489.0,Mehedi Hasan,10.0,English,Class Test,2025-03-26,30,59,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+665.0,Tanvir Alam,10.0,Physics,Mid Exam,2025-03-27,44,52,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+205.0,Nusrat Hossain,10.0,English,Mid Exam,2025-03-28,66,60,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+871.0,Mim Akter,10.0,Biology,Mid Exam,2025-03-29,42,76,low,10,68.0,0,C-,Below Average,Pass,Low Risk,0.14249314574314564,45.6,Medium
+921.0,Tania Jahan,10.0,Math,Class Test,2025-03-30,37,84,high,10,95.0,2,A+,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+576.0,Ayesha Rahman,10.0,English,Final Exam,2025-03-31,34,80,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.0,48.0,Medium
+802.0,Sakib Khan,10.0,Bangla,Mid Exam,2025-04-01,89,64,medium,6,50.0,1,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+501.0,Tania Jahan,10.0,Math,Class Test,2025-04-02,30,65,high,9,82.0,2,B,Good,Pass,Low Risk,0.0,79.0,High
+829.0,Tania Jahan,10.0,Physics,Class Test,2025-04-03,65,62,medium,10,82.0,1,B,Good,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+655.0,Tanvir Alam,10.0,Bangla,Final Exam,2025-04-04,64,98,medium,7,58.0,1,D-,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+261.0,Mim Akter,10.0,Math,Mid Exam,2025-04-05,95,84,high,10,50.0,2,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+301.0,Sakib Khan,10.0,Bangla,Mid Exam,2025-04-06,92,60,medium,5,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+369.0,Nusrat Hossain,10.0,Physics,Final Exam,2025-04-07,52,70,high,6,58.0,2,D-,Poor,Fail,High Risk,1.0,82.0,Very High
+962.0,Nusrat Hossain,10.0,Biology,Final Exam,2025-04-08,38,100,medium,5,90.0,1,A,Excellent,Pass,Medium Risk,0.4591428571428571,80.0,High
+915.0,Nusrat Hossain,10.0,Physics,Class Test,2025-04-09,63,60,high,5,58.0,2,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+370.0,Mehedi Hasan,10.0,Physics,Class Test,2025-04-10,75,79,high,5,82.0,2,B,Good,Pass,Low Risk,0.2977370962370962,87.4,Very High
+555.0,Mehedi Hasan,10.0,Bangla,Final Exam,2025-04-11,33,97,low,8,78.0,0,B-,Average,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+561.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-04-12,59,84,high,8,90.0,2,A,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+826.0,Sakib Khan,10.0,English,Class Test,2025-04-13,32,71,high,9,82.0,2,B,Good,Pass,Low Risk,0.010000000000000009,82.6,Very High
+351.0,Nusrat Hossain,10.0,English,Class Test,2025-04-14,43,87,medium,6,50.0,1,F,Poor,Fail,Medium Risk,0.5003214285714286,72.19999999999999,High
+801.0,Mehedi Hasan,10.0,Biology,Mid Exam,2025-04-15,89,80,high,7,95.0,2,A+,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+395.0,Ayesha Rahman,10.0,Biology,Class Test,2025-04-16,74,63,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.182105339105339,37.8,Low
+824.0,Mim Akter,10.0,English,Mid Exam,2025-04-17,63,73,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.3371540134701899,63.8,High
+819.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-04-18,74,60,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+848.0,Mehedi Hasan,10.0,English,Mid Exam,2025-04-19,90,98,low,8,77.5,0,B-,Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+437.0,Tanvir Alam,10.0,Computer,Final Exam,2025-04-20,45,81,medium,6,50.0,1,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+978.0,Tanvir Alam,10.0,Biology,Final Exam,2025-04-21,95,85,medium,5,58.0,1,D-,Poor,Fail,Low Risk,0.31039285714285714,71.0,High
+152.0,Nusrat Hossain,10.0,Math,Final Exam,2025-04-22,69,81,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.35945050855577176,68.6,High
+891.0,Tanvir Alam,10.0,Bangla,Mid Exam,2025-04-23,46,64,medium,8,50.0,1,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+316.0,Nusrat Hossain,10.0,Biology,Mid Exam,2025-04-24,63,92,low,10,78.0,0,B-,Average,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+863.0,Nusrat Hossain,10.0,Biology,Final Exam,2025-04-25,45,84,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.007499999999999951,50.4,Medium
+287.0,Mehedi Hasan,10.0,Physics,Class Test,2025-04-26,89,52,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.37448520923520934,51.2,Medium
+479.0,Tanvir Alam,10.0,Physics,Mid Exam,2025-04-27,95,60,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+592.0,Nusrat Hossain,10.0,Physics,Class Test,2025-04-28,95,54,low,6,82.0,0,B,Good,Pass,Low Risk,0.194017676767677,32.4,Low
+140.0,Sakib Khan,10.0,Bangla,Class Test,2025-04-29,42,70,low,5,50.0,0,F,Poor,Fail,Low Risk,0.3232301587301589,42.0,Medium
+256.0,Mim Akter,10.0,Physics,Mid Exam,2025-04-30,85,59,low,9,95.0,0,A+,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+114.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-05-01,60,68,medium,6,82.0,1,B,Good,Pass,Low Risk,0.22232142857142845,60.8,High
+912.0,Ayesha Rahman,10.0,English,Class Test,2025-05-02,63,74,medium,10,95.0,1,A+,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+164.0,Mehedi Hasan,10.0,Math,Class Test,2025-05-03,68,53,high,9,58.0,2,D-,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+956.0,Tanvir Alam,10.0,Biology,Final Exam,2025-05-04,96,60,medium,5,50.0,1,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+938.0,Tanvir Alam,10.0,Computer,Final Exam,2025-05-05,37,68,high,9,82.0,2,B,Good,Pass,Low Risk,0.22379761904761908,80.8,Very High
+620.0,Nusrat Hossain,10.0,Math,Mid Exam,2025-05-06,84,92,low,7,82.0,0,B,Good,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+443.0,Tania Jahan,10.0,Computer,Final Exam,2025-05-07,56,60,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+228.0,Nusrat Hossain,10.0,Computer,Final Exam,2025-05-08,82,59,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.10713438359026639,35.4,Low
+747.0,Mim Akter,10.0,Biology,Final Exam,2025-05-09,68,60,medium,5,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+571.0,Sakib Khan,10.0,English,Final Exam,2025-05-10,94,74,high,6,78.0,2,B-,Average,Pass,Low Risk,0.020000000000000018,84.4,Very High
+162.0,Ayesha Rahman,10.0,Physics,Class Test,2025-05-11,46,69,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.2419301254301256,81.4,Very High
+238.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2025-05-12,59,97,high,7,78.0,2,B-,Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+598.0,Tania Jahan,10.0,English,Final Exam,2025-05-13,82,68,medium,10,69.2,1,C-,Below Average,Pass,Low Risk,0.22232142857142845,60.8,High
+692.0,Tania Jahan,10.0,Bangla,Class Test,2025-05-14,42,72,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+491.0,Nusrat Hossain,10.0,Biology,Class Test,2025-05-15,50,73,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.2918571428571429,43.8,Medium
+774.0,Mehedi Hasan,10.0,Biology,Class Test,2025-05-16,48,60,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+518.0,Ayesha Rahman,10.0,Biology,Final Exam,2025-05-17,82,95,low,8,78.0,0,B-,Average,Pass,Low Risk,0.0,57.0,Medium
+388.0,Mehedi Hasan,10.0,Math,Final Exam,2025-05-18,48,83,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.1860046897546901,69.8,High
+478.0,Sakib Khan,10.0,Bangla,Mid Exam,2025-05-19,86,77,low,6,82.0,0,B,Good,Pass,Low Risk,0.005079365079365239,46.199999999999996,Medium
+872.0,Tania Jahan,10.0,English,Final Exam,2025-05-20,54,54,medium,6,72.9,1,C,Average,Pass,Low Risk,0.19259523809523826,52.4,Medium
+589.0,Tania Jahan,10.0,English,Final Exam,2025-05-21,60,54,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.194017676767677,32.4,Low
+330.0,Mim Akter,10.0,Computer,Class Test,2025-05-22,84,100,low,10,50.0,0,F,Poor,Fail,Low Risk,0.0,60.0,Medium
+140.0,Sakib Khan,10.0,Computer,Mid Exam,2025-05-23,52,70,high,6,50.0,2,F,Poor,Fail,High Risk,1.0,82.0,Very High
+127.0,Tania Jahan,10.0,Computer,Final Exam,2025-05-24,61,61,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.004865967365967339,56.6,Medium
+234.0,Sakib Khan,10.0,Biology,Final Exam,2025-05-25,91,99,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.31485556110556123,59.4,Medium
+300.0,Ayesha Rahman,10.0,English,Class Test,2025-05-26,39,53,high,10,58.0,2,D-,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+939.0,Tanvir Alam,10.0,Bangla,Class Test,2025-05-27,83,98,medium,5,50.0,1,F,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+879.0,Tania Jahan,10.0,Biology,Final Exam,2025-05-28,81,91,high,8,78.0,2,B-,Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+132.0,Mim Akter,10.0,Math,Mid Exam,2025-05-29,49,69,medium,6,67.9,1,C-,Below Average,Pass,Low Risk,0.3861904761904763,61.4,High
+147.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-05-30,61,87,high,7,78.0,2,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+602.0,Nusrat Hossain,10.0,Biology,Class Test,2025-05-31,43,74,low,9,95.0,0,A+,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+506.0,Sakib Khan,10.0,Biology,Class Test,2025-06-01,79,63,medium,9,80.1,1,B,Good,Pass,Low Risk,0.12037515262515286,57.8,Medium
+673.0,Nusrat Hossain,10.0,Math,Final Exam,2025-06-02,57,60,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+827.0,Mehedi Hasan,10.0,Physics,Class Test,2025-06-03,82,81,medium,10,50.0,1,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+904.0,Ayesha Rahman,10.0,English,Final Exam,2025-06-04,53,60,high,5,78.0,2,B-,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+198.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2025-06-05,51,67,low,7,79.3,0,B-,Average,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+783.0,Tania Jahan,10.0,Physics,Mid Exam,2025-06-06,59,76,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.14249314574314564,45.6,Medium
+971.0,Sakib Khan,10.0,Computer,Final Exam,2025-06-07,92,67,high,6,78.0,2,B-,Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+825.0,Tanvir Alam,10.0,Biology,Class Test,2025-06-08,33,72,low,7,90.0,0,A,Excellent,Pass,Low Risk,0.0,43.199999999999996,Medium
+646.0,Ayesha Rahman,10.0,Math,Mid Exam,2025-06-09,88,60,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+838.0,Tania Jahan,10.0,Math,Class Test,2025-06-10,37,70,medium,10,58.0,1,D-,Poor,Fail,Low Risk,0.3187095404595405,62.0,High
+712.0,Mim Akter,10.0,English,Mid Exam,2025-06-11,41,93,medium,8,76.6,1,C+,Average,Pass,Low Risk,0.2156293894014486,75.8,High
+561.0,Mehedi Hasan,10.0,Physics,Final Exam,2025-06-12,60,54,low,7,78.0,0,B-,Average,Pass,Low Risk,0.194017676767677,32.4,Low
+742.0,Sakib Khan,10.0,English,Final Exam,2025-06-13,63,72,medium,10,50.0,1,F,Poor,Fail,Low Risk,0.15221015096015134,63.199999999999996,High
+868.0,Ayesha Rahman,10.0,Biology,Final Exam,2025-06-14,78,90,low,5,90.0,0,A,Excellent,Pass,Low Risk,0.31421545121545125,54.0,Medium
+104.0,Ayesha Rahman,10.0,English,Mid Exam,2025-06-15,86,74,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+317.0,Tanvir Alam,10.0,Bangla,Class Test,2025-06-16,55,90,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.12144980019980023,74.0,High
+602.0,Tanvir Alam,10.0,Math,Class Test,2025-06-17,47,59,medium,5,50.0,1,F,Poor,Fail,High Risk,0.7606854256854257,55.4,Medium
+866.0,Mim Akter,10.0,Math,Class Test,2025-06-18,67,71,medium,7,58.0,1,D-,Poor,Fail,Medium Risk,0.5061349206349206,62.6,High
+497.0,Mehedi Hasan,10.0,Computer,Mid Exam,2025-06-19,79,68,low,10,78.0,0,B-,Average,Pass,Medium Risk,0.4888571428571429,40.8,Medium
+970.0,Mim Akter,10.0,Computer,Mid Exam,2025-06-20,37,60,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+894.0,Tania Jahan,10.0,Biology,Mid Exam,2025-06-21,70,56,medium,8,95.0,1,A+,Excellent,Pass,Low Risk,0.0,53.6,Medium
+492.0,Tania Jahan,10.0,Bangla,Mid Exam,2025-06-22,35,53,high,7,78.0,2,B-,Average,Pass,Medium Risk,0.4522572879476904,71.8,High
+306.0,Mim Akter,10.0,Physics,Mid Exam,2025-06-23,98,60,low,10,50.0,0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+114.0,Mehedi Hasan,10.0,English,Class Test,2025-06-24,73,60,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+957.0,Mim Akter,10.0,Biology,Mid Exam,2025-06-25,93,89,low,9,95.0,0,A+,Excellent,Pass,Low Risk,0.34098187923187917,53.4,Medium
+653.0,Mehedi Hasan,10.0,Computer,Mid Exam,2025-06-26,58,61,low,10,50.0,0,F,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+991.0,Mehedi Hasan,10.0,English,Class Test,2025-06-27,57,71,medium,7,82.0,1,B,Good,Pass,Medium Risk,0.5061349206349206,62.6,High
+560.0,Nusrat Hossain,10.0,Computer,Mid Exam,2025-06-28,40,71,medium,8,78.0,1,B-,Average,Pass,Medium Risk,0.5061349206349206,62.6,High
+790.0,Sakib Khan,10.0,English,Class Test,2025-06-29,94,99,high,10,69.9,2,C-,Below Average,Pass,Low Risk,0.0,99.4,Very High
+674.0,Mehedi Hasan,10.0,Physics,Class Test,2025-06-30,48,96,high,9,50.0,2,F,Poor,Fail,Low Risk,0.2292165473415474,97.6,Very High
+963.0,Tanvir Alam,10.0,Biology,Final Exam,2025-07-01,38,60,low,7,73.2,0,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+842.0,Mehedi Hasan,10.0,English,Final Exam,2025-07-02,56,78,high,5,50.0,2,F,Poor,Fail,Low Risk,0.34269078144078147,86.8,Very High
+340.0,Mehedi Hasan,10.0,Bangla,Final Exam,2025-07-03,63,95,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+663.0,Mehedi Hasan,10.0,Math,Final Exam,2025-07-04,73,60,medium,6,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+195.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2025-07-05,97,99,low,5,90.0,0,A,Excellent,Pass,Low Risk,0.31485556110556123,59.4,Medium
+833.0,Nusrat Hossain,10.0,Bangla,Final Exam,2025-07-06,44,69,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.2419301254301256,81.4,Very High
+584.0,Tania Jahan,10.0,Math,Class Test,2025-07-07,80,99,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.31485556110556123,59.4,Medium
+506.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2025-07-08,42,60,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+330.0,Tanvir Alam,10.0,English,Final Exam,2025-07-09,78,82,high,5,82.0,2,B,Good,Pass,Low Risk,0.0,89.19999999999999,Very High
+848.0,Tanvir Alam,10.0,English,Class Test,2025-07-10,99,92,medium,10,58.0,1,D-,Poor,Fail,Low Risk,0.14390476190476198,75.19999999999999,High
+754.0,Nusrat Hossain,10.0,English,Mid Exam,2025-07-11,85,64,medium,10,90.0,1,A,Excellent,Pass,High Risk,0.7560452831482244,58.4,Medium
+270.0,Mim Akter,10.0,Math,Mid Exam,2025-07-12,80,61,low,5,78.0,0,B-,Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+640.0,Sakib Khan,10.0,Bangla,Final Exam,2025-07-13,66,89,low,10,50.0,0,F,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+135.0,Nusrat Hossain,10.0,Math,Mid Exam,2025-07-14,46,60,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+624.0,Mehedi Hasan,10.0,English,Class Test,2025-07-15,87,79,medium,7,79.4,1,B-,Average,Pass,Low Risk,0.0,67.4,High
+259.0,Ayesha Rahman,10.0,Bangla,Mid Exam,2025-07-16,58,60,low,7,90.0,0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+938.0,Sakib Khan,10.0,Bangla,Class Test,2025-07-17,62,52,high,5,68.0,2,C-,Below Average,Pass,Medium Risk,0.429952380952381,71.2,High
+798.0,Sakib Khan,10.0,Computer,Mid Exam,2025-07-18,89,77,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.0,66.19999999999999,High
+342.0,Tanvir Alam,10.0,Computer,Final Exam,2025-07-19,84,60,high,6,82.0,2,B,Good,Pass,Low Risk,0.33532916367571486,76.0,High
+185.0,Sakib Khan,10.0,Physics,Class Test,2025-07-20,39,79,low,7,82.0,0,B,Good,Pass,Low Risk,0.0,47.4,Medium
+895.0,Nusrat Hossain,10.0,Biology,Mid Exam,2025-07-21,76,62,low,6,58.0,0,D-,Poor,Fail,Medium Risk,0.5419942279942279,37.199999999999996,Low
+677.0,Mehedi Hasan,10.0,Computer,Mid Exam,2025-07-22,52,62,medium,9,58.0,1,D-,Poor,Fail,Low Risk,0.23344577481342232,57.199999999999996,Medium
+781.0,Mehedi Hasan,10.0,Math,Mid Exam,2025-07-23,50,51,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+656.0,Tania Jahan,10.0,Computer,Class Test,2025-07-24,42,86,medium,8,82.0,1,B,Good,Pass,Low Risk,0.007857142857142896,71.6,High
+673.0,Mehedi Hasan,10.0,Physics,Class Test,2025-07-25,62,98,low,9,82.0,0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+745.0,Mehedi Hasan,10.0,Bangla,Class Test,2025-07-26,53,87,low,9,68.0,0,C-,Below Average,Pass,High Risk,0.7860079365079365,52.199999999999996,Medium
+895.0,Tanvir Alam,10.0,Physics,Final Exam,2025-07-27,40,51,high,10,78.0,2,B-,Average,Pass,Low Risk,0.2330218253968258,70.6,High
+127.0,Mehedi Hasan,10.0,Bangla,Final Exam,2025-07-28,46,85,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+719.0,Tania Jahan,10.0,Bangla,Class Test,2025-07-29,97,75,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.3860714285714286,85.0,Very High
+655.0,Ayesha Rahman,10.0,Biology,Mid Exam,2025-07-30,76,60,medium,7,50.0,1,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+439.0,Nusrat Hossain,10.0,Computer,Final Exam,2025-07-31,54,60,high,5,70.9,2,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+897.0,Tanvir Alam,10.0,Math,Class Test,2025-08-01,50,93,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+430.0,Ayesha Rahman,10.0,Math,Mid Exam,2025-08-02,41,89,low,9,78.0,0,B-,Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+739.0,Tanvir Alam,10.0,English,Final Exam,2025-08-03,66,92,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+605.0,Mim Akter,10.0,Bangla,Mid Exam,2025-08-04,71,71,high,8,50.0,2,F,Poor,Fail,Low Risk,0.010000000000000009,82.6,Very High
+447.0,Sakib Khan,10.0,Math,Mid Exam,2025-08-05,46,69,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.2419301254301256,81.4,Very High
+572.0,Mim Akter,10.0,Biology,Mid Exam,2025-08-06,77,60,low,9,78.0,0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+330.0,Mehedi Hasan,10.0,Bangla,Mid Exam,2025-08-07,57,78,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.34269078144078147,86.8,Very High
+289.0,Ayesha Rahman,10.0,Biology,Final Exam,2025-08-08,70,89,medium,6,82.0,1,B,Good,Pass,Medium Risk,0.4154589577089578,73.4,High
+324.0,Mehedi Hasan,10.0,Math,Final Exam,2025-08-09,76,75,medium,8,79.7,1,B-,Average,Pass,Low Risk,0.1250811133311136,65.0,High
+484.0,Sakib Khan,10.0,Math,Final Exam,2025-08-10,47,60,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+476.0,Tanvir Alam,10.0,English,Class Test,2025-08-11,100,66,high,8,95.0,2,A+,Excellent,Pass,Medium Risk,0.4877518599821231,79.6,High
+382.0,Sakib Khan,10.0,Math,Final Exam,2025-08-12,42,69,low,6,82.0,0,B,Good,Pass,Low Risk,0.20352380952380955,41.4,Medium
+732.0,Tania Jahan,10.0,Bangla,Mid Exam,2025-08-13,42,65,high,7,68.0,2,C-,Below Average,Pass,Low Risk,0.0,79.0,High
+727.0,Sakib Khan,10.0,Bangla,Final Exam,2025-08-14,60,95,high,5,82.0,2,B,Good,Pass,Low Risk,0.202268763486256,97.0,Very High
+844.0,Tania Jahan,10.0,Bangla,Mid Exam,2025-08-15,31,92,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+358.0,Sakib Khan,10.0,English,Class Test,2025-08-16,45,56,low,7,58.0,0,D-,Poor,Fail,Medium Risk,0.460297619047619,33.6,Low
+458.0,Nusrat Hossain,10.0,English,Mid Exam,2025-08-17,38,65,low,8,78.0,0,B-,Average,Pass,Low Risk,0.17486688311688336,39.0,Low
+809.0,Tania Jahan,10.0,Math,Mid Exam,2025-08-18,67,94,medium,9,82.0,1,B,Good,Pass,Low Risk,0.22823809523809513,76.4,High
+555.0,Ayesha Rahman,10.0,Physics,Mid Exam,2025-08-19,83,96,high,8,82.0,2,B,Good,Pass,Low Risk,0.2292165473415474,97.6,Very High
+510.0,Mehedi Hasan,10.0,Physics,Class Test,2025-08-20,85,97,low,6,82.0,0,B,Good,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+748.0,Mehedi Hasan,10.0,English,Final Exam,2025-08-21,74,76,high,10,78.0,2,B-,Average,Pass,Low Risk,0.03428571428571425,85.6,Very High
+417.0,Mim Akter,10.0,Math,Final Exam,2025-08-22,63,72,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+776.0,Mehedi Hasan,10.0,Physics,Class Test,2025-08-23,38,73,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.3371540134701899,63.8,High
+324.0,Tanvir Alam,10.0,Math,Mid Exam,2025-08-24,37,58,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.3566190476190476,34.8,Low
+918.0,Nusrat Hossain,10.0,Math,Final Exam,2025-08-25,36,84,low,10,82.0,0,B,Good,Pass,Low Risk,0.007499999999999951,50.4,Medium
+333.0,Sakib Khan,10.0,Math,Class Test,2025-08-26,65,60,high,7,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+783.0,Mim Akter,10.0,Computer,Final Exam,2025-08-27,47,69,low,6,78.0,0,B-,Average,Pass,Low Risk,0.20352380952380955,41.4,Medium
+763.0,Tanvir Alam,10.0,Bangla,Class Test,2025-08-28,32,86,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+926.0,Tanvir Alam,10.0,Math,Mid Exam,2025-08-29,57,91,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+473.0,Tania Jahan,10.0,Computer,Final Exam,2025-08-30,99,66,high,9,78.0,2,B-,Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+771.0,Mehedi Hasan,10.0,English,Class Test,2025-08-31,73,96,high,5,58.0,2,D-,Poor,Fail,Low Risk,0.2292165473415474,97.6,Very High
+707.0,Ayesha Rahman,10.0,Physics,Final Exam,2025-09-01,50,80,high,9,58.0,2,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+571.0,Ayesha Rahman,10.0,Bangla,Final Exam,2025-09-02,57,57,high,8,68.0,2,C-,Below Average,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+332.0,Mim Akter,10.0,Physics,Final Exam,2025-09-03,83,64,medium,10,82.0,1,B,Good,Pass,High Risk,0.7560452831482244,58.4,Medium
+791.0,Nusrat Hossain,10.0,Bangla,Final Exam,2025-09-04,83,80,high,10,58.0,2,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+212.0,Ayesha Rahman,10.0,Physics,Class Test,2025-09-05,94,79,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.0,47.4,Medium
+929.0,Sakib Khan,10.0,Bangla,Mid Exam,2025-09-06,50,95,medium,8,78.0,1,B-,Average,Pass,Low Risk,0.007333333333333303,77.0,High
+596.0,Ayesha Rahman,10.0,Physics,Class Test,2025-09-07,42,69,medium,5,95.0,1,A+,Excellent,Pass,Low Risk,0.3861904761904763,61.4,High
+541.0,Mim Akter,10.0,Physics,Class Test,2025-09-08,86,88,high,10,82.0,2,B,Good,Pass,Low Risk,0.0,92.8,Very High
+663.0,Ayesha Rahman,10.0,Physics,Class Test,2025-09-09,78,61,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.004865967365967339,56.6,Medium
+367.0,Sakib Khan,10.0,Physics,Mid Exam,2025-09-10,83,98,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.28541602841602876,98.8,Very High
+609.0,Tania Jahan,10.0,English,Final Exam,2025-09-11,39,66,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+906.0,Nusrat Hossain,10.0,Math,Final Exam,2025-09-12,82,91,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.27863007773586224,94.6,Very High
+485.0,Mim Akter,10.0,Biology,Final Exam,2025-09-13,73,79,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.0,67.4,High
+486.0,Tania Jahan,10.0,Computer,Mid Exam,2025-09-14,76,78,low,10,78.0,0,B-,Average,Pass,Low Risk,0.0,46.8,Medium
+212.0,Tania Jahan,10.0,Biology,Final Exam,2025-09-15,82,68,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+712.0,Tania Jahan,10.0,Biology,Mid Exam,2025-09-16,75,60,low,5,78.0,0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+724.0,Tanvir Alam,10.0,Bangla,Final Exam,2025-09-17,42,60,low,6,78.0,0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+180.0,Nusrat Hossain,10.0,Math,Final Exam,2025-09-18,66,60,medium,9,82.0,1,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+798.0,Mehedi Hasan,10.0,Bangla,Class Test,2025-09-19,53,99,low,8,82.0,0,B,Good,Pass,Low Risk,0.31485556110556123,59.4,Medium
+212.0,Nusrat Hossain,10.0,Math,Mid Exam,2025-09-20,31,56,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.0,53.6,Medium
+101.0,Tanvir Alam,10.0,Math,Class Test,2025-09-21,43,93,low,6,58.0,0,D-,Poor,Fail,Medium Risk,0.6507261904761905,55.8,Medium
+741.0,Mehedi Hasan,10.0,Physics,Class Test,2025-09-22,39,83,medium,5,50.0,1,F,Poor,Fail,Low Risk,0.1860046897546901,69.8,High
+319.0,Nusrat Hossain,10.0,English,Class Test,2025-09-23,64,69,low,8,82.0,0,B,Good,Pass,Low Risk,0.20352380952380955,41.4,Medium
+665.0,Tania Jahan,10.0,Physics,Mid Exam,2025-09-24,54,60,high,9,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+954.0,Mim Akter,10.0,English,Mid Exam,2025-09-25,32,87,high,7,82.0,2,B,Good,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+835.0,Mehedi Hasan,10.0,Bangla,Final Exam,2025-09-26,46,73,medium,5,82.0,1,B,Good,Pass,Low Risk,0.3371540134701899,63.8,High
+324.0,Sakib Khan,10.0,English,Class Test,2025-09-27,41,59,high,9,78.0,2,B-,Average,Pass,Low Risk,0.01778662565504674,75.4,High
+484.0,Sakib Khan,10.0,Bangla,Final Exam,2025-09-28,83,81,low,9,90.0,0,A,Excellent,Pass,Medium Risk,0.5218769841269839,48.6,Medium
+502.0,Ayesha Rahman,10.0,Biology,Class Test,2025-09-29,53,64,low,6,78.0,0,B-,Average,Pass,Low Risk,0.3854563492063491,38.4,Low
+737.0,Mehedi Hasan,10.0,Biology,Mid Exam,2025-09-30,58,86,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.1090243367743372,91.6,Very High
+229.0,Mim Akter,10.0,English,Mid Exam,2025-10-01,72,69,high,5,78.0,2,B-,Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+152.0,Tanvir Alam,10.0,English,Mid Exam,2025-10-02,54,52,medium,10,50.0,1,F,Poor,Fail,Low Risk,0.37448520923520934,51.2,Medium
+783.0,Tania Jahan,10.0,Bangla,Class Test,2025-10-03,89,86,high,10,82.1,2,B,Good,Pass,Low Risk,0.1090243367743372,91.6,Very High
+829.0,Ayesha Rahman,10.0,Physics,Mid Exam,2025-10-04,94,89,medium,9,68.0,1,C-,Below Average,Pass,Medium Risk,0.4154589577089578,73.4,High
+771.0,Sakib Khan,10.0,Bangla,Class Test,2025-10-05,57,57,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+809.0,Tanvir Alam,10.0,Physics,Final Exam,2025-10-06,45,89,low,7,95.0,0,A+,Excellent,Pass,Low Risk,0.34098187923187917,53.4,Medium
+515.0,Tanvir Alam,10.0,Biology,Class Test,2025-10-07,76,93,high,7,68.0,2,C-,Below Average,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+346.0,Tania Jahan,10.0,Math,Final Exam,2025-10-08,87,72,low,9,68.0,0,C-,Below Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+935.0,Mehedi Hasan,10.0,English,Class Test,2025-10-09,56,89,low,6,78.0,0,B-,Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+538.0,Sakib Khan,10.0,Physics,Final Exam,2025-10-10,82,60,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+302.0,Mim Akter,10.0,Bangla,Mid Exam,2025-10-11,71,60,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+283.0,Tanvir Alam,10.0,Biology,Final Exam,2025-10-12,88,57,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+222.0,Tania Jahan,10.0,Physics,Mid Exam,2025-10-13,76,78,low,7,95.0,0,A+,Excellent,Pass,Low Risk,0.0,46.8,Medium
+500.0,Mim Akter,10.0,Bangla,Mid Exam,2025-10-14,63,79,low,6,83.8,0,B+,Good,Pass,Low Risk,0.0,47.4,Medium
+866.0,Mehedi Hasan,10.0,English,Final Exam,2025-10-15,66,60,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+393.0,Sakib Khan,10.0,English,Class Test,2025-10-16,35,88,high,7,82.0,2,B,Good,Pass,Low Risk,0.0,92.8,Very High
+379.0,Mehedi Hasan,10.0,Computer,Class Test,2025-10-17,36,77,high,5,82.0,2,B,Good,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+936.0,Tanvir Alam,10.0,Math,Class Test,2025-10-18,54,98,medium,5,68.0,1,C-,Below Average,Pass,High Risk,0.7269527417027417,78.8,High
+983.0,Mim Akter,10.0,Computer,Class Test,2025-10-19,62,85,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.31039285714285714,71.0,High
+709.0,Mim Akter,10.0,Biology,Class Test,2025-10-20,84,62,high,10,82.0,2,B,Good,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+297.0,Mim Akter,10.0,Physics,Mid Exam,2025-10-21,87,81,medium,8,58.0,1,D-,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+610.0,Tanvir Alam,10.0,Biology,Class Test,2025-10-22,36,85,high,10,50.0,2,F,Poor,Fail,Low Risk,0.01666666666666672,91.0,Very High
+851.0,Tanvir Alam,10.0,Bangla,Mid Exam,2025-10-23,86,60,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+243.0,Mehedi Hasan,10.0,English,Mid Exam,2025-10-24,41,75,low,6,90.0,0,A,Excellent,Pass,Low Risk,0.022333333333333205,45.0,Medium
+708.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-10-25,45,71,low,6,90.0,0,A,Excellent,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+300.0,Mehedi Hasan,10.0,Computer,Final Exam,2025-10-26,72,53,high,10,78.0,2,B-,Average,Pass,Medium Risk,0.4522572879476904,71.8,High
+223.0,Sakib Khan,10.0,Computer,Final Exam,2025-10-27,36,80,high,8,90.0,2,A,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+286.0,Tania Jahan,10.0,Biology,Mid Exam,2025-10-28,80,67,high,9,74.4,2,C+,Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+425.0,Mim Akter,10.0,English,Final Exam,2025-10-29,61,87,high,10,50.0,2,F,Poor,Fail,Low Risk,0.22901962824756938,92.19999999999999,Very High
+563.0,Ayesha Rahman,10.0,Physics,Class Test,2025-10-30,37,73,high,8,82.0,2,B,Good,Pass,High Risk,0.7816825396825396,83.8,Very High
+448.0,Tania Jahan,10.0,Bangla,Class Test,2025-10-31,74,60,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+870.0,Ayesha Rahman,10.0,Physics,Mid Exam,2025-11-01,88,60,medium,5,50.0,1,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+759.0,Nusrat Hossain,10.0,Biology,Class Test,2025-11-02,33,51,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.2330218253968258,70.6,High
+863.0,Mehedi Hasan,10.0,Bangla,Mid Exam,2025-11-03,96,80,high,7,90.0,2,A,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+502.0,Tanvir Alam,10.0,Computer,Mid Exam,2025-11-04,58,60,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+445.0,Mim Akter,10.0,Math,Class Test,2025-11-05,58,77,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+610.0,Mehedi Hasan,10.0,Biology,Final Exam,2025-11-06,57,95,high,8,50.0,2,F,Poor,Fail,Low Risk,0.202268763486256,97.0,Very High
+246.0,Tania Jahan,10.0,Biology,Class Test,2025-11-07,73,81,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.35945050855577176,68.6,High
+247.0,Nusrat Hossain,10.0,English,Class Test,2025-11-08,33,54,medium,10,95.0,1,A+,Excellent,Pass,Low Risk,0.19259523809523826,52.4,Medium
+963.0,Nusrat Hossain,10.0,Physics,Mid Exam,2025-11-09,38,87,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+810.0,Nusrat Hossain,10.0,Biology,Mid Exam,2025-11-10,34,59,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+919.0,Tania Jahan,10.0,Biology,Mid Exam,2025-11-11,85,89,medium,5,95.0,1,A+,Excellent,Pass,Medium Risk,0.4154589577089578,73.4,High
+588.0,Tania Jahan,10.0,Computer,Mid Exam,2025-11-12,79,95,high,10,78.0,2,B-,Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+739.0,Tania Jahan,10.0,Computer,Final Exam,2025-11-13,44,73,medium,7,50.0,1,F,Poor,Fail,Low Risk,0.3371540134701899,63.8,High
+650.0,Tania Jahan,10.0,Bangla,Final Exam,2025-11-14,61,84,high,6,50.0,2,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+437.0,Nusrat Hossain,10.0,Math,Final Exam,2025-11-15,57,93,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+971.0,Nusrat Hossain,10.0,English,Mid Exam,2025-11-16,51,97,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+740.0,Ayesha Rahman,10.0,Math,Mid Exam,2025-11-17,46,72,high,8,82.0,2,B,Good,Pass,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+878.0,Mehedi Hasan,10.0,Bangla,Mid Exam,2025-11-18,88,66,high,6,58.0,2,D-,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+572.0,Mim Akter,10.0,Computer,Final Exam,2025-11-19,100,50,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.36729761904761904,50.0,Medium
+250.0,Tanvir Alam,10.0,Physics,Mid Exam,2025-11-20,86,80,high,5,50.0,2,F,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+514.0,Nusrat Hossain,10.0,Computer,Class Test,2025-11-21,55,80,high,8,82.0,2,B,Good,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+397.0,Tanvir Alam,10.0,English,Class Test,2025-11-22,54,91,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.27863007773586224,94.6,Very High
+710.0,Mehedi Hasan,10.0,Computer,Mid Exam,2025-11-23,39,91,high,6,58.0,2,D-,Poor,Fail,Low Risk,0.27863007773586224,94.6,Very High
+362.0,Mehedi Hasan,10.0,English,Class Test,2025-11-24,74,83,low,5,58.0,0,D-,Poor,Fail,Medium Risk,0.5645,49.8,Medium
+863.0,Tanvir Alam,10.0,English,Class Test,2025-11-25,40,58,low,7,90.0,0,A,Excellent,Pass,Low Risk,0.3566190476190476,34.8,Low
+243.0,Nusrat Hossain,10.0,English,Final Exam,2025-11-26,82,71,medium,6,58.0,1,D-,Poor,Fail,Medium Risk,0.5061349206349206,62.6,High
+445.0,Tanvir Alam,10.0,Bangla,Mid Exam,2025-11-27,97,62,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+723.0,Ayesha Rahman,10.0,English,Mid Exam,2025-11-28,57,74,medium,9,84.2,1,B+,Good,Pass,Low Risk,0.09967031987620245,64.4,High
+671.0,Sakib Khan,10.0,English,Final Exam,2025-11-29,94,97,high,7,50.0,2,F,Poor,Fail,Low Risk,0.2418120144819066,98.19999999999999,Very High
+980.0,Nusrat Hossain,10.0,Physics,Class Test,2025-11-30,78,67,high,9,78.0,2,B-,Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+101.0,Nusrat Hossain,10.0,Math,Class Test,2025-12-01,76,100,low,10,74.6,0,C+,Average,Pass,Low Risk,0.0,60.0,Medium
+996.0,Mim Akter,10.0,Biology,Mid Exam,2025-12-02,81,61,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+403.0,Tania Jahan,10.0,Math,Class Test,2025-12-03,83,89,medium,9,68.0,1,C-,Below Average,Pass,Medium Risk,0.4154589577089578,73.4,High
+353.0,Sakib Khan,10.0,English,Final Exam,2025-12-04,89,66,low,10,95.0,0,A+,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+751.0,Mehedi Hasan,10.0,Physics,Final Exam,2025-12-05,86,64,low,5,78.0,0,B-,Average,Pass,Low Risk,0.3854563492063491,38.4,Low
+552.0,Nusrat Hossain,10.0,Computer,Mid Exam,2025-12-06,76,91,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.008910256410256445,54.6,Medium
+136.0,Tanvir Alam,10.0,Physics,Final Exam,2025-12-07,60,64,low,9,58.0,0,D-,Poor,Fail,Low Risk,0.3854563492063491,38.4,Low
+259.0,Sakib Khan,10.0,English,Final Exam,2025-12-08,75,60,low,5,90.0,0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+108.0,Mim Akter,10.0,Physics,Mid Exam,2025-12-09,55,88,medium,6,50.0,1,F,Poor,Fail,Low Risk,0.3490050505050506,72.8,High
+332.0,Mehedi Hasan,10.0,Physics,Final Exam,2025-12-10,34,62,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+198.0,Tania Jahan,10.0,English,Final Exam,2025-12-11,81,66,low,8,50.0,0,F,Poor,Fail,Low Risk,0.0070606060606058785,39.6,Low
+758.0,Tania Jahan,10.0,Bangla,Final Exam,2025-12-12,83,60,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+915.0,Mim Akter,10.0,Physics,Class Test,2025-12-13,62,58,high,5,58.0,2,D-,Poor,Fail,Low Risk,0.025719017094017138,74.8,High
+307.0,Mim Akter,10.0,Biology,Mid Exam,2025-12-14,79,60,low,8,73.2,0,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+230.0,Tanvir Alam,10.0,Biology,Mid Exam,2025-12-15,67,69,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+503.0,Nusrat Hossain,10.0,Physics,Mid Exam,2025-12-16,56,75,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.1250811133311136,65.0,High
+251.0,Tania Jahan,10.0,Bangla,Class Test,2025-12-17,44,60,medium,9,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+153.0,Mehedi Hasan,10.0,Computer,Class Test,2025-12-18,90,70,high,6,53.4,2,F,Poor,Fail,High Risk,1.0,82.0,Very High
+219.0,Sakib Khan,10.0,English,Mid Exam,2025-12-19,50,67,medium,10,50.0,1,F,Poor,Fail,Medium Risk,0.5161599511599512,60.199999999999996,High
+772.0,Mehedi Hasan,10.0,Biology,Class Test,2025-12-20,75,62,low,6,90.0,0,A,Excellent,Pass,Medium Risk,0.5419942279942279,37.199999999999996,Low
+727.0,Ayesha Rahman,10.0,Computer,Mid Exam,2025-12-21,98,65,high,7,77.5,2,B-,Average,Pass,Low Risk,0.0,79.0,High
+686.0,Ayesha Rahman,10.0,Physics,Class Test,2025-12-22,35,58,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.3566190476190476,34.8,Low
+724.0,Mim Akter,10.0,Computer,Final Exam,2025-12-23,67,61,high,9,82.0,2,B,Good,Pass,Low Risk,0.3639055299539171,76.6,High
+519.0,Tanvir Alam,10.0,Math,Final Exam,2025-12-24,91,93,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.2156293894014486,75.8,High
+521.0,Ayesha Rahman,10.0,Biology,Mid Exam,2025-12-25,91,87,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+203.0,Tania Jahan,10.0,Physics,Class Test,2025-12-26,75,68,high,6,50.0,2,F,Poor,Fail,Low Risk,0.22379761904761908,80.8,Very High
+951.0,Mehedi Hasan,10.0,English,Class Test,2025-12-27,42,56,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.0,53.6,Medium
+353.0,Mehedi Hasan,10.0,Bangla,Final Exam,2025-12-28,32,84,medium,5,90.8,1,A,Excellent,Pass,Low Risk,0.0,70.4,High
+326.0,Mim Akter,10.0,Physics,Final Exam,2025-12-29,35,97,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.18839718614718648,58.199999999999996,Medium
+211.0,Nusrat Hossain,10.0,English,Class Test,2025-12-30,37,60,medium,6,82.0,1,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+609.0,Nusrat Hossain,10.0,Bangla,Class Test,2025-12-31,73,65,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.17486688311688336,39.0,Low
+572.0,Sakib Khan,10.0,Bangla,Class Test,2026-01-01,62,88,high,9,78.0,2,B-,Average,Pass,Low Risk,0.0,92.8,Very High
+198.0,Mim Akter,10.0,Physics,Class Test,2026-01-02,79,60,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+252.0,Sakib Khan,10.0,Computer,Class Test,2026-01-03,40,74,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.09967031987620245,64.4,High
+960.0,Nusrat Hossain,10.0,Computer,Class Test,2026-01-04,57,81,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+995.0,Mim Akter,10.0,Bangla,Mid Exam,2026-01-05,99,89,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+977.0,Mim Akter,10.0,Computer,Class Test,2026-01-06,70,62,medium,10,72.2,1,C,Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+437.0,Mim Akter,10.0,Math,Final Exam,2026-01-07,45,94,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.2735833333333332,56.4,Medium
+805.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2026-01-08,97,66,high,9,50.0,2,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+921.0,Sakib Khan,10.0,Bangla,Class Test,2026-01-09,77,60,medium,8,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+262.0,Sakib Khan,10.0,English,Final Exam,2026-01-10,85,86,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.007857142857142896,71.6,High
+819.0,Mim Akter,10.0,Computer,Mid Exam,2026-01-11,93,55,low,7,50.0,0,F,Poor,Fail,Medium Risk,0.4428888888888889,33.0,Low
+780.0,Ayesha Rahman,10.0,Bangla,Final Exam,2026-01-12,88,68,low,8,68.0,0,C-,Below Average,Pass,Medium Risk,0.4888571428571429,40.8,Medium
+260.0,Tanvir Alam,10.0,Math,Class Test,2026-01-13,91,62,high,7,78.0,2,B-,Average,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+679.0,Nusrat Hossain,10.0,English,Class Test,2026-01-14,40,75,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.1250811133311136,65.0,High
+900.0,Tanvir Alam,10.0,Physics,Class Test,2026-01-15,47,63,low,5,82.0,0,B,Good,Pass,Low Risk,0.182105339105339,37.8,Low
+497.0,Tanvir Alam,10.0,Bangla,Class Test,2026-01-16,48,80,high,9,58.0,2,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+376.0,Sakib Khan,10.0,Math,Mid Exam,2026-01-17,84,53,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.12450000000000017,51.8,Medium
+915.0,Sakib Khan,10.0,Biology,Mid Exam,2026-01-18,55,88,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.3490050505050506,72.8,High
+603.0,Ayesha Rahman,10.0,Math,Final Exam,2026-01-19,35,57,high,9,82.0,2,B,Good,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+995.0,Tanvir Alam,10.0,Math,Class Test,2026-01-20,33,74,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+491.0,Tanvir Alam,10.0,English,Final Exam,2026-01-21,58,62,low,6,66.7,0,D+,Below Average,Pass,Medium Risk,0.5419942279942279,37.199999999999996,Low
+234.0,Mim Akter,10.0,Physics,Mid Exam,2026-01-22,88,81,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.35945050855577176,68.6,High
+294.0,Sakib Khan,10.0,Biology,Class Test,2026-01-23,46,87,medium,6,50.0,1,F,Poor,Fail,Medium Risk,0.5003214285714286,72.19999999999999,High
+500.0,Tanvir Alam,10.0,Computer,Class Test,2026-01-24,72,87,medium,5,68.0,1,C-,Below Average,Pass,Medium Risk,0.5003214285714286,72.19999999999999,High
+739.0,Mehedi Hasan,10.0,Computer,Mid Exam,2026-01-25,95,77,high,6,82.0,2,B,Good,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+132.0,Ayesha Rahman,10.0,Math,Mid Exam,2026-01-26,63,79,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.0,47.4,Medium
+787.0,Mehedi Hasan,10.0,English,Mid Exam,2026-01-27,37,52,medium,10,68.0,1,C-,Below Average,Pass,Low Risk,0.37448520923520934,51.2,Medium
+559.0,Mehedi Hasan,10.0,English,Mid Exam,2026-01-28,42,77,high,8,50.0,2,F,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+982.0,Nusrat Hossain,10.0,Computer,Mid Exam,2026-01-29,37,52,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.37448520923520934,51.2,Medium
+569.0,Nusrat Hossain,10.0,Biology,Class Test,2026-01-30,94,94,low,6,71.4,0,C,Average,Pass,Low Risk,0.2735833333333332,56.4,Medium
+474.0,Ayesha Rahman,10.0,Physics,Mid Exam,2026-01-31,72,83,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.1860046897546901,69.8,High
+121.0,Mehedi Hasan,10.0,Biology,Class Test,2026-02-01,68,65,low,7,50.0,0,F,Poor,Fail,Low Risk,0.17486688311688336,39.0,Low
+849.0,Tanvir Alam,10.0,Bangla,Class Test,2026-02-02,88,60,low,6,90.0,0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+769.0,Sakib Khan,10.0,Bangla,Mid Exam,2026-02-03,73,81,medium,5,50.0,1,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+137.0,Ayesha Rahman,10.0,Physics,Mid Exam,2026-02-04,38,87,medium,6,82.0,1,B,Good,Pass,Medium Risk,0.5003214285714286,72.19999999999999,High
+329.0,Mim Akter,10.0,Computer,Class Test,2026-02-05,66,57,low,7,95.0,0,A+,Excellent,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+464.0,Mehedi Hasan,10.0,Physics,Mid Exam,2026-02-06,65,57,high,5,82.1,2,B,Good,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+662.0,Ayesha Rahman,10.0,English,Mid Exam,2026-02-07,57,60,low,8,58.0,0,D-,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+537.0,Tania Jahan,10.0,Bangla,Mid Exam,2026-02-08,71,63,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.12037515262515286,57.8,Medium
+875.0,Tania Jahan,10.0,Math,Final Exam,2026-02-09,72,81,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.35945050855577176,68.6,High
+382.0,Nusrat Hossain,10.0,Math,Class Test,2026-02-10,71,84,high,5,82.0,2,B,Good,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+126.0,Sakib Khan,10.0,Computer,Final Exam,2026-02-11,95,59,low,7,50.0,0,F,Poor,Fail,Low Risk,0.10713438359026639,35.4,Low
+325.0,Tanvir Alam,10.0,English,Mid Exam,2026-02-12,84,52,low,7,78.0,0,B-,Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+376.0,Sakib Khan,10.0,Biology,Final Exam,2026-02-13,77,60,low,5,73.2,0,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+897.0,Sakib Khan,10.0,English,Mid Exam,2026-02-14,51,98,medium,6,82.0,1,B,Good,Pass,High Risk,0.7269527417027417,78.8,High
+708.0,Sakib Khan,10.0,Math,Final Exam,2026-02-15,56,80,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.0,48.0,Medium
+383.0,Sakib Khan,10.0,Math,Mid Exam,2026-02-16,96,78,high,8,78.0,2,B-,Average,Pass,Low Risk,0.34269078144078147,86.8,Very High
+978.0,Mim Akter,10.0,Bangla,Final Exam,2026-02-17,42,54,medium,8,82.0,1,B,Good,Pass,Low Risk,0.19259523809523826,52.4,Medium
+580.0,Mim Akter,10.0,English,Final Exam,2026-02-18,74,74,medium,9,84.2,1,B+,Good,Pass,Low Risk,0.09967031987620245,64.4,High
+552.0,Nusrat Hossain,10.0,English,Final Exam,2026-02-19,39,90,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.31421545121545125,54.0,Medium
+928.0,Ayesha Rahman,10.0,Math,Class Test,2026-02-20,38,80,high,10,90.0,2,A,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+915.0,Tania Jahan,10.0,Biology,Final Exam,2026-02-21,83,60,medium,10,82.0,1,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+758.0,Sakib Khan,10.0,Computer,Class Test,2026-02-22,56,69,medium,8,67.9,1,C-,Below Average,Pass,Low Risk,0.3861904761904763,61.4,High
+615.0,Nusrat Hossain,10.0,Computer,Mid Exam,2026-02-23,63,88,low,9,95.0,0,A+,Excellent,Pass,Medium Risk,0.525686507936508,52.8,Medium
+646.0,Ayesha Rahman,10.0,English,Final Exam,2026-02-24,30,71,low,10,68.0,0,C-,Below Average,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+291.0,Tania Jahan,10.0,Computer,Mid Exam,2026-02-25,61,53,high,10,50.0,2,F,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+148.0,Mehedi Hasan,10.0,Math,Mid Exam,2026-02-26,100,62,low,5,50.0,0,F,Poor,Fail,Medium Risk,0.5419942279942279,37.199999999999996,Low
+611.0,Tanvir Alam,10.0,Math,Final Exam,2026-02-27,96,94,high,5,58.0,2,D-,Poor,Fail,Low Risk,0.13327453102453102,96.4,Very High
+116.0,Mim Akter,10.0,English,Class Test,2026-02-28,49,91,medium,5,58.0,1,D-,Poor,Fail,High Risk,0.8683333333333334,74.6,High
+271.0,Mehedi Hasan,10.0,English,Final Exam,2026-03-01,64,99,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.0,99.4,Very High
+319.0,Tania Jahan,10.0,Bangla,Mid Exam,2026-03-02,46,98,high,10,76.5,2,C+,Average,Pass,Low Risk,0.28541602841602876,98.8,Very High
+257.0,Mehedi Hasan,10.0,English,Mid Exam,2026-03-03,47,69,high,6,78.0,2,B-,Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+576.0,Tanvir Alam,10.0,Biology,Final Exam,2026-03-04,74,62,medium,9,82.0,1,B,Good,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+145.0,Nusrat Hossain,10.0,Computer,Class Test,2026-03-05,82,60,low,8,50.0,0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+472.0,Tania Jahan,10.0,English,Class Test,2026-03-06,97,85,high,10,90.0,2,A,Excellent,Pass,Low Risk,0.01666666666666672,91.0,Very High
+617.0,Mehedi Hasan,10.0,Physics,Mid Exam,2026-03-07,94,82,low,8,82.0,0,B,Good,Pass,Low Risk,0.08050000000000002,49.199999999999996,Medium
+198.0,Mim Akter,10.0,Bangla,Mid Exam,2026-03-08,30,50,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.09328463203463211,70.0,High
+991.0,Mim Akter,10.0,Physics,Class Test,2026-03-09,87,60,high,10,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+844.0,Ayesha Rahman,10.0,Math,Final Exam,2026-03-10,55,62,high,7,82.0,2,B,Good,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+136.0,Mehedi Hasan,10.0,Computer,Mid Exam,2026-03-11,49,66,high,6,82.0,2,B,Good,Pass,Medium Risk,0.4877518599821231,79.6,High
+379.0,Sakib Khan,10.0,English,Class Test,2026-03-12,39,73,high,6,50.0,2,F,Poor,Fail,High Risk,0.7816825396825396,83.8,Very High
+448.0,Mehedi Hasan,10.0,Physics,Mid Exam,2026-03-13,88,57,low,10,78.0,0,B-,Average,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+596.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-03-14,70,99,low,5,50.0,0,F,Poor,Fail,Low Risk,0.31485556110556123,59.4,Medium
+401.0,Tania Jahan,10.0,Math,Class Test,2026-03-15,34,76,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.03428571428571425,85.6,Very High
+280.0,Tania Jahan,10.0,Biology,Mid Exam,2026-03-16,94,60,medium,5,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+706.0,Nusrat Hossain,10.0,Bangla,Final Exam,2026-03-17,46,72,medium,9,70.9,1,C,Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+198.0,Mehedi Hasan,10.0,Computer,Mid Exam,2026-03-18,51,95,high,8,58.0,2,D-,Poor,Fail,Low Risk,0.202268763486256,97.0,Very High
+799.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-03-19,70,57,low,7,78.0,0,B-,Average,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+215.0,Tanvir Alam,10.0,Biology,Final Exam,2026-03-20,97,57,medium,8,82.0,1,B,Good,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+290.0,Nusrat Hossain,10.0,Computer,Class Test,2026-03-21,98,75,medium,8,50.0,1,F,Poor,Fail,Low Risk,0.1250811133311136,65.0,High
+352.0,Mim Akter,10.0,Math,Final Exam,2026-03-22,40,96,medium,9,81.0,1,B,Good,Pass,Low Risk,0.0,77.6,High
+260.0,Nusrat Hossain,10.0,Math,Mid Exam,2026-03-23,85,62,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+355.0,Tania Jahan,10.0,Biology,Final Exam,2026-03-24,80,88,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.3490050505050506,72.8,High
+422.0,Mim Akter,10.0,Bangla,Final Exam,2026-03-25,50,86,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.007857142857142896,71.6,High
+227.0,Tania Jahan,10.0,English,Class Test,2026-03-26,55,98,medium,10,60.1,1,D,Below Average,Pass,High Risk,0.7269527417027417,78.8,High
+117.0,Ayesha Rahman,10.0,Physics,Final Exam,2026-03-27,48,77,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.0,66.19999999999999,High
+892.0,Sakib Khan,10.0,English,Final Exam,2026-03-28,89,74,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+834.0,Tania Jahan,10.0,Computer,Mid Exam,2026-03-29,100,65,high,5,77.5,2,B-,Average,Pass,Low Risk,0.0,79.0,High
+665.0,Mim Akter,10.0,Physics,Class Test,2026-03-30,76,51,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+669.0,Ayesha Rahman,10.0,Biology,Class Test,2026-03-31,100,67,low,6,90.0,0,A,Excellent,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+422.0,Tania Jahan,10.0,Biology,Class Test,2026-04-01,55,66,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+971.0,Tanvir Alam,10.0,Bangla,Final Exam,2026-04-02,69,79,high,5,78.0,2,B-,Average,Pass,Low Risk,0.2977370962370962,87.4,Very High
+785.0,Nusrat Hossain,10.0,Physics,Class Test,2026-04-03,34,88,medium,9,58.0,1,D-,Poor,Fail,Low Risk,0.3490050505050506,72.8,High
+891.0,Sakib Khan,10.0,Math,Final Exam,2026-04-04,50,62,medium,10,68.0,1,C-,Below Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+725.0,Tania Jahan,10.0,Physics,Final Exam,2026-04-05,33,81,high,10,84.3,2,B+,Good,Pass,Low Risk,0.011472527472527472,88.6,Very High
+387.0,Ayesha Rahman,10.0,Computer,Mid Exam,2026-04-06,52,99,medium,6,90.0,1,A,Excellent,Pass,Low Risk,0.09347366522366518,79.4,High
+953.0,Tanvir Alam,10.0,Math,Mid Exam,2026-04-07,44,78,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.0,46.8,Medium
+762.0,Mehedi Hasan,10.0,Biology,Mid Exam,2026-04-08,37,60,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+738.0,Ayesha Rahman,10.0,Physics,Mid Exam,2026-04-09,70,79,medium,9,78.0,1,B-,Average,Pass,Low Risk,0.0,67.4,High
+254.0,Nusrat Hossain,10.0,English,Mid Exam,2026-04-10,48,67,medium,8,64.5,1,D+,Below Average,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+589.0,Ayesha Rahman,10.0,Bangla,Final Exam,2026-04-11,75,62,high,8,68.0,2,C-,Below Average,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+485.0,Tanvir Alam,10.0,English,Final Exam,2026-04-12,57,92,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+884.0,Ayesha Rahman,10.0,Bangla,Class Test,2026-04-13,97,60,medium,6,50.0,1,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+203.0,Tanvir Alam,10.0,Computer,Final Exam,2026-04-14,44,79,high,5,67.7,2,C-,Below Average,Pass,Low Risk,0.2977370962370962,87.4,Very High
+492.0,Tania Jahan,10.0,English,Final Exam,2026-04-15,66,70,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.3187095404595405,62.0,High
+910.0,Tanvir Alam,10.0,Physics,Mid Exam,2026-04-16,30,97,low,5,82.0,0,B,Good,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+345.0,Tanvir Alam,10.0,Physics,Final Exam,2026-04-17,96,66,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.0,59.6,Medium
+275.0,Sakib Khan,10.0,English,Mid Exam,2026-04-18,53,89,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+138.0,Tanvir Alam,10.0,Physics,Class Test,2026-04-19,56,68,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.22232142857142845,60.8,High
+576.0,Tanvir Alam,10.0,Computer,Class Test,2026-04-20,69,64,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.3854563492063491,38.4,Low
+781.0,Mehedi Hasan,10.0,Math,Final Exam,2026-04-21,92,58,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.0,54.8,Medium
+858.0,Tania Jahan,10.0,Computer,Class Test,2026-04-22,90,59,low,7,83.3,0,B+,Good,Pass,Low Risk,0.10713438359026639,35.4,Low
+637.0,Nusrat Hossain,10.0,Bangla,Final Exam,2026-04-23,65,93,medium,10,68.0,1,C-,Below Average,Pass,Low Risk,0.2156293894014486,75.8,High
+966.0,Sakib Khan,10.0,Computer,Class Test,2026-04-24,53,80,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.005555555555555536,68.0,High
+917.0,Mehedi Hasan,10.0,Bangla,Mid Exam,2026-04-25,53,72,high,8,58.0,2,D-,Poor,Fail,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+507.0,Mim Akter,10.0,Physics,Mid Exam,2026-04-26,33,79,high,6,50.0,2,F,Poor,Fail,Low Risk,0.2977370962370962,87.4,Very High
+624.0,Tania Jahan,10.0,Math,Mid Exam,2026-04-27,96,82,medium,8,78.0,1,B-,Average,Pass,Medium Risk,0.6174786324786324,69.19999999999999,High
+927.0,Tania Jahan,10.0,Physics,Mid Exam,2026-04-28,63,58,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.0,54.8,Medium
+605.0,Mim Akter,10.0,Biology,Final Exam,2026-04-29,86,96,low,7,83.9,0,B+,Good,Pass,Low Risk,0.0,57.599999999999994,Medium
+924.0,Nusrat Hossain,10.0,Physics,Class Test,2026-04-30,78,60,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+135.0,Tanvir Alam,10.0,Bangla,Final Exam,2026-05-01,82,93,low,8,50.0,0,F,Poor,Fail,Medium Risk,0.6507261904761905,55.8,Medium
+784.0,Mehedi Hasan,10.0,Physics,Mid Exam,2026-05-02,52,84,low,9,82.0,0,B,Good,Pass,Low Risk,0.007499999999999951,50.4,Medium
+119.0,Ayesha Rahman,10.0,Physics,Final Exam,2026-05-03,98,60,high,10,95.0,2,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+420.0,Sakib Khan,10.0,Math,Class Test,2026-05-04,82,60,medium,10,68.0,1,C-,Below Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+875.0,Ayesha Rahman,10.0,Physics,Final Exam,2026-05-05,91,65,low,9,82.0,0,B,Good,Pass,Low Risk,0.17486688311688336,39.0,Low
+611.0,Mim Akter,10.0,Math,Class Test,2026-05-06,70,58,high,8,78.0,2,B-,Average,Pass,Low Risk,0.025719017094017138,74.8,High
+499.0,Tania Jahan,10.0,English,Final Exam,2026-05-07,86,81,medium,10,50.0,1,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+753.0,Nusrat Hossain,10.0,Biology,Class Test,2026-05-08,89,64,medium,6,50.0,1,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+982.0,Tania Jahan,10.0,Math,Class Test,2026-05-09,83,61,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+570.0,Sakib Khan,10.0,Bangla,Mid Exam,2026-05-10,99,82,medium,8,50.0,1,F,Poor,Fail,Medium Risk,0.6174786324786324,69.19999999999999,High
+242.0,Tania Jahan,10.0,English,Class Test,2026-05-11,86,94,medium,7,82.0,1,B,Good,Pass,Low Risk,0.22823809523809513,76.4,High
+191.0,Tania Jahan,10.0,Math,Mid Exam,2026-05-12,39,63,high,10,68.0,2,C-,Below Average,Pass,Low Risk,0.33976190476190515,77.8,High
+453.0,Sakib Khan,10.0,Math,Mid Exam,2026-05-13,69,60,high,10,70.9,2,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+933.0,Mehedi Hasan,10.0,Biology,Mid Exam,2026-05-14,36,57,high,9,58.0,2,D-,Poor,Fail,Low Risk,0.12274594849594878,74.19999999999999,High
+899.0,Mehedi Hasan,10.0,Bangla,Final Exam,2026-05-15,67,76,medium,7,82.0,1,B,Good,Pass,Low Risk,0.0045000000000000595,65.6,High
+826.0,Sakib Khan,10.0,Computer,Final Exam,2026-05-16,90,60,medium,7,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+953.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-05-17,32,50,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.3298928571428573,30.0,Low
+150.0,Mim Akter,10.0,Math,Final Exam,2026-05-18,80,92,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.14390476190476198,75.19999999999999,High
+764.0,Tania Jahan,10.0,Physics,Class Test,2026-05-19,76,89,low,7,58.0,0,D-,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+797.0,Nusrat Hossain,10.0,Bangla,Class Test,2026-05-20,97,91,high,9,82.0,2,B,Good,Pass,Low Risk,0.27863007773586224,94.6,Very High
+674.0,Tania Jahan,10.0,English,Final Exam,2026-05-21,67,100,high,7,58.0,2,D-,Poor,Fail,High Risk,0.92,100.0,Very High
+289.0,Mim Akter,10.0,Physics,Class Test,2026-05-22,65,60,medium,9,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+224.0,Mehedi Hasan,10.0,Physics,Class Test,2026-05-23,70,88,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.0,92.8,Very High
+249.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2026-05-24,98,92,high,9,82.0,2,B,Good,Pass,Low Risk,0.038931408460820216,95.19999999999999,Very High
+413.0,Tanvir Alam,10.0,Math,Mid Exam,2026-05-25,42,80,medium,7,95.0,1,A+,Excellent,Pass,Low Risk,0.005555555555555536,68.0,High
+669.0,Tanvir Alam,10.0,Math,Mid Exam,2026-05-26,87,66,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.0070606060606058785,39.6,Low
+441.0,Tanvir Alam,10.0,Math,Mid Exam,2026-05-27,79,82,medium,6,50.0,1,F,Poor,Fail,Medium Risk,0.6174786324786324,69.19999999999999,High
+404.0,Mehedi Hasan,10.0,Math,Class Test,2026-05-28,59,81,low,9,58.0,0,D-,Poor,Fail,Medium Risk,0.5218769841269839,48.6,Medium
+791.0,Mehedi Hasan,10.0,Computer,Final Exam,2026-05-29,91,78,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.0,66.8,High
+781.0,Mim Akter,10.0,Math,Class Test,2026-05-30,54,70,medium,9,72.7,1,C,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+937.0,Tania Jahan,10.0,Computer,Class Test,2026-05-31,56,70,high,5,58.0,2,D-,Poor,Fail,High Risk,1.0,82.0,Very High
+882.0,Mim Akter,10.0,Computer,Class Test,2026-06-01,80,89,medium,7,50.0,1,F,Poor,Fail,Medium Risk,0.4154589577089578,73.4,High
+153.0,Mim Akter,10.0,Math,Mid Exam,2026-06-02,86,72,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+543.0,Mehedi Hasan,10.0,Biology,Mid Exam,2026-06-03,76,55,low,10,78.0,0,B-,Average,Pass,Medium Risk,0.4428888888888889,33.0,Low
+712.0,Tanvir Alam,10.0,English,Mid Exam,2026-06-04,68,71,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.010000000000000009,82.6,Very High
+363.0,Ayesha Rahman,10.0,Physics,Final Exam,2026-06-05,45,99,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.31485556110556123,59.4,Medium
+152.0,Tania Jahan,10.0,Computer,Class Test,2026-06-06,51,87,low,9,50.0,0,F,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+671.0,Mehedi Hasan,10.0,Bangla,Final Exam,2026-06-07,83,86,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+719.0,Tanvir Alam,10.0,Bangla,Mid Exam,2026-06-08,50,94,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.13327453102453102,96.4,Very High
+104.0,Nusrat Hossain,10.0,English,Final Exam,2026-06-09,45,100,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.0,60.0,Medium
+202.0,Ayesha Rahman,10.0,Bangla,Class Test,2026-06-10,88,57,medium,10,95.0,1,A+,Excellent,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+295.0,Ayesha Rahman,10.0,Biology,Class Test,2026-06-11,60,90,high,6,50.0,2,F,Poor,Fail,Medium Risk,0.43445238095238103,94.0,Very High
+873.0,Mehedi Hasan,10.0,Bangla,Mid Exam,2026-06-12,71,98,high,9,58.0,2,D-,Poor,Fail,Low Risk,0.28541602841602876,98.8,Very High
+976.0,Sakib Khan,10.0,Physics,Mid Exam,2026-06-13,61,84,high,7,90.0,2,A,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+983.0,Tania Jahan,10.0,Physics,Final Exam,2026-06-14,88,100,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.0,60.0,Medium
+449.0,Ayesha Rahman,10.0,Computer,Mid Exam,2026-06-15,63,60,low,10,68.0,0,C-,Below Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+146.0,Mehedi Hasan,10.0,Math,Mid Exam,2026-06-16,38,73,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.3371540134701899,63.8,High
+966.0,Mehedi Hasan,10.0,Biology,Class Test,2026-06-17,40,98,low,8,78.0,0,B-,Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+922.0,Tanvir Alam,10.0,Computer,Mid Exam,2026-06-18,39,70,medium,10,78.0,1,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+919.0,Nusrat Hossain,10.0,Biology,Mid Exam,2026-06-19,46,100,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.0,60.0,Medium
+755.0,Sakib Khan,10.0,Math,Class Test,2026-06-20,97,51,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.2330218253968258,70.6,High
+368.0,Tania Jahan,10.0,Bangla,Class Test,2026-06-21,77,89,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+469.0,Mim Akter,10.0,Bangla,Final Exam,2026-06-22,81,68,medium,5,69.2,1,C-,Below Average,Pass,Low Risk,0.22232142857142845,60.8,High
+735.0,Nusrat Hossain,10.0,Math,Mid Exam,2026-06-23,54,88,low,6,50.0,0,F,Poor,Fail,Medium Risk,0.525686507936508,52.8,Medium
+205.0,Nusrat Hossain,10.0,Computer,Class Test,2026-06-24,50,77,high,6,50.0,2,F,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+769.0,Tanvir Alam,10.0,Math,Final Exam,2026-06-25,94,66,medium,5,95.0,1,A+,Excellent,Pass,Low Risk,0.0,59.6,Medium
+758.0,Ayesha Rahman,10.0,English,Final Exam,2026-06-26,92,55,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.2985634920634921,73.0,High
+756.0,Ayesha Rahman,10.0,Physics,Mid Exam,2026-06-27,80,68,high,7,58.0,2,D-,Poor,Fail,Low Risk,0.22379761904761908,80.8,Very High
+219.0,Tanvir Alam,10.0,Computer,Mid Exam,2026-06-28,65,87,high,10,78.0,2,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+930.0,Mehedi Hasan,10.0,Biology,Final Exam,2026-06-29,95,77,high,7,58.0,2,D-,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+886.0,Ayesha Rahman,10.0,English,Class Test,2026-06-30,44,51,high,5,50.0,2,F,Poor,Fail,Low Risk,0.2330218253968258,70.6,High
+703.0,Sakib Khan,10.0,Computer,Final Exam,2026-07-01,68,87,low,8,58.0,0,D-,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+157.0,Tania Jahan,10.0,Math,Mid Exam,2026-07-02,99,86,high,8,82.1,2,B,Good,Pass,Low Risk,0.1090243367743372,91.6,Very High
+445.0,Nusrat Hossain,10.0,Math,Class Test,2026-07-03,30,100,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.0,60.0,Medium
+840.0,Nusrat Hossain,10.0,Math,Class Test,2026-07-04,52,53,high,9,69.3,2,C-,Below Average,Pass,Medium Risk,0.4522572879476904,71.8,High
+573.0,Sakib Khan,10.0,Math,Final Exam,2026-07-05,68,71,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.010000000000000009,82.6,Very High
+216.0,Ayesha Rahman,10.0,Biology,Mid Exam,2026-07-06,86,75,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+929.0,Nusrat Hossain,10.0,English,Final Exam,2026-07-07,63,98,low,9,50.0,0,F,Poor,Fail,Low Risk,0.11711652236652259,58.8,Medium
+890.0,Mim Akter,10.0,Bangla,Final Exam,2026-07-08,70,92,high,10,82.0,2,B,Good,Pass,Low Risk,0.038931408460820216,95.19999999999999,Very High
+226.0,Tania Jahan,10.0,Physics,Final Exam,2026-07-09,42,85,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+492.0,Tania Jahan,10.0,Biology,Class Test,2026-07-10,99,62,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+740.0,Nusrat Hossain,10.0,Biology,Class Test,2026-07-11,35,81,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+157.0,Tanvir Alam,10.0,Bangla,Mid Exam,2026-07-12,81,66,medium,9,82.0,1,B,Good,Pass,Low Risk,0.0,59.6,Medium
+733.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2026-07-13,32,90,low,7,75.7,0,C+,Average,Pass,Low Risk,0.31421545121545125,54.0,Medium
+612.0,Tanvir Alam,10.0,Physics,Final Exam,2026-07-14,92,85,low,6,82.0,0,B,Good,Pass,Low Risk,0.0,51.0,Medium
+850.0,Nusrat Hossain,10.0,Physics,Final Exam,2026-07-15,78,95,high,8,78.0,2,B-,Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+901.0,Mim Akter,10.0,Bangla,Final Exam,2026-07-16,76,68,high,5,78.0,2,B-,Average,Pass,Low Risk,0.22379761904761908,80.8,Very High
+195.0,Mehedi Hasan,10.0,Math,Mid Exam,2026-07-17,84,84,high,6,50.0,2,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+737.0,Tania Jahan,10.0,Biology,Class Test,2026-07-18,93,95,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.007333333333333303,77.0,High
+217.0,Nusrat Hossain,10.0,Computer,Class Test,2026-07-19,94,89,high,10,92.5,2,A,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+659.0,Mim Akter,10.0,Physics,Final Exam,2026-07-20,96,77,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+700.0,Tanvir Alam,10.0,Physics,Final Exam,2026-07-21,44,50,low,7,50.0,0,F,Poor,Fail,Low Risk,0.3298928571428573,30.0,Low
+587.0,Tanvir Alam,10.0,Bangla,Final Exam,2026-07-22,61,91,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.27863007773586224,94.6,Very High
+336.0,Tania Jahan,10.0,English,Final Exam,2026-07-23,97,60,low,5,78.0,0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+984.0,Sakib Khan,10.0,Computer,Mid Exam,2026-07-24,47,97,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+996.0,Nusrat Hossain,10.0,Computer,Class Test,2026-07-25,72,89,low,5,82.0,0,B,Good,Pass,Low Risk,0.34098187923187917,53.4,Medium
+371.0,Ayesha Rahman,10.0,Physics,Final Exam,2026-07-26,64,82,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.0,89.19999999999999,Very High
+288.0,Tanvir Alam,10.0,Math,Mid Exam,2026-07-27,87,61,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+803.0,Mehedi Hasan,10.0,English,Final Exam,2026-07-28,62,57,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+546.0,Mehedi Hasan,10.0,Computer,Final Exam,2026-07-29,43,73,low,8,95.0,0,A+,Excellent,Pass,Low Risk,0.2918571428571429,43.8,Medium
+680.0,Tanvir Alam,10.0,Physics,Class Test,2026-07-30,63,65,low,9,95.0,0,A+,Excellent,Pass,Low Risk,0.17486688311688336,39.0,Low
+889.0,Sakib Khan,10.0,Computer,Final Exam,2026-07-31,90,99,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.31485556110556123,59.4,Medium
+960.0,Sakib Khan,10.0,English,Class Test,2026-08-01,33,53,high,6,82.0,2,B,Good,Pass,Medium Risk,0.4522572879476904,71.8,High
+346.0,Mim Akter,10.0,English,Class Test,2026-08-02,88,60,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+175.0,Mehedi Hasan,10.0,Biology,Class Test,2026-08-03,58,93,medium,8,50.0,1,F,Poor,Fail,Low Risk,0.2156293894014486,75.8,High
+253.0,Mim Akter,10.0,Bangla,Mid Exam,2026-08-04,35,76,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.0045000000000000595,65.6,High
+755.0,Mehedi Hasan,10.0,Bangla,Mid Exam,2026-08-05,78,58,medium,9,74.9,1,C+,Average,Pass,Low Risk,0.0,54.8,Medium
+534.0,Nusrat Hossain,10.0,Physics,Class Test,2026-08-06,69,96,low,6,78.0,0,B-,Average,Pass,Low Risk,0.0,57.599999999999994,Medium
+185.0,Nusrat Hossain,10.0,English,Final Exam,2026-08-07,94,65,medium,8,95.0,1,A+,Excellent,Pass,Low Risk,0.03715476190476197,59.0,Medium
+796.0,Ayesha Rahman,10.0,Biology,Class Test,2026-08-08,98,61,low,9,58.0,0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+384.0,Nusrat Hossain,10.0,Biology,Final Exam,2026-08-09,56,80,low,10,68.0,0,C-,Below Average,Pass,Low Risk,0.0,48.0,Medium
+319.0,Ayesha Rahman,10.0,Computer,Class Test,2026-08-10,35,73,low,10,82.0,0,B,Good,Pass,Low Risk,0.2918571428571429,43.8,Medium
+168.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-08-11,42,63,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.12037515262515286,57.8,Medium
+146.0,Tania Jahan,10.0,Biology,Mid Exam,2026-08-12,93,94,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+193.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-08-13,91,74,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+849.0,Mim Akter,10.0,English,Class Test,2026-08-14,48,83,low,9,58.0,0,D-,Poor,Fail,Medium Risk,0.5645,49.8,Medium
+552.0,Tanvir Alam,10.0,Math,Mid Exam,2026-08-15,72,52,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+303.0,Mim Akter,10.0,English,Final Exam,2026-08-16,49,73,medium,6,90.0,1,A,Excellent,Pass,Low Risk,0.3371540134701899,63.8,High
+317.0,Tanvir Alam,10.0,Biology,Final Exam,2026-08-17,97,91,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.008910256410256445,54.6,Medium
+573.0,Sakib Khan,10.0,Biology,Final Exam,2026-08-18,73,58,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.3566190476190476,34.8,Low
+531.0,Mim Akter,10.0,English,Final Exam,2026-08-19,52,75,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+440.0,Sakib Khan,10.0,Computer,Final Exam,2026-08-20,31,69,medium,5,50.0,1,F,Poor,Fail,Low Risk,0.3861904761904763,61.4,High
+650.0,Ayesha Rahman,10.0,Computer,Mid Exam,2026-08-21,51,89,medium,6,90.0,1,A,Excellent,Pass,Medium Risk,0.4154589577089578,73.4,High
+711.0,Ayesha Rahman,10.0,Bangla,Mid Exam,2026-08-22,86,59,low,10,78.0,0,B-,Average,Pass,Low Risk,0.10713438359026639,35.4,Low
+388.0,Tania Jahan,10.0,Biology,Mid Exam,2026-08-23,36,68,low,10,58.0,0,D-,Poor,Fail,Medium Risk,0.4888571428571429,40.8,Medium
+353.0,Nusrat Hossain,10.0,Physics,Mid Exam,2026-08-24,85,52,high,10,68.0,2,C-,Below Average,Pass,Medium Risk,0.429952380952381,71.2,High
+833.0,Mim Akter,10.0,Bangla,Class Test,2026-08-25,96,73,high,9,78.0,2,B-,Average,Pass,High Risk,0.7816825396825396,83.8,Very High
+456.0,Sakib Khan,10.0,Computer,Mid Exam,2026-08-26,45,54,medium,8,50.0,1,F,Poor,Fail,Low Risk,0.19259523809523826,52.4,Medium
+122.0,Tanvir Alam,10.0,English,Final Exam,2026-08-27,80,52,high,10,68.6,2,C-,Below Average,Pass,Medium Risk,0.429952380952381,71.2,High
+861.0,Ayesha Rahman,10.0,Computer,Final Exam,2026-08-28,41,76,low,8,95.0,0,A+,Excellent,Pass,Low Risk,0.14249314574314564,45.6,Medium
+621.0,Nusrat Hossain,10.0,English,Mid Exam,2026-08-29,82,65,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.0,79.0,High
+857.0,Ayesha Rahman,10.0,Bangla,Final Exam,2026-08-30,34,98,low,10,95.0,0,A+,Excellent,Pass,Low Risk,0.11711652236652259,58.8,Medium
+936.0,Tanvir Alam,10.0,Biology,Mid Exam,2026-08-31,56,60,medium,6,82.0,1,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+199.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-09-01,41,84,medium,10,95.0,1,A+,Excellent,Pass,Low Risk,0.0,70.4,High
+901.0,Nusrat Hossain,10.0,English,Class Test,2026-09-02,46,61,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+279.0,Sakib Khan,10.0,Biology,Class Test,2026-09-03,35,90,high,7,78.0,2,B-,Average,Pass,Medium Risk,0.43445238095238103,94.0,Very High
+322.0,Sakib Khan,10.0,Physics,Mid Exam,2026-09-04,34,60,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+861.0,Mim Akter,10.0,English,Mid Exam,2026-09-05,86,75,medium,10,79.7,1,B-,Average,Pass,Low Risk,0.1250811133311136,65.0,High
+758.0,Mim Akter,10.0,Bangla,Mid Exam,2026-09-06,57,96,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+541.0,Mehedi Hasan,10.0,Physics,Final Exam,2026-09-07,98,83,high,6,78.6,2,B-,Average,Pass,Low Risk,0.017142857142857237,89.8,Very High
+707.0,Mehedi Hasan,10.0,Physics,Mid Exam,2026-09-08,88,72,low,9,82.0,0,B,Good,Pass,Low Risk,0.0,43.199999999999996,Medium
+868.0,Tania Jahan,10.0,Math,Class Test,2026-09-09,62,80,high,10,58.0,2,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+424.0,Ayesha Rahman,10.0,Computer,Final Exam,2026-09-10,91,99,high,9,50.0,2,F,Poor,Fail,Low Risk,0.0,99.4,Very High
+615.0,Mim Akter,10.0,English,Mid Exam,2026-09-11,79,69,high,5,82.0,2,B,Good,Pass,Low Risk,0.2419301254301256,81.4,Very High
+115.0,Sakib Khan,10.0,Physics,Final Exam,2026-09-12,48,61,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+891.0,Tanvir Alam,10.0,Math,Final Exam,2026-09-13,98,72,low,5,78.0,0,B-,Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+435.0,Sakib Khan,10.0,Bangla,Mid Exam,2026-09-14,95,53,medium,7,68.0,1,C-,Below Average,Pass,Low Risk,0.12450000000000017,51.8,Medium
+858.0,Ayesha Rahman,10.0,Biology,Final Exam,2026-09-15,76,72,low,6,80.8,0,B,Good,Pass,Low Risk,0.0,43.199999999999996,Medium
+357.0,Mehedi Hasan,10.0,English,Class Test,2026-09-16,68,97,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.0,78.19999999999999,High
+596.0,Sakib Khan,10.0,Physics,Class Test,2026-09-17,97,97,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+995.0,Tania Jahan,10.0,Computer,Final Exam,2026-09-18,62,50,medium,8,50.0,1,F,Poor,Fail,Low Risk,0.36729761904761904,50.0,Medium
+259.0,Ayesha Rahman,10.0,Math,Mid Exam,2026-09-19,42,74,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+574.0,Mehedi Hasan,10.0,Physics,Final Exam,2026-09-20,83,51,high,6,82.0,2,B,Good,Pass,Low Risk,0.2330218253968258,70.6,High
+951.0,Tanvir Alam,10.0,Computer,Class Test,2026-09-21,36,79,medium,7,78.0,1,B-,Average,Pass,Low Risk,0.0,67.4,High
+763.0,Mehedi Hasan,10.0,Physics,Final Exam,2026-09-22,43,52,low,6,78.0,0,B-,Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+789.0,Nusrat Hossain,10.0,English,Final Exam,2026-09-23,48,70,low,10,82.0,0,B,Good,Pass,Low Risk,0.3232301587301589,42.0,Medium
+774.0,Tania Jahan,10.0,English,Class Test,2026-09-24,83,74,low,5,95.0,0,A+,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+479.0,Ayesha Rahman,10.0,English,Final Exam,2026-09-25,49,69,low,8,73.0,0,C+,Average,Pass,Low Risk,0.20352380952380955,41.4,Medium
+644.0,Tanvir Alam,10.0,Bangla,Final Exam,2026-09-26,58,98,medium,6,58.0,1,D-,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+790.0,Tania Jahan,10.0,Bangla,Mid Exam,2026-09-27,53,60,medium,6,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+526.0,Mehedi Hasan,10.0,Math,Mid Exam,2026-09-28,92,70,high,6,50.0,2,F,Poor,Fail,High Risk,1.0,82.0,Very High
+712.0,Tania Jahan,10.0,English,Class Test,2026-09-29,86,82,medium,5,95.0,1,A+,Excellent,Pass,Medium Risk,0.6174786324786324,69.19999999999999,High
+367.0,Ayesha Rahman,10.0,Computer,Class Test,2026-09-30,37,87,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+934.0,Mim Akter,10.0,Physics,Class Test,2026-10-01,91,64,medium,6,60.0,1,D,Below Average,Fail,High Risk,0.7560452831482244,58.4,Medium
+676.0,Tania Jahan,10.0,Biology,Mid Exam,2026-10-02,58,95,high,5,79.2,2,B-,Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+516.0,Nusrat Hossain,10.0,Computer,Class Test,2026-10-03,46,64,low,8,50.0,0,F,Poor,Fail,Low Risk,0.3854563492063491,38.4,Low
+267.0,Tania Jahan,10.0,Bangla,Class Test,2026-10-04,95,95,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.007333333333333303,77.0,High
+941.0,Mehedi Hasan,10.0,Bangla,Class Test,2026-10-05,35,74,high,9,82.0,2,B,Good,Pass,Low Risk,0.020000000000000018,84.4,Very High
+142.0,Mehedi Hasan,10.0,Computer,Mid Exam,2026-10-06,87,70,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+655.0,Tanvir Alam,10.0,Bangla,Final Exam,2026-10-07,98,73,medium,9,82.0,1,B,Good,Pass,Low Risk,0.3371540134701899,63.8,High
+384.0,Mehedi Hasan,10.0,English,Class Test,2026-10-08,57,54,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.194017676767677,32.4,Low
+496.0,Sakib Khan,10.0,Math,Final Exam,2026-10-09,91,55,medium,6,82.0,1,B,Good,Pass,Low Risk,0.3656666666666667,53.0,Medium
+111.0,Ayesha Rahman,10.0,Physics,Class Test,2026-10-10,70,98,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+706.0,Ayesha Rahman,10.0,Math,Final Exam,2026-10-11,98,92,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+401.0,Mim Akter,10.0,Physics,Mid Exam,2026-10-12,70,97,high,6,82.0,2,B,Good,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+997.0,Mim Akter,10.0,Physics,Mid Exam,2026-10-13,78,93,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+352.0,Ayesha Rahman,10.0,Math,Class Test,2026-10-14,78,96,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+598.0,Nusrat Hossain,10.0,Computer,Final Exam,2026-10-15,100,72,high,7,50.0,2,F,Poor,Fail,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+853.0,Mim Akter,10.0,Physics,Mid Exam,2026-10-16,32,53,high,6,95.0,2,A+,Excellent,Pass,Medium Risk,0.4522572879476904,71.8,High
+134.0,Tanvir Alam,10.0,Math,Class Test,2026-10-17,39,76,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.14249314574314564,45.6,Medium
+826.0,Mehedi Hasan,10.0,Physics,Class Test,2026-10-18,64,67,medium,10,90.0,1,A,Excellent,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+948.0,Ayesha Rahman,10.0,Biology,Mid Exam,2026-10-19,31,70,medium,6,50.0,1,F,Poor,Fail,Low Risk,0.3187095404595405,62.0,High
+189.0,Mim Akter,10.0,Computer,Mid Exam,2026-10-20,53,77,high,10,50.0,2,F,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+875.0,Ayesha Rahman,10.0,English,Class Test,2026-10-21,67,84,medium,10,82.0,1,B,Good,Pass,Low Risk,0.0,70.4,High
+704.0,Sakib Khan,10.0,Physics,Final Exam,2026-10-22,51,71,low,9,50.0,0,F,Poor,Fail,Medium Risk,0.5383015873015875,42.6,Medium
+701.0,Tania Jahan,10.0,Biology,Final Exam,2026-10-23,55,89,low,10,82.0,0,B,Good,Pass,Low Risk,0.34098187923187917,53.4,Medium
+517.0,Mehedi Hasan,10.0,English,Final Exam,2026-10-24,72,72,low,8,78.0,0,B-,Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+214.0,Ayesha Rahman,10.0,English,Class Test,2026-10-25,84,52,high,9,50.0,2,F,Poor,Fail,Medium Risk,0.429952380952381,71.2,High
+716.0,Tania Jahan,10.0,Physics,Mid Exam,2026-10-26,68,89,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+295.0,Mim Akter,10.0,Math,Class Test,2026-10-27,58,99,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.0,99.4,Very High
+925.0,Tania Jahan,10.0,Physics,Mid Exam,2026-10-28,49,59,medium,5,95.0,1,A+,Excellent,Pass,High Risk,0.7606854256854257,55.4,Medium
+600.0,Mehedi Hasan,10.0,Biology,Final Exam,2026-10-29,70,74,high,7,68.0,2,C-,Below Average,Pass,Low Risk,0.020000000000000018,84.4,Very High
+725.0,Ayesha Rahman,10.0,English,Final Exam,2026-10-30,83,98,medium,6,50.0,1,F,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+592.0,Sakib Khan,10.0,Physics,Mid Exam,2026-10-31,49,57,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+174.0,Nusrat Hossain,10.0,Math,Mid Exam,2026-11-01,48,60,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+512.0,Mim Akter,10.0,Physics,Class Test,2026-11-02,95,54,high,8,50.0,2,F,Poor,Fail,Medium Risk,0.4634350649350649,72.4,High
+475.0,Ayesha Rahman,10.0,Computer,Final Exam,2026-11-03,59,94,high,5,50.0,2,F,Poor,Fail,Low Risk,0.13327453102453102,96.4,Very High
+519.0,Mehedi Hasan,10.0,Math,Class Test,2026-11-04,82,86,low,9,78.0,0,B-,Average,Pass,Low Risk,0.0050000000000000044,51.6,Medium
+828.0,Mim Akter,10.0,Biology,Class Test,2026-11-05,63,94,high,5,75.1,2,C+,Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+376.0,Tanvir Alam,10.0,English,Class Test,2026-11-06,51,87,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+860.0,Tania Jahan,10.0,Physics,Final Exam,2026-11-07,96,78,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.0,46.8,Medium
+775.0,Nusrat Hossain,10.0,Math,Class Test,2026-11-08,35,54,medium,7,78.0,1,B-,Average,Pass,Low Risk,0.19259523809523826,52.4,Medium
+493.0,Mehedi Hasan,10.0,Computer,Class Test,2026-11-09,56,58,low,6,78.0,0,B-,Average,Pass,Low Risk,0.3566190476190476,34.8,Low
+968.0,Tanvir Alam,10.0,Math,Class Test,2026-11-10,39,97,low,9,73.3,0,C+,Average,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+556.0,Ayesha Rahman,10.0,Bangla,Class Test,2026-11-11,77,51,medium,10,95.0,1,A+,Excellent,Pass,Low Risk,0.04349999999999998,50.599999999999994,Medium
+291.0,Sakib Khan,10.0,Computer,Class Test,2026-11-12,99,50,high,7,84.4,2,B+,Good,Pass,Low Risk,0.09328463203463211,70.0,High
+838.0,Mim Akter,10.0,Biology,Class Test,2026-11-13,88,89,medium,6,82.0,1,B,Good,Pass,Medium Risk,0.4154589577089578,73.4,High
+788.0,Tania Jahan,10.0,English,Final Exam,2026-11-14,88,100,high,7,58.0,2,D-,Poor,Fail,High Risk,0.92,100.0,Very High
+198.0,Mim Akter,10.0,Biology,Class Test,2026-11-15,31,79,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.2977370962370962,87.4,Very High
+647.0,Nusrat Hossain,10.0,Physics,Mid Exam,2026-11-16,58,60,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+195.0,Ayesha Rahman,10.0,Math,Class Test,2026-11-17,97,77,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+763.0,Mim Akter,10.0,Bangla,Class Test,2026-11-18,94,93,medium,6,50.0,1,F,Poor,Fail,Low Risk,0.2156293894014486,75.8,High
+762.0,Tania Jahan,10.0,Computer,Final Exam,2026-11-19,55,60,high,9,95.0,2,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+289.0,Ayesha Rahman,10.0,Computer,Final Exam,2026-11-20,39,88,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.3490050505050506,72.8,High
+835.0,Mim Akter,10.0,Math,Mid Exam,2026-11-21,82,75,medium,6,82.0,1,B,Good,Pass,Low Risk,0.1250811133311136,65.0,High
+136.0,Sakib Khan,10.0,Bangla,Mid Exam,2026-11-22,88,62,high,5,80.8,2,B,Good,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+879.0,Mehedi Hasan,10.0,Math,Final Exam,2026-11-23,51,57,low,9,68.0,0,C-,Below Average,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+468.0,Ayesha Rahman,10.0,Physics,Final Exam,2026-11-24,80,77,medium,6,82.0,1,B,Good,Pass,Low Risk,0.0,66.19999999999999,High
+794.0,Mehedi Hasan,10.0,Biology,Class Test,2026-11-25,77,79,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.2977370962370962,87.4,Very High
+624.0,Ayesha Rahman,10.0,Computer,Final Exam,2026-11-26,50,58,high,10,82.0,2,B,Good,Pass,Low Risk,0.025719017094017138,74.8,High
+378.0,Sakib Khan,10.0,Physics,Mid Exam,2026-11-27,51,88,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.3490050505050506,72.8,High
+316.0,Mehedi Hasan,10.0,Biology,Class Test,2026-11-28,59,80,low,7,76.5,0,C+,Average,Pass,Low Risk,0.0,48.0,Medium
+966.0,Tanvir Alam,10.0,Physics,Mid Exam,2026-11-29,54,70,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.3187095404595405,62.0,High
+972.0,Tania Jahan,10.0,Bangla,Class Test,2026-11-30,57,96,low,7,68.0,0,C-,Below Average,Pass,Low Risk,0.0,57.599999999999994,Medium
+897.0,Tanvir Alam,10.0,Computer,Final Exam,2026-12-01,94,83,low,6,78.0,0,B-,Average,Pass,Medium Risk,0.5645,49.8,Medium
+372.0,Mim Akter,10.0,Math,Mid Exam,2026-12-02,74,80,low,7,78.0,0,B-,Average,Pass,Low Risk,0.0,48.0,Medium
+980.0,Sakib Khan,10.0,Math,Class Test,2026-12-03,97,74,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.09967031987620245,64.4,High
+161.0,Tanvir Alam,10.0,Biology,Class Test,2026-12-04,36,61,medium,6,78.0,1,B-,Average,Pass,Low Risk,0.004865967365967339,56.6,Medium
+695.0,Ayesha Rahman,10.0,English,Final Exam,2026-12-05,78,50,high,8,78.0,2,B-,Average,Pass,Low Risk,0.09328463203463211,70.0,High
+979.0,Mim Akter,10.0,Bangla,Final Exam,2026-12-06,38,71,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.010000000000000009,82.6,Very High
+828.0,Mim Akter,10.0,Biology,Final Exam,2026-12-07,65,89,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+441.0,Tanvir Alam,10.0,English,Mid Exam,2026-12-08,30,86,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+496.0,Tanvir Alam,10.0,Physics,Class Test,2026-12-09,39,96,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+798.0,Sakib Khan,10.0,Bangla,Final Exam,2026-12-10,65,50,high,6,84.4,2,B+,Good,Pass,Low Risk,0.09328463203463211,70.0,High
+118.0,Tania Jahan,10.0,Physics,Mid Exam,2026-12-11,75,50,low,9,58.0,0,D-,Poor,Fail,Low Risk,0.3298928571428573,30.0,Low
+276.0,Tanvir Alam,10.0,Computer,Mid Exam,2026-12-12,61,91,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.008910256410256445,54.6,Medium
+711.0,Nusrat Hossain,10.0,Bangla,Mid Exam,2026-12-13,61,91,high,10,68.0,2,C-,Below Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+495.0,Tanvir Alam,10.0,English,Final Exam,2026-12-14,35,70,medium,8,78.0,1,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+544.0,Mehedi Hasan,10.0,Computer,Final Exam,2026-12-15,77,64,high,6,78.0,2,B-,Average,Pass,Low Risk,0.022499999999999964,78.4,High
+332.0,Ayesha Rahman,10.0,Math,Class Test,2026-12-16,67,66,high,9,50.0,2,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+175.0,Nusrat Hossain,10.0,English,Class Test,2026-12-17,46,71,low,6,50.0,0,F,Poor,Fail,Medium Risk,0.5383015873015875,42.6,Medium
+364.0,Nusrat Hossain,10.0,Biology,Final Exam,2026-12-18,56,87,low,6,50.0,0,F,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+554.0,Mehedi Hasan,10.0,Math,Mid Exam,2026-12-19,83,84,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.007499999999999951,50.4,Medium
+895.0,Mehedi Hasan,10.0,Math,Mid Exam,2026-12-20,79,60,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+817.0,Mim Akter,10.0,Biology,Mid Exam,2026-12-21,64,60,high,8,70.9,2,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+834.0,Tania Jahan,10.0,Bangla,Class Test,2026-12-22,54,57,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+483.0,Ayesha Rahman,10.0,Math,Mid Exam,2026-12-23,57,96,low,9,95.0,0,A+,Excellent,Pass,Low Risk,0.0,57.599999999999994,Medium
+663.0,Sakib Khan,10.0,English,Class Test,2026-12-24,44,66,medium,9,78.0,1,B-,Average,Pass,Low Risk,0.0,59.6,Medium
+950.0,Nusrat Hossain,10.0,Computer,Class Test,2026-12-25,33,66,high,9,50.0,2,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+605.0,Sakib Khan,10.0,Math,Mid Exam,2026-12-26,56,75,high,7,82.0,2,B,Good,Pass,Low Risk,0.3860714285714286,85.0,Very High
+466.0,Tanvir Alam,10.0,English,Mid Exam,2026-12-27,55,60,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+243.0,Tanvir Alam,10.0,Physics,Final Exam,2026-12-28,48,66,high,8,50.0,2,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+984.0,Sakib Khan,10.0,English,Final Exam,2026-12-29,46,87,high,9,58.0,2,D-,Poor,Fail,Low Risk,0.22901962824756938,92.19999999999999,Very High
+168.0,Tanvir Alam,10.0,Computer,Mid Exam,2026-12-30,72,66,medium,5,95.0,1,A+,Excellent,Pass,Low Risk,0.0,59.6,Medium
+198.0,Tania Jahan,10.0,English,Class Test,2026-12-31,70,97,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+495.0,Mehedi Hasan,10.0,Biology,Class Test,2027-01-01,71,63,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.12037515262515286,57.8,Medium
+124.0,Tanvir Alam,10.0,Computer,Class Test,2027-01-02,79,94,high,6,78.0,2,B-,Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+990.0,Mim Akter,10.0,Bangla,Class Test,2027-01-03,69,55,high,6,58.0,2,D-,Poor,Fail,Low Risk,0.2985634920634921,73.0,High
+568.0,Tanvir Alam,10.0,Physics,Class Test,2027-01-04,68,84,high,8,58.0,2,D-,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+583.0,Ayesha Rahman,10.0,Biology,Final Exam,2027-01-05,52,60,low,7,82.0,0,B,Good,Pass,Low Risk,0.22068652882264073,36.0,Low
+664.0,Tania Jahan,10.0,Bangla,Mid Exam,2027-01-06,81,63,low,8,95.0,0,A+,Excellent,Pass,Low Risk,0.182105339105339,37.8,Low
+250.0,Ayesha Rahman,10.0,English,Final Exam,2027-01-07,76,96,high,9,77.1,2,B-,Average,Pass,Low Risk,0.2292165473415474,97.6,Very High
+243.0,Ayesha Rahman,10.0,Computer,Class Test,2027-01-08,92,57,high,10,90.0,2,A,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+668.0,Mim Akter,10.0,Physics,Class Test,2027-01-09,98,64,medium,5,50.0,1,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+138.0,Tania Jahan,10.0,Biology,Class Test,2027-01-10,72,76,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.14249314574314564,45.6,Medium
+208.0,Tania Jahan,10.0,Bangla,Class Test,2027-01-11,77,60,medium,7,50.0,1,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+792.0,Tania Jahan,10.0,Bangla,Mid Exam,2027-01-12,63,98,low,8,77.5,0,B-,Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+141.0,Tania Jahan,10.0,Physics,Class Test,2027-01-13,69,80,high,6,74.4,2,C+,Average,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+285.0,Tania Jahan,10.0,English,Mid Exam,2027-01-14,90,84,low,9,82.0,0,B,Good,Pass,Low Risk,0.007499999999999951,50.4,Medium
+497.0,Mim Akter,10.0,Physics,Class Test,2027-01-15,79,60,medium,9,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+322.0,Tanvir Alam,10.0,Bangla,Mid Exam,2027-01-16,96,54,low,9,95.0,0,A+,Excellent,Pass,Low Risk,0.194017676767677,32.4,Low
+733.0,Ayesha Rahman,10.0,Math,Final Exam,2027-01-17,91,71,low,9,82.0,0,B,Good,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+232.0,Tania Jahan,10.0,Biology,Class Test,2027-01-18,87,98,low,9,82.0,0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+262.0,Nusrat Hossain,10.0,Physics,Mid Exam,2027-01-19,62,72,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+314.0,Tanvir Alam,10.0,Bangla,Final Exam,2027-01-20,45,74,low,5,90.0,0,A,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+832.0,Tanvir Alam,10.0,English,Class Test,2027-01-21,77,83,medium,7,78.0,1,B-,Average,Pass,Low Risk,0.1860046897546901,69.8,High
+334.0,Ayesha Rahman,10.0,Bangla,Class Test,2027-01-22,39,60,medium,9,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+942.0,Mim Akter,10.0,English,Class Test,2027-01-23,67,60,low,7,73.2,0,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+757.0,Sakib Khan,10.0,Physics,Mid Exam,2027-01-24,48,54,medium,10,50.0,1,F,Poor,Fail,Low Risk,0.19259523809523826,52.4,Medium
+850.0,Sakib Khan,10.0,English,Mid Exam,2027-01-25,65,75,high,9,58.0,2,D-,Poor,Fail,Low Risk,0.3860714285714286,85.0,Very High
+687.0,Tanvir Alam,10.0,Computer,Final Exam,2027-01-26,88,69,low,8,50.0,0,F,Poor,Fail,Low Risk,0.20352380952380955,41.4,Medium
+108.0,Mehedi Hasan,10.0,Computer,Mid Exam,2027-01-27,92,55,low,9,78.0,0,B-,Average,Pass,Medium Risk,0.4428888888888889,33.0,Low
+173.0,Mehedi Hasan,10.0,Computer,Mid Exam,2027-01-28,75,55,medium,6,82.0,1,B,Good,Pass,Low Risk,0.3656666666666667,53.0,Medium
+591.0,Ayesha Rahman,10.0,Math,Class Test,2027-01-29,32,99,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.09347366522366518,79.4,High
+352.0,Sakib Khan,10.0,Physics,Class Test,2027-01-30,94,67,low,8,95.0,0,A+,Excellent,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+329.0,Tanvir Alam,10.0,Bangla,Class Test,2027-01-31,37,53,high,8,90.0,2,A,Excellent,Pass,Medium Risk,0.4522572879476904,71.8,High
+618.0,Mim Akter,10.0,Bangla,Class Test,2027-02-01,80,66,medium,6,90.0,1,A,Excellent,Pass,Low Risk,0.0,59.6,Medium
+273.0,Sakib Khan,10.0,Math,Class Test,2027-02-02,35,63,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.12037515262515286,57.8,Medium
+752.0,Tanvir Alam,10.0,English,Class Test,2027-02-03,68,63,high,5,82.0,2,B,Good,Pass,Low Risk,0.33976190476190515,77.8,High
+267.0,Tanvir Alam,10.0,Math,Class Test,2027-02-04,89,62,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+269.0,Tania Jahan,10.0,English,Final Exam,2027-02-05,57,56,low,5,68.0,0,C-,Below Average,Pass,Medium Risk,0.460297619047619,33.6,Low
+492.0,Mim Akter,10.0,English,Final Exam,2027-02-06,83,93,high,8,68.0,2,C-,Below Average,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+894.0,Tania Jahan,10.0,Biology,Final Exam,2027-02-07,66,64,low,9,90.0,0,A,Excellent,Pass,Low Risk,0.3854563492063491,38.4,Low
+733.0,Ayesha Rahman,10.0,Bangla,Final Exam,2027-02-08,38,68,high,10,95.0,2,A+,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+293.0,Tania Jahan,10.0,Computer,Class Test,2027-02-09,85,92,medium,8,95.0,1,A+,Excellent,Pass,Low Risk,0.14390476190476198,75.19999999999999,High
+616.0,Nusrat Hossain,10.0,English,Final Exam,2027-02-10,88,96,low,10,95.0,0,A+,Excellent,Pass,Low Risk,0.0,57.599999999999994,Medium
+128.0,Tania Jahan,10.0,Biology,Class Test,2027-02-11,31,93,low,8,78.0,0,B-,Average,Pass,Medium Risk,0.6507261904761905,55.8,Medium
+264.0,Nusrat Hossain,10.0,Bangla,Final Exam,2027-02-12,90,60,low,7,73.2,0,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+521.0,Sakib Khan,10.0,Computer,Mid Exam,2027-02-13,87,66,high,9,90.0,2,A,Excellent,Pass,Medium Risk,0.4877518599821231,79.6,High
+438.0,Mehedi Hasan,10.0,English,Final Exam,2027-02-14,89,84,medium,6,95.0,1,A+,Excellent,Pass,Low Risk,0.0,70.4,High
+747.0,Tanvir Alam,10.0,English,Final Exam,2027-02-15,69,68,low,10,58.0,0,D-,Poor,Fail,Medium Risk,0.4888571428571429,40.8,Medium
+595.0,Nusrat Hossain,10.0,Math,Class Test,2027-02-16,65,60,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+464.0,Mim Akter,10.0,Math,Final Exam,2027-02-17,66,85,low,9,68.0,0,C-,Below Average,Pass,Low Risk,0.0,51.0,Medium
+932.0,Tania Jahan,10.0,Bangla,Mid Exam,2027-02-18,47,84,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.007499999999999951,50.4,Medium
+441.0,Nusrat Hossain,10.0,Computer,Class Test,2027-02-19,92,60,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+599.0,Mim Akter,10.0,English,Class Test,2027-02-20,51,97,high,6,58.0,2,D-,Poor,Fail,Low Risk,0.2418120144819066,98.19999999999999,Very High
+756.0,Mehedi Hasan,10.0,Bangla,Final Exam,2027-02-21,40,93,medium,10,95.0,1,A+,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+610.0,Mehedi Hasan,10.0,Bangla,Class Test,2027-02-22,87,89,low,7,50.0,0,F,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+426.0,Tania Jahan,10.0,Physics,Class Test,2027-02-23,86,73,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.3371540134701899,63.8,High
+316.0,Ayesha Rahman,10.0,Math,Class Test,2027-02-24,33,66,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+400.0,Tania Jahan,10.0,Computer,Class Test,2027-02-25,36,60,high,8,68.0,2,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+231.0,Sakib Khan,10.0,English,Class Test,2027-02-26,90,60,high,9,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+903.0,Nusrat Hossain,10.0,Bangla,Class Test,2027-02-27,83,99,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.0,99.4,Very High
+169.0,Tanvir Alam,10.0,English,Mid Exam,2027-02-28,97,50,low,5,78.0,0,B-,Average,Pass,Low Risk,0.3298928571428573,30.0,Low
+351.0,Ayesha Rahman,10.0,Physics,Final Exam,2027-03-01,30,84,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.0,70.4,High
+514.0,Tania Jahan,10.0,Computer,Mid Exam,2027-03-02,84,81,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.011472527472527472,88.6,Very High
+886.0,Mim Akter,10.0,Bangla,Class Test,2027-03-03,32,85,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.0,51.0,Medium
+544.0,Ayesha Rahman,10.0,English,Class Test,2027-03-04,67,62,low,7,95.0,0,A+,Excellent,Pass,Medium Risk,0.5419942279942279,37.199999999999996,Low
+975.0,Nusrat Hossain,10.0,Math,Final Exam,2027-03-05,30,60,medium,5,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+281.0,Ayesha Rahman,10.0,Physics,Mid Exam,2027-03-06,67,63,high,10,50.0,2,F,Poor,Fail,Low Risk,0.33976190476190515,77.8,High
+266.0,Nusrat Hossain,10.0,Computer,Final Exam,2027-03-07,58,86,low,9,82.0,0,B,Good,Pass,Low Risk,0.0050000000000000044,51.6,Medium
+190.0,Tania Jahan,10.0,Physics,Mid Exam,2027-03-08,34,97,high,9,58.0,2,D-,Poor,Fail,Low Risk,0.2418120144819066,98.19999999999999,Very High
+813.0,Nusrat Hossain,10.0,Math,Class Test,2027-03-09,50,64,high,7,82.0,2,B,Good,Pass,Low Risk,0.022499999999999964,78.4,High
+957.0,Ayesha Rahman,10.0,Computer,Final Exam,2027-03-10,100,96,medium,10,82.0,1,B,Good,Pass,Low Risk,0.0,77.6,High
+630.0,Mim Akter,10.0,Physics,Final Exam,2027-03-11,96,53,medium,7,90.0,1,A,Excellent,Pass,Low Risk,0.12450000000000017,51.8,Medium
+138.0,Mehedi Hasan,10.0,Biology,Class Test,2027-03-12,76,89,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+225.0,Ayesha Rahman,10.0,Math,Final Exam,2027-03-13,64,60,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+550.0,Nusrat Hossain,10.0,Math,Mid Exam,2027-03-14,97,60,low,10,58.0,0,D-,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+272.0,Mehedi Hasan,10.0,Math,Mid Exam,2027-03-15,98,65,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.03715476190476197,59.0,Medium
+752.0,Nusrat Hossain,10.0,Biology,Mid Exam,2027-03-16,30,53,low,6,90.0,0,A,Excellent,Pass,Low Risk,0.3354642857142859,31.799999999999997,Low
+853.0,Mim Akter,10.0,Biology,Mid Exam,2027-03-17,97,94,medium,8,90.0,1,A,Excellent,Pass,Low Risk,0.22823809523809513,76.4,High
+319.0,Nusrat Hossain,10.0,English,Class Test,2027-03-18,41,75,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+737.0,Tania Jahan,10.0,Bangla,Final Exam,2027-03-19,89,77,low,8,50.0,0,F,Poor,Fail,Low Risk,0.005079365079365239,46.199999999999996,Medium
+157.0,Tanvir Alam,10.0,Physics,Mid Exam,2027-03-20,56,81,high,6,78.0,2,B-,Average,Pass,Low Risk,0.011472527472527472,88.6,Very High
+759.0,Ayesha Rahman,10.0,English,Class Test,2027-03-21,85,94,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.13327453102453102,96.4,Very High
+575.0,Tanvir Alam,10.0,Physics,Final Exam,2027-03-22,52,51,high,9,95.0,2,A+,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+555.0,Nusrat Hossain,10.0,Bangla,Final Exam,2027-03-23,54,60,medium,7,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+928.0,Mim Akter,10.0,Biology,Class Test,2027-03-24,50,52,medium,5,58.0,1,D-,Poor,Fail,Low Risk,0.37448520923520934,51.2,Medium
+994.0,Ayesha Rahman,10.0,Bangla,Class Test,2027-03-25,90,57,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+460.0,Nusrat Hossain,10.0,Biology,Mid Exam,2027-03-26,92,73,medium,9,78.0,1,B-,Average,Pass,Low Risk,0.3371540134701899,63.8,High
+100.0,Mehedi Hasan,10.0,Bangla,Final Exam,2027-03-27,81,64,medium,6,50.0,1,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+486.0,Sakib Khan,10.0,English,Final Exam,2027-03-28,54,92,low,7,58.0,0,D-,Poor,Fail,Low Risk,0.1376338106338112,55.199999999999996,Medium
+447.0,Nusrat Hossain,10.0,Computer,Class Test,2027-03-29,84,80,high,7,95.0,2,A+,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+289.0,Tanvir Alam,10.0,English,Final Exam,2027-03-30,75,58,high,10,78.0,2,B-,Average,Pass,Low Risk,0.025719017094017138,74.8,High
+604.0,Ayesha Rahman,10.0,Physics,Mid Exam,2027-03-31,61,88,high,5,78.0,2,B-,Average,Pass,Low Risk,0.0,92.8,Very High
+290.0,Tanvir Alam,10.0,English,Final Exam,2027-04-01,84,94,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+607.0,Ayesha Rahman,10.0,Math,Class Test,2027-04-02,34,51,low,5,78.0,0,B-,Average,Pass,Low Risk,0.08716666666666673,30.599999999999998,Low
+468.0,Nusrat Hossain,10.0,Physics,Class Test,2027-04-03,65,57,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+508.0,Tania Jahan,10.0,Bangla,Mid Exam,2027-04-04,78,56,low,8,78.0,0,B-,Average,Pass,Medium Risk,0.460297619047619,33.6,Low
+923.0,Mehedi Hasan,10.0,Physics,Mid Exam,2027-04-05,87,93,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.2156293894014486,75.8,High
+216.0,Nusrat Hossain,10.0,Computer,Final Exam,2027-04-06,68,100,low,5,74.6,0,C+,Average,Pass,Low Risk,0.0,60.0,Medium
+233.0,Tanvir Alam,10.0,Biology,Final Exam,2027-04-07,90,88,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.3490050505050506,72.8,High
+157.0,Sakib Khan,10.0,Bangla,Class Test,2027-04-08,38,91,high,6,75.7,2,C+,Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+655.0,Sakib Khan,10.0,Physics,Mid Exam,2027-04-09,35,65,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.17486688311688336,39.0,Low
+784.0,Mim Akter,10.0,Bangla,Mid Exam,2027-04-10,64,84,low,6,95.0,0,A+,Excellent,Pass,Low Risk,0.007499999999999951,50.4,Medium
+771.0,Ayesha Rahman,10.0,Bangla,Mid Exam,2027-04-11,68,79,high,8,67.7,2,C-,Below Average,Pass,Low Risk,0.2977370962370962,87.4,Very High
+272.0,Tanvir Alam,10.0,Bangla,Final Exam,2027-04-12,51,59,low,8,95.0,0,A+,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+928.0,Mim Akter,10.0,Biology,Mid Exam,2027-04-13,70,87,high,9,78.0,2,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+914.0,Tanvir Alam,10.0,English,Class Test,2027-04-14,34,67,medium,6,82.0,1,B,Good,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+248.0,Ayesha Rahman,10.0,Bangla,Class Test,2027-04-15,71,99,high,6,58.0,2,D-,Poor,Fail,Low Risk,0.0,99.4,Very High
+179.0,Nusrat Hossain,10.0,Math,Final Exam,2027-04-16,96,54,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.19259523809523826,52.4,Medium
+985.0,Nusrat Hossain,10.0,Computer,Final Exam,2027-04-17,59,78,low,6,78.0,0,B-,Average,Pass,Low Risk,0.0,46.8,Medium
+312.0,Sakib Khan,10.0,Biology,Mid Exam,2027-04-18,86,88,low,5,68.0,0,C-,Below Average,Pass,Medium Risk,0.525686507936508,52.8,Medium
+302.0,Nusrat Hossain,10.0,Physics,Final Exam,2027-04-19,58,83,medium,7,82.0,1,B,Good,Pass,Low Risk,0.1860046897546901,69.8,High
+863.0,Nusrat Hossain,10.0,Biology,Class Test,2027-04-20,66,92,low,7,90.0,0,A,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+328.0,Tania Jahan,10.0,Physics,Mid Exam,2027-04-21,42,94,medium,7,95.0,1,A+,Excellent,Pass,Low Risk,0.22823809523809513,76.4,High
+775.0,Sakib Khan,10.0,Biology,Class Test,2027-04-22,61,72,low,10,68.0,0,C-,Below Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+326.0,Mim Akter,10.0,Physics,Mid Exam,2027-04-23,75,60,high,6,58.0,2,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+758.0,Mehedi Hasan,10.0,Bangla,Final Exam,2027-04-24,52,79,low,10,95.0,0,A+,Excellent,Pass,Low Risk,0.0,47.4,Medium
+631.0,Tania Jahan,10.0,English,Mid Exam,2027-04-25,74,55,high,6,90.0,2,A,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+540.0,Mim Akter,10.0,Physics,Mid Exam,2027-04-26,46,95,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+501.0,Ayesha Rahman,10.0,Physics,Class Test,2027-04-27,95,60,medium,10,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+146.0,Tania Jahan,10.0,Math,Class Test,2027-04-28,35,53,low,10,82.0,0,B,Good,Pass,Low Risk,0.3354642857142859,31.799999999999997,Low
+332.0,Mim Akter,10.0,Physics,Mid Exam,2027-04-29,47,78,medium,10,58.0,1,D-,Poor,Fail,Low Risk,0.0,66.8,High
+404.0,Ayesha Rahman,10.0,Math,Final Exam,2027-04-30,51,72,low,8,80.8,0,B,Good,Pass,Low Risk,0.0,43.199999999999996,Medium
+625.0,Sakib Khan,10.0,Computer,Final Exam,2027-05-01,62,55,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+242.0,Mehedi Hasan,10.0,Bangla,Class Test,2027-05-02,59,81,high,7,84.3,2,B+,Good,Pass,Low Risk,0.011472527472527472,88.6,Very High
+514.0,Ayesha Rahman,10.0,Math,Final Exam,2027-05-03,61,91,low,5,68.0,0,C-,Below Average,Pass,Low Risk,0.008910256410256445,54.6,Medium
+612.0,Nusrat Hossain,10.0,English,Class Test,2027-05-04,71,67,low,8,50.0,0,F,Poor,Fail,Low Risk,0.2817857142857143,40.199999999999996,Medium
+472.0,Tanvir Alam,10.0,Bangla,Final Exam,2027-05-05,39,64,medium,6,60.0,1,D,Below Average,Fail,High Risk,0.7560452831482244,58.4,Medium
+665.0,Ayesha Rahman,10.0,Math,Mid Exam,2027-05-06,65,89,low,5,82.0,0,B,Good,Pass,Low Risk,0.34098187923187917,53.4,Medium
+985.0,Ayesha Rahman,10.0,Bangla,Class Test,2027-05-07,63,81,low,10,50.0,0,F,Poor,Fail,Medium Risk,0.5218769841269839,48.6,Medium
+358.0,Mehedi Hasan,10.0,Bangla,Class Test,2027-05-08,57,58,low,7,50.0,0,F,Poor,Fail,Low Risk,0.3566190476190476,34.8,Low
+755.0,Tanvir Alam,10.0,Bangla,Mid Exam,2027-05-09,40,60,medium,7,95.0,1,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+570.0,Nusrat Hossain,10.0,Computer,Class Test,2027-05-10,68,60,low,6,90.0,0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+111.0,Mim Akter,10.0,English,Final Exam,2027-05-11,76,69,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+429.0,Mim Akter,10.0,Biology,Final Exam,2027-05-12,48,55,medium,8,58.0,1,D-,Poor,Fail,Low Risk,0.3656666666666667,53.0,Medium
+835.0,Ayesha Rahman,10.0,Biology,Class Test,2027-05-13,44,97,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+883.0,Tanvir Alam,10.0,Math,Final Exam,2027-05-14,57,60,high,5,78.0,2,B-,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+457.0,Tanvir Alam,10.0,Bangla,Class Test,2027-05-15,53,91,high,9,50.0,2,F,Poor,Fail,Low Risk,0.27863007773586224,94.6,Very High
+507.0,Nusrat Hossain,10.0,Math,Mid Exam,2027-05-16,38,60,high,7,70.9,2,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+767.0,Mehedi Hasan,10.0,Computer,Class Test,2027-05-17,76,92,low,8,50.0,0,F,Poor,Fail,Low Risk,0.1376338106338112,55.199999999999996,Medium
+472.0,Sakib Khan,10.0,Computer,Mid Exam,2027-05-18,62,66,high,10,90.0,2,A,Excellent,Pass,Medium Risk,0.4877518599821231,79.6,High
+107.0,Mim Akter,10.0,Physics,Final Exam,2027-05-19,91,81,medium,8,68.8,1,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+221.0,Mehedi Hasan,10.0,Computer,Mid Exam,2027-05-20,48,53,medium,10,81.5,1,B,Good,Pass,Low Risk,0.12450000000000017,51.8,Medium
+447.0,Tania Jahan,10.0,Physics,Final Exam,2027-05-21,96,53,high,8,58.0,2,D-,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+775.0,Mim Akter,10.0,English,Class Test,2027-05-22,69,66,high,7,68.0,2,C-,Below Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+189.0,Mehedi Hasan,10.0,Math,Final Exam,2027-05-23,76,90,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.31421545121545125,54.0,Medium
+747.0,Mim Akter,10.0,English,Class Test,2027-05-24,94,68,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+797.0,Sakib Khan,10.0,Computer,Class Test,2027-05-25,58,54,high,10,78.0,2,B-,Average,Pass,Medium Risk,0.4634350649350649,72.4,High
+415.0,Tania Jahan,10.0,English,Mid Exam,2027-05-26,79,81,low,6,90.0,0,A,Excellent,Pass,Medium Risk,0.5218769841269839,48.6,Medium
+277.0,Sakib Khan,10.0,English,Mid Exam,2027-05-27,42,71,high,5,82.0,2,B,Good,Pass,Low Risk,0.010000000000000009,82.6,Very High
+639.0,Nusrat Hossain,10.0,English,Mid Exam,2027-05-28,30,55,medium,6,73.8,1,C+,Average,Pass,Low Risk,0.3656666666666667,53.0,Medium
+831.0,Tania Jahan,10.0,Computer,Mid Exam,2027-05-29,63,84,high,8,95.0,2,A+,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+968.0,Ayesha Rahman,10.0,Bangla,Final Exam,2027-05-30,77,71,low,5,90.0,0,A,Excellent,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+140.0,Mehedi Hasan,10.0,English,Final Exam,2027-05-31,77,50,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.3298928571428573,30.0,Low
+839.0,Tania Jahan,10.0,Physics,Final Exam,2027-06-01,78,69,medium,9,58.0,1,D-,Poor,Fail,Low Risk,0.3861904761904763,61.4,High
+803.0,Nusrat Hossain,10.0,Computer,Class Test,2027-06-02,93,71,low,8,50.0,0,F,Poor,Fail,Medium Risk,0.5383015873015875,42.6,Medium
+601.0,Nusrat Hossain,10.0,English,Final Exam,2027-06-03,90,60,low,8,50.0,0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+244.0,Sakib Khan,10.0,Bangla,Final Exam,2027-06-04,58,60,medium,6,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+300.0,Mim Akter,10.0,Computer,Final Exam,2027-06-05,68,62,high,10,58.0,2,D-,Poor,Fail,Low Risk,0.12021259175607013,77.19999999999999,High
+823.0,Tania Jahan,10.0,Biology,Mid Exam,2027-06-06,55,91,medium,9,50.0,1,F,Poor,Fail,High Risk,0.8683333333333334,74.6,High
+560.0,Mehedi Hasan,10.0,Bangla,Final Exam,2027-06-07,46,52,high,8,82.0,2,B,Good,Pass,Medium Risk,0.429952380952381,71.2,High
+831.0,Tania Jahan,10.0,Physics,Class Test,2027-06-08,100,58,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.0,54.8,Medium
+851.0,Tanvir Alam,10.0,English,Mid Exam,2027-06-09,42,61,high,9,82.0,2,B,Good,Pass,Low Risk,0.3639055299539171,76.6,High
+657.0,Mim Akter,10.0,Biology,Class Test,2027-06-10,98,72,medium,9,70.9,1,C,Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+646.0,Mehedi Hasan,10.0,Biology,Final Exam,2027-06-11,55,63,medium,5,95.0,1,A+,Excellent,Pass,Low Risk,0.12037515262515286,57.8,Medium
+352.0,Mehedi Hasan,10.0,Computer,Mid Exam,2027-06-12,78,82,medium,6,58.0,1,D-,Poor,Fail,Medium Risk,0.6174786324786324,69.19999999999999,High
+489.0,Ayesha Rahman,10.0,Biology,Class Test,2027-06-13,96,67,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+693.0,Sakib Khan,10.0,Physics,Final Exam,2027-06-14,36,98,medium,9,58.0,1,D-,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+982.0,Ayesha Rahman,10.0,Physics,Class Test,2027-06-15,87,90,low,7,82.0,0,B,Good,Pass,Low Risk,0.31421545121545125,54.0,Medium
+355.0,Mehedi Hasan,10.0,Math,Class Test,2027-06-16,78,60,high,10,78.0,2,B-,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+808.0,Mim Akter,10.0,Physics,Class Test,2027-06-17,82,60,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+914.0,Tania Jahan,10.0,Bangla,Final Exam,2027-06-18,94,59,high,6,95.0,2,A+,Excellent,Pass,Low Risk,0.01778662565504674,75.4,High
+549.0,Tania Jahan,10.0,Biology,Final Exam,2027-06-19,91,68,high,10,90.0,2,A,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+109.0,Mim Akter,10.0,Physics,Class Test,2027-06-20,46,96,medium,10,78.0,1,B-,Average,Pass,Low Risk,0.0,77.6,High
+923.0,Mehedi Hasan,10.0,Computer,Mid Exam,2027-06-21,72,60,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+897.0,Nusrat Hossain,10.0,Math,Mid Exam,2027-06-22,54,60,medium,8,78.0,1,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+341.0,Tania Jahan,10.0,Biology,Final Exam,2027-06-23,32,72,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.0,43.199999999999996,Medium
+350.0,Nusrat Hossain,10.0,Math,Final Exam,2027-06-24,58,79,high,8,82.0,2,B,Good,Pass,Low Risk,0.2977370962370962,87.4,Very High
+976.0,Tania Jahan,10.0,Biology,Final Exam,2027-06-25,61,74,low,7,50.0,0,F,Poor,Fail,Low Risk,0.16558730158730195,44.4,Medium
+104.0,Tania Jahan,10.0,Computer,Final Exam,2027-06-26,55,77,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+218.0,Sakib Khan,10.0,Math,Final Exam,2027-06-27,45,83,high,8,78.6,2,B-,Average,Pass,Low Risk,0.017142857142857237,89.8,Very High
+900.0,Sakib Khan,10.0,English,Mid Exam,2027-06-28,54,94,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.13327453102453102,96.4,Very High
+473.0,Tanvir Alam,10.0,Bangla,Final Exam,2027-06-29,83,97,medium,8,68.0,1,C-,Below Average,Pass,Low Risk,0.0,78.19999999999999,High
+164.0,Ayesha Rahman,10.0,Bangla,Class Test,2027-06-30,57,96,high,9,78.0,2,B-,Average,Pass,Low Risk,0.2292165473415474,97.6,Very High
+245.0,Mim Akter,10.0,Biology,Class Test,2027-07-01,85,74,high,8,78.0,2,B-,Average,Pass,Low Risk,0.020000000000000018,84.4,Very High
+323.0,Mim Akter,10.0,English,Mid Exam,2027-07-02,94,59,medium,7,58.0,1,D-,Poor,Fail,High Risk,0.7606854256854257,55.4,Medium
+338.0,Mim Akter,10.0,Math,Class Test,2027-07-03,70,63,high,6,78.0,2,B-,Average,Pass,Low Risk,0.33976190476190515,77.8,High
+276.0,Tanvir Alam,10.0,English,Mid Exam,2027-07-04,80,91,medium,6,57.9,1,D-,Poor,Fail,High Risk,0.8683333333333334,74.6,High
+878.0,Sakib Khan,10.0,English,Mid Exam,2027-07-05,100,95,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+952.0,Mehedi Hasan,10.0,Math,Class Test,2027-07-06,58,79,low,6,82.0,0,B,Good,Pass,Low Risk,0.0,47.4,Medium
+381.0,Nusrat Hossain,10.0,Computer,Final Exam,2027-07-07,48,90,low,6,58.0,0,D-,Poor,Fail,Low Risk,0.31421545121545125,54.0,Medium
+162.0,Nusrat Hossain,10.0,English,Class Test,2027-07-08,95,74,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.020000000000000018,84.4,Very High
+316.0,Mehedi Hasan,10.0,English,Class Test,2027-07-09,70,63,medium,9,82.0,1,B,Good,Pass,Low Risk,0.12037515262515286,57.8,Medium
+953.0,Tanvir Alam,10.0,Computer,Mid Exam,2027-07-10,74,84,high,9,50.0,2,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+926.0,Mehedi Hasan,10.0,English,Class Test,2027-07-11,44,97,medium,6,68.0,1,C-,Below Average,Pass,Low Risk,0.0,78.19999999999999,High
+894.0,Mim Akter,10.0,English,Mid Exam,2027-07-12,32,83,high,6,78.0,2,B-,Average,Pass,Low Risk,0.017142857142857237,89.8,Very High
+788.0,Ayesha Rahman,10.0,English,Final Exam,2027-07-13,40,59,medium,6,58.0,1,D-,Poor,Fail,High Risk,0.7606854256854257,55.4,Medium
+560.0,Tania Jahan,10.0,Bangla,Final Exam,2027-07-14,82,84,low,10,90.0,0,A,Excellent,Pass,Low Risk,0.007499999999999951,50.4,Medium
+709.0,Nusrat Hossain,10.0,Physics,Final Exam,2027-07-15,75,60,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+204.0,Sakib Khan,10.0,Computer,Class Test,2027-07-16,59,60,low,8,50.0,0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+198.0,Sakib Khan,10.0,English,Mid Exam,2027-07-17,86,70,low,7,95.0,0,A+,Excellent,Pass,Low Risk,0.3232301587301589,42.0,Medium
+610.0,Tanvir Alam,10.0,Bangla,Final Exam,2027-07-18,47,60,high,9,82.0,2,B,Good,Pass,Low Risk,0.33532916367571486,76.0,High
+484.0,Sakib Khan,10.0,Computer,Mid Exam,2027-07-19,80,71,high,5,78.0,2,B-,Average,Pass,Low Risk,0.010000000000000009,82.6,Very High
+504.0,Mim Akter,10.0,Biology,Mid Exam,2027-07-20,77,60,medium,8,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+922.0,Nusrat Hossain,10.0,Biology,Final Exam,2027-07-21,95,56,medium,5,82.0,1,B,Good,Pass,Low Risk,0.0,53.6,Medium
+617.0,Mehedi Hasan,10.0,English,Final Exam,2027-07-22,37,66,high,10,68.0,2,C-,Below Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+575.0,Mim Akter,10.0,Bangla,Mid Exam,2027-07-23,51,51,medium,9,82.0,1,B,Good,Pass,Low Risk,0.04349999999999998,50.599999999999994,Medium
+808.0,Tanvir Alam,10.0,Bangla,Final Exam,2027-07-24,35,61,medium,10,50.0,1,F,Poor,Fail,Low Risk,0.004865967365967339,56.6,Medium
+962.0,Mim Akter,10.0,Computer,Mid Exam,2027-07-25,86,91,high,9,75.7,2,C+,Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+744.0,Mehedi Hasan,10.0,Computer,Mid Exam,2027-07-26,65,67,medium,5,50.0,1,F,Poor,Fail,Medium Risk,0.5161599511599512,60.199999999999996,High
+969.0,Ayesha Rahman,10.0,Bangla,Final Exam,2027-07-27,86,60,low,5,82.0,0,B,Good,Pass,Low Risk,0.22068652882264073,36.0,Low
+870.0,Tanvir Alam,10.0,Computer,Class Test,2027-07-28,78,65,medium,5,90.0,1,A,Excellent,Pass,Low Risk,0.03715476190476197,59.0,Medium
+536.0,Ayesha Rahman,10.0,Bangla,Final Exam,2027-07-29,74,98,low,9,82.0,0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+122.0,Tania Jahan,10.0,Physics,Class Test,2027-07-30,95,100,high,6,58.0,2,D-,Poor,Fail,High Risk,0.92,100.0,Very High
+664.0,Ayesha Rahman,10.0,Bangla,Mid Exam,2027-07-31,74,67,low,5,82.0,0,B,Good,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+776.0,Tania Jahan,10.0,Biology,Mid Exam,2027-08-01,49,60,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+813.0,Tania Jahan,10.0,Computer,Class Test,2027-08-02,93,75,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.3860714285714286,85.0,Very High
+557.0,Ayesha Rahman,10.0,Bangla,Mid Exam,2027-08-03,96,65,medium,9,68.0,1,C-,Below Average,Pass,Low Risk,0.03715476190476197,59.0,Medium
+182.0,Tanvir Alam,10.0,Bangla,Class Test,2027-08-04,32,55,high,10,50.0,2,F,Poor,Fail,Low Risk,0.2985634920634921,73.0,High
+244.0,Mehedi Hasan,10.0,Computer,Class Test,2027-08-05,83,93,high,7,78.0,2,B-,Average,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+184.0,Mim Akter,10.0,Physics,Mid Exam,2027-08-06,93,92,low,7,95.0,0,A+,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+177.0,Mim Akter,10.0,Physics,Class Test,2027-08-07,69,96,medium,8,95.0,1,A+,Excellent,Pass,Low Risk,0.0,77.6,High
+556.0,Mehedi Hasan,10.0,Computer,Final Exam,2027-08-08,88,96,high,6,82.0,2,B,Good,Pass,Low Risk,0.2292165473415474,97.6,Very High
+977.0,Nusrat Hossain,10.0,Math,Final Exam,2027-08-09,84,97,high,5,68.0,2,C-,Below Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+100.0,Nusrat Hossain,10.0,Computer,Mid Exam,2027-08-10,91,91,high,9,82.0,2,B,Good,Pass,Low Risk,0.27863007773586224,94.6,Very High
+150.0,Tania Jahan,10.0,Computer,Mid Exam,2027-08-11,33,61,low,10,95.0,0,A+,Excellent,Pass,Low Risk,0.33352405002405017,36.6,Low
+784.0,Tania Jahan,10.0,Physics,Class Test,2027-08-12,89,62,medium,5,50.0,1,F,Poor,Fail,Low Risk,0.23344577481342232,57.199999999999996,Medium
+816.0,Tanvir Alam,10.0,Physics,Class Test,2027-08-13,59,53,high,10,50.0,2,F,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+871.0,Sakib Khan,10.0,Computer,Class Test,2027-08-14,31,88,medium,9,50.0,1,F,Poor,Fail,Low Risk,0.3490050505050506,72.8,High
+545.0,Ayesha Rahman,10.0,Computer,Class Test,2027-08-15,91,51,high,7,90.0,2,A,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+548.0,Tania Jahan,10.0,Computer,Final Exam,2027-08-16,78,75,medium,5,78.0,1,B-,Average,Pass,Low Risk,0.1250811133311136,65.0,High
+980.0,Mim Akter,10.0,Physics,Final Exam,2027-08-17,38,76,high,8,68.0,2,C-,Below Average,Pass,Low Risk,0.03428571428571425,85.6,Very High
+587.0,Tanvir Alam,10.0,Computer,Mid Exam,2027-08-18,60,60,medium,6,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+899.0,Ayesha Rahman,10.0,Computer,Class Test,2027-08-19,90,64,high,8,78.0,2,B-,Average,Pass,Low Risk,0.022499999999999964,78.4,High
+133.0,Tanvir Alam,10.0,English,Class Test,2027-08-20,77,60,high,6,68.0,2,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+447.0,Ayesha Rahman,10.0,Math,Mid Exam,2027-08-21,54,56,medium,10,68.0,1,C-,Below Average,Pass,Low Risk,0.0,53.6,Medium
+194.0,Ayesha Rahman,10.0,Biology,Class Test,2027-08-22,65,96,high,5,95.0,2,A+,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+171.0,Mehedi Hasan,10.0,Math,Class Test,2027-08-23,37,95,high,5,90.0,2,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+650.0,Tania Jahan,10.0,English,Class Test,2027-08-24,87,89,low,6,68.0,0,C-,Below Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+253.0,Tanvir Alam,10.0,Biology,Class Test,2027-08-25,74,61,low,7,58.0,0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+349.0,Tanvir Alam,10.0,Computer,Class Test,2027-08-26,91,62,low,9,50.0,0,F,Poor,Fail,Medium Risk,0.5419942279942279,37.199999999999996,Low
+773.0,Mehedi Hasan,10.0,English,Mid Exam,2027-08-27,68,92,low,8,68.0,0,C-,Below Average,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+537.0,Mim Akter,10.0,Computer,Class Test,2027-08-28,87,66,high,10,78.0,2,B-,Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+217.0,Mim Akter,10.0,Physics,Mid Exam,2027-08-29,93,66,medium,8,95.0,1,A+,Excellent,Pass,Low Risk,0.0,59.6,Medium
+870.0,Nusrat Hossain,10.0,Bangla,Class Test,2027-08-30,73,85,high,8,71.6,2,C,Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+990.0,Tania Jahan,10.0,English,Final Exam,2027-08-31,58,60,high,10,50.0,2,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+405.0,Tania Jahan,10.0,Physics,Final Exam,2027-09-01,88,57,high,10,95.0,2,A+,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+367.0,Sakib Khan,10.0,English,Final Exam,2027-09-02,100,54,medium,5,72.9,1,C,Average,Pass,Low Risk,0.19259523809523826,52.4,Medium
+153.0,Mehedi Hasan,10.0,English,Final Exam,2027-09-03,38,75,low,8,90.0,0,A,Excellent,Pass,Low Risk,0.022333333333333205,45.0,Medium
+335.0,Mim Akter,10.0,Physics,Mid Exam,2027-09-04,35,65,high,9,90.0,2,A,Excellent,Pass,Low Risk,0.0,79.0,High
+488.0,Ayesha Rahman,10.0,Biology,Mid Exam,2027-09-05,58,85,high,9,68.0,2,C-,Below Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+833.0,Tanvir Alam,10.0,Math,Class Test,2027-09-06,87,77,low,6,72.2,0,C,Average,Pass,Low Risk,0.005079365079365239,46.199999999999996,Medium
+862.0,Tania Jahan,10.0,Computer,Final Exam,2027-09-07,46,78,high,10,90.0,2,A,Excellent,Pass,Low Risk,0.34269078144078147,86.8,Very High
+924.0,Tanvir Alam,10.0,English,Mid Exam,2027-09-08,45,96,medium,5,68.0,1,C-,Below Average,Pass,Low Risk,0.0,77.6,High
+500.0,Tanvir Alam,10.0,Computer,Class Test,2027-09-09,32,61,high,9,50.0,2,F,Poor,Fail,Low Risk,0.3639055299539171,76.6,High
+723.0,Sakib Khan,10.0,Bangla,Class Test,2027-09-10,50,86,high,7,95.0,2,A+,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+866.0,Mim Akter,10.0,Physics,Mid Exam,2027-09-11,93,79,low,5,90.0,0,A,Excellent,Pass,Low Risk,0.0,47.4,Medium
+402.0,Tania Jahan,10.0,Computer,Final Exam,2027-09-12,65,72,high,5,95.0,2,A+,Excellent,Pass,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+306.0,Tanvir Alam,10.0,Physics,Class Test,2027-09-13,91,65,high,9,77.5,2,B-,Average,Pass,Low Risk,0.0,79.0,High
+328.0,Tania Jahan,10.0,Computer,Final Exam,2027-09-14,71,60,medium,7,58.0,1,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+952.0,Ayesha Rahman,10.0,Math,Final Exam,2027-09-15,71,59,low,6,90.0,0,A,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+677.0,Sakib Khan,10.0,Math,Final Exam,2027-09-16,90,56,medium,9,95.0,1,A+,Excellent,Pass,Low Risk,0.0,53.6,Medium
+174.0,Ayesha Rahman,10.0,Math,Class Test,2027-09-17,42,94,medium,7,58.0,1,D-,Poor,Fail,Low Risk,0.22823809523809513,76.4,High
+534.0,Tania Jahan,10.0,Math,Final Exam,2027-09-18,40,86,high,5,58.0,2,D-,Poor,Fail,Low Risk,0.1090243367743372,91.6,Very High
+202.0,Nusrat Hossain,10.0,Math,Class Test,2027-09-19,83,78,low,7,90.0,0,A,Excellent,Pass,Low Risk,0.0,46.8,Medium
+521.0,Tania Jahan,10.0,Math,Final Exam,2027-09-20,45,52,low,5,58.0,0,D-,Poor,Fail,Low Risk,0.0024999999999999467,31.2,Low
+803.0,Mim Akter,10.0,Physics,Class Test,2027-09-21,37,60,medium,9,90.0,1,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+863.0,Tanvir Alam,10.0,English,Final Exam,2027-09-22,88,85,high,10,90.0,2,A,Excellent,Pass,Low Risk,0.01666666666666672,91.0,Very High
+837.0,Tanvir Alam,10.0,Computer,Mid Exam,2027-09-23,86,96,low,9,82.0,0,B,Good,Pass,Low Risk,0.0,57.599999999999994,Medium
+905.0,Ayesha Rahman,10.0,Math,Final Exam,2027-09-24,69,95,high,8,95.0,2,A+,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+405.0,Sakib Khan,10.0,Physics,Final Exam,2027-09-25,88,68,low,8,78.0,0,B-,Average,Pass,Medium Risk,0.4888571428571429,40.8,Medium
+197.0,Nusrat Hossain,10.0,Physics,Class Test,2027-09-26,31,62,high,8,90.0,2,A,Excellent,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+949.0,Mehedi Hasan,10.0,Physics,Class Test,2027-09-27,39,91,high,9,95.0,2,A+,Excellent,Pass,Low Risk,0.27863007773586224,94.6,Very High
+202.0,Mehedi Hasan,10.0,Biology,Class Test,2025-01-01,53,93,medium,10,90.0,1,A,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+,,,,,,,60,medium,,75.3,1,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium

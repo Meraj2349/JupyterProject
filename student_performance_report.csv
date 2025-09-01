@@ -1,0 +1,1003 @@
+Student ID,Attendance (%),Participation,Final Grade,Final Grade Letter,Performance Category,Pass_Fail,Risk_Level,Risk_Probability,Engagement_Score,Engagement_Group
+202.0,93,medium,90.0,A,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+535.0,60,low,68.0,C-,Below Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+960.0,64,medium,50.0,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+370.0,65,high,50.0,F,Poor,Fail,Low Risk,0.0,79.0,High
+206.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+171.0,60,low,73.18442314005407,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+800.0,51,medium,68.0,C-,Below Average,Pass,Low Risk,0.04349999999999998,50.599999999999994,Medium
+120.0,99,high,68.0,C-,Below Average,Pass,Low Risk,0.0,99.4,Very High
+714.0,61,medium,95.0,A+,Excellent,Pass,Low Risk,0.004865967365967339,56.6,Medium
+221.0,100,medium,50.0,F,Poor,Fail,Medium Risk,0.4591428571428571,80.0,High
+566.0,75,medium,95.0,A+,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+314.0,72,low,95.0,A+,Excellent,Pass,Low Risk,0.0,43.199999999999996,Medium
+430.0,67,medium,68.0,C-,Below Average,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+558.0,81,medium,68.82052102670292,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+187.0,98,low,82.0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+472.0,87,high,77.97505416805417,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+199.0,96,high,50.0,F,Poor,Fail,Low Risk,0.2292165473415474,97.6,Very High
+971.0,52,high,58.0,D-,Poor,Fail,Medium Risk,0.429952380952381,71.2,High
+763.0,87,low,50.0,F,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+230.0,52,high,90.0,A,Excellent,Pass,Medium Risk,0.429952380952381,71.2,High
+761.0,79,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,67.4,High
+408.0,50,medium,82.0,B,Good,Pass,Low Risk,0.36729761904761904,50.0,Medium
+869.0,79,low,78.0,B-,Average,Pass,Low Risk,0.0,47.4,Medium
+443.0,94,medium,95.0,A+,Excellent,Pass,Low Risk,0.22823809523809513,76.4,High
+591.0,81,high,95.0,A+,Excellent,Pass,Low Risk,0.011472527472527472,88.6,Very High
+513.0,77,low,82.0,B,Good,Pass,Low Risk,0.005079365079365239,46.199999999999996,Medium
+905.0,70,high,50.0,F,Poor,Fail,High Risk,1.0,82.0,Very High
+485.0,95,high,90.0,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+291.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+376.0,76,low,58.0,D-,Poor,Fail,Low Risk,0.14249314574314564,45.6,Medium
+260.0,85,medium,78.0,B-,Average,Pass,Low Risk,0.31039285714285714,71.0,High
+559.0,56,medium,82.0,B,Good,Pass,Low Risk,0.0,53.6,Medium
+413.0,71,high,95.0,A+,Excellent,Pass,Low Risk,0.010000000000000009,82.6,Very High
+121.0,59,low,83.29256671106673,B+,Good,Pass,Low Risk,0.10713438359026639,35.4,Low
+352.0,88,low,50.0,F,Poor,Fail,Medium Risk,0.525686507936508,52.8,Medium
+847.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+956.0,64,medium,68.0,C-,Below Average,Pass,High Risk,0.7560452831482244,58.4,Medium
+660.0,53,low,58.0,D-,Poor,Fail,Low Risk,0.3354642857142859,31.799999999999997,Low
+574.0,81,high,82.0,B,Good,Pass,Low Risk,0.011472527472527472,88.6,Very High
+158.0,60,medium,50.0,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+610.0,55,high,95.0,A+,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+781.0,73,low,50.0,F,Poor,Fail,Low Risk,0.2918571428571429,43.8,Medium
+575.0,69,high,78.0,B-,Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+799.0,86,medium,68.0,C-,Below Average,Pass,Low Risk,0.007857142857142896,71.6,High
+882.0,60,low,78.0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+289.0,61,medium,58.0,D-,Poor,Fail,Low Risk,0.004865967365967339,56.6,Medium
+786.0,82,low,95.0,A+,Excellent,Pass,Low Risk,0.08050000000000002,49.199999999999996,Medium
+662.0,77,high,68.0,C-,Below Average,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+975.0,57,low,58.0,D-,Poor,Fail,Low Risk,0.19108766233766228,34.199999999999996,Low
+666.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+343.0,86,high,78.0,B-,Average,Pass,Low Risk,0.1090243367743372,91.6,Very High
+931.0,71,high,68.0,C-,Below Average,Pass,Low Risk,0.010000000000000009,82.6,Very High
+604.0,55,high,95.0,A+,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+230.0,70,medium,78.0,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+584.0,81,medium,82.0,B,Good,Pass,Low Risk,0.35945050855577176,68.6,High
+918.0,84,high,58.0,D-,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+746.0,64,high,68.0,C-,Below Average,Pass,Low Risk,0.022499999999999964,78.4,High
+120.0,54,low,77.2258253968254,B-,Average,Pass,Low Risk,0.194017676767677,32.4,Low
+940.0,95,low,90.0,A,Excellent,Pass,Low Risk,0.0,57.0,Medium
+266.0,99,low,95.0,A+,Excellent,Pass,Low Risk,0.31485556110556123,59.4,Medium
+373.0,97,high,82.0,B,Good,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+487.0,55,high,78.0,B-,Average,Pass,Low Risk,0.2985634920634921,73.0,High
+700.0,74,high,90.0,A,Excellent,Pass,Low Risk,0.020000000000000018,84.4,Very High
+415.0,95,low,95.0,A+,Excellent,Pass,Low Risk,0.0,57.0,Medium
+113.0,89,medium,58.0,D-,Poor,Fail,Medium Risk,0.4154589577089578,73.4,High
+341.0,78,high,82.0,B,Good,Pass,Low Risk,0.34269078144078147,86.8,Very High
+876.0,56,medium,82.0,B,Good,Pass,Low Risk,0.0,53.6,Medium
+445.0,89,medium,50.0,F,Poor,Fail,Medium Risk,0.4154589577089578,73.4,High
+664.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+997.0,87,low,95.0,A+,Excellent,Pass,High Risk,0.7860079365079365,52.199999999999996,Medium
+439.0,67,medium,50.0,F,Poor,Fail,Medium Risk,0.5161599511599512,60.199999999999996,High
+191.0,51,high,78.0,B-,Average,Pass,Low Risk,0.2330218253968258,70.6,High
+466.0,57,low,95.0,A+,Excellent,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+554.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+527.0,82,high,78.0,B-,Average,Pass,Low Risk,0.0,89.19999999999999,Very High
+608.0,87,low,78.0,B-,Average,Pass,High Risk,0.7860079365079365,52.199999999999996,Medium
+875.0,97,high,68.0,C-,Below Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+134.0,76,high,82.0,B,Good,Pass,Low Risk,0.03428571428571425,85.6,Very High
+305.0,69,low,73.0074761904762,C+,Average,Pass,Low Risk,0.20352380952380955,41.4,Medium
+180.0,60,high,82.0,B,Good,Pass,Low Risk,0.33532916367571486,76.0,High
+661.0,60,medium,82.0,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+971.0,80,high,68.0,C-,Below Average,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+487.0,76,medium,78.0,B-,Average,Pass,Low Risk,0.0045000000000000595,65.6,High
+101.0,81,high,78.0,B-,Average,Pass,Low Risk,0.011472527472527472,88.6,Very High
+489.0,59,low,95.0,A+,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+665.0,52,low,68.0,C-,Below Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+205.0,60,high,95.0,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+871.0,76,low,68.0,C-,Below Average,Pass,Low Risk,0.14249314574314564,45.6,Medium
+921.0,84,high,95.0,A+,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+576.0,80,low,90.0,A,Excellent,Pass,Low Risk,0.0,48.0,Medium
+802.0,64,medium,50.0,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+501.0,65,high,82.0,B,Good,Pass,Low Risk,0.0,79.0,High
+829.0,62,medium,82.0,B,Good,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+655.0,98,medium,58.0,D-,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+261.0,84,high,50.0,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+301.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+369.0,70,high,58.0,D-,Poor,Fail,High Risk,1.0,82.0,Very High
+962.0,100,medium,90.0,A,Excellent,Pass,Medium Risk,0.4591428571428571,80.0,High
+915.0,60,high,58.0,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+370.0,79,high,82.0,B,Good,Pass,Low Risk,0.2977370962370962,87.4,Very High
+555.0,97,low,78.0,B-,Average,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+561.0,84,high,90.0,A,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+826.0,71,high,82.0,B,Good,Pass,Low Risk,0.010000000000000009,82.6,Very High
+351.0,87,medium,50.0,F,Poor,Fail,Medium Risk,0.5003214285714286,72.19999999999999,High
+801.0,80,high,95.0,A+,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+395.0,63,low,68.0,C-,Below Average,Pass,Low Risk,0.182105339105339,37.8,Low
+824.0,73,medium,90.0,A,Excellent,Pass,Low Risk,0.3371540134701899,63.8,High
+819.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+848.0,98,low,77.51965622775917,B-,Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+437.0,81,medium,50.0,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+978.0,85,medium,58.0,D-,Poor,Fail,Low Risk,0.31039285714285714,71.0,High
+152.0,81,medium,90.0,A,Excellent,Pass,Low Risk,0.35945050855577176,68.6,High
+891.0,64,medium,50.0,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+316.0,92,low,78.0,B-,Average,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+863.0,84,low,90.0,A,Excellent,Pass,Low Risk,0.007499999999999951,50.4,Medium
+287.0,52,medium,78.0,B-,Average,Pass,Low Risk,0.37448520923520934,51.2,Medium
+479.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+592.0,54,low,82.0,B,Good,Pass,Low Risk,0.194017676767677,32.4,Low
+140.0,70,low,50.0,F,Poor,Fail,Low Risk,0.3232301587301589,42.0,Medium
+256.0,59,low,95.0,A+,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+114.0,68,medium,82.0,B,Good,Pass,Low Risk,0.22232142857142845,60.8,High
+912.0,74,medium,95.0,A+,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+164.0,53,high,58.0,D-,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+956.0,60,medium,50.0,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+938.0,68,high,82.0,B,Good,Pass,Low Risk,0.22379761904761908,80.8,Very High
+620.0,92,low,82.0,B,Good,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+443.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+228.0,59,low,68.0,C-,Below Average,Pass,Low Risk,0.10713438359026639,35.4,Low
+747.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+571.0,74,high,78.0,B-,Average,Pass,Low Risk,0.020000000000000018,84.4,Very High
+162.0,69,high,58.0,D-,Poor,Fail,Low Risk,0.2419301254301256,81.4,Very High
+238.0,97,high,78.0,B-,Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+598.0,68,medium,69.15901010101011,C-,Below Average,Pass,Low Risk,0.22232142857142845,60.8,High
+692.0,72,medium,78.0,B-,Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+491.0,73,low,95.0,A+,Excellent,Pass,Low Risk,0.2918571428571429,43.8,Medium
+774.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+518.0,95,low,78.0,B-,Average,Pass,Low Risk,0.0,57.0,Medium
+388.0,83,medium,90.0,A,Excellent,Pass,Low Risk,0.1860046897546901,69.8,High
+478.0,77,low,82.0,B,Good,Pass,Low Risk,0.005079365079365239,46.199999999999996,Medium
+872.0,54,medium,72.88523701298698,C,Average,Pass,Low Risk,0.19259523809523826,52.4,Medium
+589.0,54,low,58.0,D-,Poor,Fail,Low Risk,0.194017676767677,32.4,Low
+330.0,100,low,50.0,F,Poor,Fail,Low Risk,0.0,60.0,Medium
+140.0,70,high,50.0,F,Poor,Fail,High Risk,1.0,82.0,Very High
+127.0,61,medium,78.0,B-,Average,Pass,Low Risk,0.004865967365967339,56.6,Medium
+234.0,99,low,68.0,C-,Below Average,Pass,Low Risk,0.31485556110556123,59.4,Medium
+300.0,53,high,58.0,D-,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+939.0,98,medium,50.0,F,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+879.0,91,high,78.0,B-,Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+132.0,69,medium,67.89383333333335,C-,Below Average,Pass,Low Risk,0.3861904761904763,61.4,High
+147.0,87,high,77.97505416805417,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+602.0,74,low,95.0,A+,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+506.0,63,medium,80.06381862581864,B,Good,Pass,Low Risk,0.12037515262515286,57.8,Medium
+673.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+827.0,81,medium,50.0,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+904.0,60,high,78.0,B-,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+198.0,67,low,79.28011038961039,B-,Average,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+783.0,76,low,68.0,C-,Below Average,Pass,Low Risk,0.14249314574314564,45.6,Medium
+971.0,67,high,78.0,B-,Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+825.0,72,low,90.0,A,Excellent,Pass,Low Risk,0.0,43.199999999999996,Medium
+646.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+838.0,70,medium,58.0,D-,Poor,Fail,Low Risk,0.3187095404595405,62.0,High
+712.0,93,medium,76.55340380452881,C+,Average,Pass,Low Risk,0.2156293894014486,75.8,High
+561.0,54,low,78.0,B-,Average,Pass,Low Risk,0.194017676767677,32.4,Low
+742.0,72,medium,50.0,F,Poor,Fail,Low Risk,0.15221015096015134,63.199999999999996,High
+868.0,90,low,90.0,A,Excellent,Pass,Low Risk,0.31421545121545125,54.0,Medium
+104.0,74,medium,90.0,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+317.0,90,medium,90.0,A,Excellent,Pass,Low Risk,0.12144980019980023,74.0,High
+602.0,59,medium,50.0,F,Poor,Fail,High Risk,0.7606854256854257,55.4,Medium
+866.0,71,medium,58.0,D-,Poor,Fail,Medium Risk,0.5061349206349206,62.6,High
+497.0,68,low,78.0,B-,Average,Pass,Medium Risk,0.4888571428571429,40.8,Medium
+970.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+894.0,56,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,53.6,Medium
+492.0,53,high,78.0,B-,Average,Pass,Medium Risk,0.4522572879476904,71.8,High
+306.0,60,low,50.0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+114.0,60,low,58.0,D-,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+957.0,89,low,95.0,A+,Excellent,Pass,Low Risk,0.34098187923187917,53.4,Medium
+653.0,61,low,50.0,F,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+991.0,71,medium,82.0,B,Good,Pass,Medium Risk,0.5061349206349206,62.6,High
+560.0,71,medium,78.0,B-,Average,Pass,Medium Risk,0.5061349206349206,62.6,High
+790.0,99,high,69.85284798534799,C-,Below Average,Pass,Low Risk,0.0,99.4,Very High
+674.0,96,high,50.0,F,Poor,Fail,Low Risk,0.2292165473415474,97.6,Very High
+963.0,60,low,73.18442314005407,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+842.0,78,high,50.0,F,Poor,Fail,Low Risk,0.34269078144078147,86.8,Very High
+340.0,95,high,90.0,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+663.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+195.0,99,low,90.0,A,Excellent,Pass,Low Risk,0.31485556110556123,59.4,Medium
+833.0,69,high,58.0,D-,Poor,Fail,Low Risk,0.2419301254301256,81.4,Very High
+584.0,99,low,68.0,C-,Below Average,Pass,Low Risk,0.31485556110556123,59.4,Medium
+506.0,60,high,90.0,A,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+330.0,82,high,82.0,B,Good,Pass,Low Risk,0.0,89.19999999999999,Very High
+848.0,92,medium,58.0,D-,Poor,Fail,Low Risk,0.14390476190476198,75.19999999999999,High
+754.0,64,medium,90.0,A,Excellent,Pass,High Risk,0.7560452831482244,58.4,Medium
+270.0,61,low,78.0,B-,Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+640.0,89,low,50.0,F,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+135.0,60,high,58.0,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+624.0,79,medium,79.42621031746033,B-,Average,Pass,Low Risk,0.0,67.4,High
+259.0,60,low,90.0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+938.0,52,high,68.0,C-,Below Average,Pass,Medium Risk,0.429952380952381,71.2,High
+798.0,77,medium,90.0,A,Excellent,Pass,Low Risk,0.0,66.19999999999999,High
+342.0,60,high,82.0,B,Good,Pass,Low Risk,0.33532916367571486,76.0,High
+185.0,79,low,82.0,B,Good,Pass,Low Risk,0.0,47.4,Medium
+895.0,62,low,58.0,D-,Poor,Fail,Medium Risk,0.5419942279942279,37.199999999999996,Low
+677.0,62,medium,58.0,D-,Poor,Fail,Low Risk,0.23344577481342232,57.199999999999996,Medium
+781.0,51,high,90.0,A,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+656.0,86,medium,82.0,B,Good,Pass,Low Risk,0.007857142857142896,71.6,High
+673.0,98,low,82.0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+745.0,87,low,68.0,C-,Below Average,Pass,High Risk,0.7860079365079365,52.199999999999996,Medium
+895.0,51,high,78.0,B-,Average,Pass,Low Risk,0.2330218253968258,70.6,High
+127.0,85,high,68.0,C-,Below Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+719.0,75,high,95.0,A+,Excellent,Pass,Low Risk,0.3860714285714286,85.0,Very High
+655.0,60,medium,50.0,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+439.0,60,high,70.89802876691456,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+897.0,93,high,90.0,A,Excellent,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+430.0,89,low,78.0,B-,Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+739.0,92,low,90.0,A,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+605.0,71,high,50.0,F,Poor,Fail,Low Risk,0.010000000000000009,82.6,Very High
+447.0,69,high,95.0,A+,Excellent,Pass,Low Risk,0.2419301254301256,81.4,Very High
+572.0,60,low,78.0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+330.0,78,high,58.0,D-,Poor,Fail,Low Risk,0.34269078144078147,86.8,Very High
+289.0,89,medium,82.0,B,Good,Pass,Medium Risk,0.4154589577089578,73.4,High
+324.0,75,medium,79.72155699855698,B-,Average,Pass,Low Risk,0.1250811133311136,65.0,High
+484.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+476.0,66,high,95.0,A+,Excellent,Pass,Medium Risk,0.4877518599821231,79.6,High
+382.0,69,low,82.0,B,Good,Pass,Low Risk,0.20352380952380955,41.4,Medium
+732.0,65,high,68.0,C-,Below Average,Pass,Low Risk,0.0,79.0,High
+727.0,95,high,82.0,B,Good,Pass,Low Risk,0.202268763486256,97.0,Very High
+844.0,92,low,68.0,C-,Below Average,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+358.0,56,low,58.0,D-,Poor,Fail,Medium Risk,0.460297619047619,33.6,Low
+458.0,65,low,78.0,B-,Average,Pass,Low Risk,0.17486688311688336,39.0,Low
+809.0,94,medium,82.0,B,Good,Pass,Low Risk,0.22823809523809513,76.4,High
+555.0,96,high,82.0,B,Good,Pass,Low Risk,0.2292165473415474,97.6,Very High
+510.0,97,low,82.0,B,Good,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+748.0,76,high,78.0,B-,Average,Pass,Low Risk,0.03428571428571425,85.6,Very High
+417.0,72,medium,95.0,A+,Excellent,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+776.0,73,medium,68.0,C-,Below Average,Pass,Low Risk,0.3371540134701899,63.8,High
+324.0,58,low,58.0,D-,Poor,Fail,Low Risk,0.3566190476190476,34.8,Low
+918.0,84,low,82.0,B,Good,Pass,Low Risk,0.007499999999999951,50.4,Medium
+333.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+783.0,69,low,78.0,B-,Average,Pass,Low Risk,0.20352380952380955,41.4,Medium
+763.0,86,high,95.0,A+,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+926.0,91,high,68.0,C-,Below Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+473.0,66,high,78.0,B-,Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+771.0,96,high,58.0,D-,Poor,Fail,Low Risk,0.2292165473415474,97.6,Very High
+707.0,80,high,58.0,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+571.0,57,high,68.0,C-,Below Average,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+332.0,64,medium,82.0,B,Good,Pass,High Risk,0.7560452831482244,58.4,Medium
+791.0,80,high,58.0,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+212.0,79,low,95.0,A+,Excellent,Pass,Low Risk,0.0,47.4,Medium
+929.0,95,medium,78.0,B-,Average,Pass,Low Risk,0.007333333333333303,77.0,High
+596.0,69,medium,95.0,A+,Excellent,Pass,Low Risk,0.3861904761904763,61.4,High
+541.0,88,high,82.0,B,Good,Pass,Low Risk,0.0,92.8,Very High
+663.0,61,medium,95.0,A+,Excellent,Pass,Low Risk,0.004865967365967339,56.6,Medium
+367.0,98,high,95.0,A+,Excellent,Pass,Low Risk,0.28541602841602876,98.8,Very High
+609.0,66,low,90.0,A,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+906.0,91,high,95.0,A+,Excellent,Pass,Low Risk,0.27863007773586224,94.6,Very High
+485.0,79,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,67.4,High
+486.0,78,low,78.0,B-,Average,Pass,Low Risk,0.0,46.8,Medium
+212.0,68,high,90.0,A,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+712.0,60,low,78.0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+724.0,60,low,78.0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+180.0,60,medium,82.0,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+798.0,99,low,82.0,B,Good,Pass,Low Risk,0.31485556110556123,59.4,Medium
+212.0,56,medium,90.0,A,Excellent,Pass,Low Risk,0.0,53.6,Medium
+101.0,93,low,58.0,D-,Poor,Fail,Medium Risk,0.6507261904761905,55.8,Medium
+741.0,83,medium,50.0,F,Poor,Fail,Low Risk,0.1860046897546901,69.8,High
+319.0,69,low,82.0,B,Good,Pass,Low Risk,0.20352380952380955,41.4,Medium
+665.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+954.0,87,high,82.0,B,Good,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+835.0,73,medium,82.0,B,Good,Pass,Low Risk,0.3371540134701899,63.8,High
+324.0,59,high,78.0,B-,Average,Pass,Low Risk,0.01778662565504674,75.4,High
+484.0,81,low,90.0,A,Excellent,Pass,Medium Risk,0.5218769841269839,48.6,Medium
+502.0,64,low,78.0,B-,Average,Pass,Low Risk,0.3854563492063491,38.4,Low
+737.0,86,high,68.0,C-,Below Average,Pass,Low Risk,0.1090243367743372,91.6,Very High
+229.0,69,high,78.0,B-,Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+152.0,52,medium,50.0,F,Poor,Fail,Low Risk,0.37448520923520934,51.2,Medium
+783.0,86,high,82.10489874014874,B,Good,Pass,Low Risk,0.1090243367743372,91.6,Very High
+829.0,89,medium,68.0,C-,Below Average,Pass,Medium Risk,0.4154589577089578,73.4,High
+771.0,57,high,95.0,A+,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+809.0,89,low,95.0,A+,Excellent,Pass,Low Risk,0.34098187923187917,53.4,Medium
+515.0,93,high,68.0,C-,Below Average,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+346.0,72,low,68.0,C-,Below Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+935.0,89,low,78.0,B-,Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+538.0,60,low,68.0,C-,Below Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+302.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+283.0,57,high,95.0,A+,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+222.0,78,low,95.0,A+,Excellent,Pass,Low Risk,0.0,46.8,Medium
+500.0,79,low,83.81785209235208,B+,Good,Pass,Low Risk,0.0,47.4,Medium
+866.0,60,medium,68.0,C-,Below Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+393.0,88,high,82.0,B,Good,Pass,Low Risk,0.0,92.8,Very High
+379.0,77,high,82.0,B,Good,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+936.0,98,medium,68.0,C-,Below Average,Pass,High Risk,0.7269527417027417,78.8,High
+983.0,85,medium,90.0,A,Excellent,Pass,Low Risk,0.31039285714285714,71.0,High
+709.0,62,high,82.0,B,Good,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+297.0,81,medium,58.0,D-,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+610.0,85,high,50.0,F,Poor,Fail,Low Risk,0.01666666666666672,91.0,Very High
+851.0,60,high,68.0,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+243.0,75,low,90.0,A,Excellent,Pass,Low Risk,0.022333333333333205,45.0,Medium
+708.0,71,low,90.0,A,Excellent,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+300.0,53,high,78.0,B-,Average,Pass,Medium Risk,0.4522572879476904,71.8,High
+223.0,80,high,90.0,A,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+286.0,67,high,74.39958531746032,C+,Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+425.0,87,high,50.0,F,Poor,Fail,Low Risk,0.22901962824756938,92.19999999999999,Very High
+563.0,73,high,82.0,B,Good,Pass,High Risk,0.7816825396825396,83.8,Very High
+448.0,60,high,68.0,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+870.0,60,medium,50.0,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+759.0,51,high,68.0,C-,Below Average,Pass,Low Risk,0.2330218253968258,70.6,High
+863.0,80,high,90.0,A,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+502.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+445.0,77,high,95.0,A+,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+610.0,95,high,50.0,F,Poor,Fail,Low Risk,0.202268763486256,97.0,Very High
+246.0,81,medium,78.0,B-,Average,Pass,Low Risk,0.35945050855577176,68.6,High
+247.0,54,medium,95.0,A+,Excellent,Pass,Low Risk,0.19259523809523826,52.4,Medium
+963.0,87,high,90.0,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+810.0,59,low,90.0,A,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+919.0,89,medium,95.0,A+,Excellent,Pass,Medium Risk,0.4154589577089578,73.4,High
+588.0,95,high,78.0,B-,Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+739.0,73,medium,50.0,F,Poor,Fail,Low Risk,0.3371540134701899,63.8,High
+650.0,84,high,50.0,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+437.0,93,medium,95.0,A+,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+971.0,97,low,68.0,C-,Below Average,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+740.0,72,high,82.0,B,Good,Pass,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+878.0,66,high,58.0,D-,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+572.0,50,medium,68.0,C-,Below Average,Pass,Low Risk,0.36729761904761904,50.0,Medium
+250.0,80,high,50.0,F,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+514.0,80,high,82.0,B,Good,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+397.0,91,high,58.0,D-,Poor,Fail,Low Risk,0.27863007773586224,94.6,Very High
+710.0,91,high,58.0,D-,Poor,Fail,Low Risk,0.27863007773586224,94.6,Very High
+362.0,83,low,58.0,D-,Poor,Fail,Medium Risk,0.5645,49.8,Medium
+863.0,58,low,90.0,A,Excellent,Pass,Low Risk,0.3566190476190476,34.8,Low
+243.0,71,medium,58.0,D-,Poor,Fail,Medium Risk,0.5061349206349206,62.6,High
+445.0,62,medium,78.0,B-,Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+723.0,74,medium,84.22359006271506,B+,Good,Pass,Low Risk,0.09967031987620245,64.4,High
+671.0,97,high,50.0,F,Poor,Fail,Low Risk,0.2418120144819066,98.19999999999999,Very High
+980.0,67,high,78.0,B-,Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+101.0,100,low,74.6124523809524,C+,Average,Pass,Low Risk,0.0,60.0,Medium
+996.0,61,low,68.0,C-,Below Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+403.0,89,medium,68.0,C-,Below Average,Pass,Medium Risk,0.4154589577089578,73.4,High
+353.0,66,low,95.0,A+,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+751.0,64,low,78.0,B-,Average,Pass,Low Risk,0.3854563492063491,38.4,Low
+552.0,91,low,95.0,A+,Excellent,Pass,Low Risk,0.008910256410256445,54.6,Medium
+136.0,64,low,58.0,D-,Poor,Fail,Low Risk,0.3854563492063491,38.4,Low
+259.0,60,low,90.0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+108.0,88,medium,50.0,F,Poor,Fail,Low Risk,0.3490050505050506,72.8,High
+332.0,62,medium,68.0,C-,Below Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+198.0,66,low,50.0,F,Poor,Fail,Low Risk,0.0070606060606058785,39.6,Low
+758.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+915.0,58,high,58.0,D-,Poor,Fail,Low Risk,0.025719017094017138,74.8,High
+307.0,60,low,73.18442314005407,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+230.0,69,high,68.0,C-,Below Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+503.0,75,medium,68.0,C-,Below Average,Pass,Low Risk,0.1250811133311136,65.0,High
+251.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+153.0,70,high,53.35309668109669,F,Poor,Fail,High Risk,1.0,82.0,Very High
+219.0,67,medium,50.0,F,Poor,Fail,Medium Risk,0.5161599511599512,60.199999999999996,High
+772.0,62,low,90.0,A,Excellent,Pass,Medium Risk,0.5419942279942279,37.199999999999996,Low
+727.0,65,high,77.46935714285715,B-,Average,Pass,Low Risk,0.0,79.0,High
+686.0,58,low,90.0,A,Excellent,Pass,Low Risk,0.3566190476190476,34.8,Low
+724.0,61,high,82.0,B,Good,Pass,Low Risk,0.3639055299539171,76.6,High
+519.0,93,medium,78.0,B-,Average,Pass,Low Risk,0.2156293894014486,75.8,High
+521.0,87,high,90.0,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+203.0,68,high,50.0,F,Poor,Fail,Low Risk,0.22379761904761908,80.8,Very High
+951.0,56,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,53.6,Medium
+353.0,84,medium,90.75073412698411,A,Excellent,Pass,Low Risk,0.0,70.4,High
+326.0,97,low,58.0,D-,Poor,Fail,Low Risk,0.18839718614718648,58.199999999999996,Medium
+211.0,60,medium,82.0,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+609.0,65,low,90.0,A,Excellent,Pass,Low Risk,0.17486688311688336,39.0,Low
+572.0,88,high,78.0,B-,Average,Pass,Low Risk,0.0,92.8,Very High
+198.0,60,low,90.0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+252.0,74,medium,58.0,D-,Poor,Fail,Low Risk,0.09967031987620245,64.4,High
+960.0,81,medium,68.0,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+995.0,89,high,95.0,A+,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+977.0,62,medium,72.20083982683984,C,Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+437.0,94,low,68.0,C-,Below Average,Pass,Low Risk,0.2735833333333332,56.4,Medium
+805.0,66,high,50.0,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+921.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+262.0,86,medium,68.0,C-,Below Average,Pass,Low Risk,0.007857142857142896,71.6,High
+819.0,55,low,50.0,F,Poor,Fail,Medium Risk,0.4428888888888889,33.0,Low
+780.0,68,low,68.0,C-,Below Average,Pass,Medium Risk,0.4888571428571429,40.8,Medium
+260.0,62,high,78.0,B-,Average,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+679.0,75,medium,68.0,C-,Below Average,Pass,Low Risk,0.1250811133311136,65.0,High
+900.0,63,low,82.0,B,Good,Pass,Low Risk,0.182105339105339,37.8,Low
+497.0,80,high,58.0,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+376.0,53,medium,90.0,A,Excellent,Pass,Low Risk,0.12450000000000017,51.8,Medium
+915.0,88,medium,68.0,C-,Below Average,Pass,Low Risk,0.3490050505050506,72.8,High
+603.0,57,high,82.0,B,Good,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+995.0,74,medium,90.0,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+491.0,62,low,66.66427308802311,D+,Below Average,Pass,Medium Risk,0.5419942279942279,37.199999999999996,Low
+234.0,81,medium,90.0,A,Excellent,Pass,Low Risk,0.35945050855577176,68.6,High
+294.0,87,medium,50.0,F,Poor,Fail,Medium Risk,0.5003214285714286,72.19999999999999,High
+500.0,87,medium,68.0,C-,Below Average,Pass,Medium Risk,0.5003214285714286,72.19999999999999,High
+739.0,77,high,82.0,B,Good,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+132.0,79,low,58.0,D-,Poor,Fail,Low Risk,0.0,47.4,Medium
+787.0,52,medium,68.0,C-,Below Average,Pass,Low Risk,0.37448520923520934,51.2,Medium
+559.0,77,high,50.0,F,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+982.0,52,medium,78.0,B-,Average,Pass,Low Risk,0.37448520923520934,51.2,Medium
+569.0,94,low,71.3746746031746,C,Average,Pass,Low Risk,0.2735833333333332,56.4,Medium
+474.0,83,medium,68.0,C-,Below Average,Pass,Low Risk,0.1860046897546901,69.8,High
+121.0,65,low,50.0,F,Poor,Fail,Low Risk,0.17486688311688336,39.0,Low
+849.0,60,low,90.0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+769.0,81,medium,50.0,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+137.0,87,medium,82.0,B,Good,Pass,Medium Risk,0.5003214285714286,72.19999999999999,High
+329.0,57,low,95.0,A+,Excellent,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+464.0,57,high,82.10572435897434,B,Good,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+662.0,60,low,58.0,D-,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+537.0,63,medium,68.0,C-,Below Average,Pass,Low Risk,0.12037515262515286,57.8,Medium
+875.0,81,medium,90.0,A,Excellent,Pass,Low Risk,0.35945050855577176,68.6,High
+382.0,84,high,82.0,B,Good,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+126.0,59,low,50.0,F,Poor,Fail,Low Risk,0.10713438359026639,35.4,Low
+325.0,52,low,78.0,B-,Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+376.0,60,low,73.18442314005407,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+897.0,98,medium,82.0,B,Good,Pass,High Risk,0.7269527417027417,78.8,High
+708.0,80,low,68.0,C-,Below Average,Pass,Low Risk,0.0,48.0,Medium
+383.0,78,high,78.0,B-,Average,Pass,Low Risk,0.34269078144078147,86.8,Very High
+978.0,54,medium,82.0,B,Good,Pass,Low Risk,0.19259523809523826,52.4,Medium
+580.0,74,medium,84.22359006271506,B+,Good,Pass,Low Risk,0.09967031987620245,64.4,High
+552.0,90,low,58.0,D-,Poor,Fail,Low Risk,0.31421545121545125,54.0,Medium
+928.0,80,high,90.0,A,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+915.0,60,medium,82.0,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+758.0,69,medium,67.89383333333335,C-,Below Average,Pass,Low Risk,0.3861904761904763,61.4,High
+615.0,88,low,95.0,A+,Excellent,Pass,Medium Risk,0.525686507936508,52.8,Medium
+646.0,71,low,68.0,C-,Below Average,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+291.0,53,high,50.0,F,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+148.0,62,low,50.0,F,Poor,Fail,Medium Risk,0.5419942279942279,37.199999999999996,Low
+611.0,94,high,58.0,D-,Poor,Fail,Low Risk,0.13327453102453102,96.4,Very High
+116.0,91,medium,58.0,D-,Poor,Fail,High Risk,0.8683333333333334,74.6,High
+271.0,99,high,90.0,A,Excellent,Pass,Low Risk,0.0,99.4,Very High
+319.0,98,high,76.4895119047619,C+,Average,Pass,Low Risk,0.28541602841602876,98.8,Very High
+257.0,69,high,78.0,B-,Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+576.0,62,medium,82.0,B,Good,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+145.0,60,low,50.0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+472.0,85,high,90.0,A,Excellent,Pass,Low Risk,0.01666666666666672,91.0,Very High
+617.0,82,low,82.0,B,Good,Pass,Low Risk,0.08050000000000002,49.199999999999996,Medium
+198.0,50,high,95.0,A+,Excellent,Pass,Low Risk,0.09328463203463211,70.0,High
+991.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+844.0,62,high,82.0,B,Good,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+136.0,66,high,82.0,B,Good,Pass,Medium Risk,0.4877518599821231,79.6,High
+379.0,73,high,50.0,F,Poor,Fail,High Risk,0.7816825396825396,83.8,Very High
+448.0,57,low,78.0,B-,Average,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+596.0,99,low,50.0,F,Poor,Fail,Low Risk,0.31485556110556123,59.4,Medium
+401.0,76,high,95.0,A+,Excellent,Pass,Low Risk,0.03428571428571425,85.6,Very High
+280.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+706.0,72,medium,70.92478968253968,C,Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+198.0,95,high,58.0,D-,Poor,Fail,Low Risk,0.202268763486256,97.0,Very High
+799.0,57,low,78.0,B-,Average,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+215.0,57,medium,82.0,B,Good,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+290.0,75,medium,50.0,F,Poor,Fail,Low Risk,0.1250811133311136,65.0,High
+352.0,96,medium,81.04087301587302,B,Good,Pass,Low Risk,0.0,77.6,High
+260.0,62,high,90.0,A,Excellent,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+355.0,88,medium,90.0,A,Excellent,Pass,Low Risk,0.3490050505050506,72.8,High
+422.0,86,medium,58.0,D-,Poor,Fail,Low Risk,0.007857142857142896,71.6,High
+227.0,98,medium,60.13951298701297,D,Below Average,Pass,High Risk,0.7269527417027417,78.8,High
+117.0,77,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,66.19999999999999,High
+892.0,74,low,90.0,A,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+834.0,65,high,77.46935714285715,B-,Average,Pass,Low Risk,0.0,79.0,High
+665.0,51,high,95.0,A+,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+669.0,67,low,90.0,A,Excellent,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+422.0,66,low,90.0,A,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+971.0,79,high,78.0,B-,Average,Pass,Low Risk,0.2977370962370962,87.4,Very High
+785.0,88,medium,58.0,D-,Poor,Fail,Low Risk,0.3490050505050506,72.8,High
+891.0,62,medium,68.0,C-,Below Average,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+725.0,81,high,84.34961005661006,B+,Good,Pass,Low Risk,0.011472527472527472,88.6,Very High
+387.0,99,medium,90.0,A,Excellent,Pass,Low Risk,0.09347366522366518,79.4,High
+953.0,78,low,90.0,A,Excellent,Pass,Low Risk,0.0,46.8,Medium
+762.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+738.0,79,medium,78.0,B-,Average,Pass,Low Risk,0.0,67.4,High
+254.0,67,medium,64.50881024531024,D+,Below Average,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+589.0,62,high,68.0,C-,Below Average,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+485.0,92,low,95.0,A+,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+884.0,60,medium,50.0,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+203.0,79,high,67.7148376068376,C-,Below Average,Pass,Low Risk,0.2977370962370962,87.4,Very High
+492.0,70,medium,95.0,A+,Excellent,Pass,Low Risk,0.3187095404595405,62.0,High
+910.0,97,low,82.0,B,Good,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+345.0,66,medium,90.0,A,Excellent,Pass,Low Risk,0.0,59.6,Medium
+275.0,89,low,68.0,C-,Below Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+138.0,68,medium,58.0,D-,Poor,Fail,Low Risk,0.22232142857142845,60.8,High
+576.0,64,low,90.0,A,Excellent,Pass,Low Risk,0.3854563492063491,38.4,Low
+781.0,58,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,54.8,Medium
+858.0,59,low,83.29256671106673,B+,Good,Pass,Low Risk,0.10713438359026639,35.4,Low
+637.0,93,medium,68.0,C-,Below Average,Pass,Low Risk,0.2156293894014486,75.8,High
+966.0,80,medium,90.0,A,Excellent,Pass,Low Risk,0.005555555555555536,68.0,High
+917.0,72,high,58.0,D-,Poor,Fail,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+507.0,79,high,50.0,F,Poor,Fail,Low Risk,0.2977370962370962,87.4,Very High
+624.0,82,medium,78.0,B-,Average,Pass,Medium Risk,0.6174786324786324,69.19999999999999,High
+927.0,58,medium,90.0,A,Excellent,Pass,Low Risk,0.0,54.8,Medium
+605.0,96,low,83.85121428571429,B+,Good,Pass,Low Risk,0.0,57.599999999999994,Medium
+924.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+135.0,93,low,50.0,F,Poor,Fail,Medium Risk,0.6507261904761905,55.8,Medium
+784.0,84,low,82.0,B,Good,Pass,Low Risk,0.007499999999999951,50.4,Medium
+119.0,60,high,95.0,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+420.0,60,medium,68.0,C-,Below Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+875.0,65,low,82.0,B,Good,Pass,Low Risk,0.17486688311688336,39.0,Low
+611.0,58,high,78.0,B-,Average,Pass,Low Risk,0.025719017094017138,74.8,High
+499.0,81,medium,50.0,F,Poor,Fail,Low Risk,0.35945050855577176,68.6,High
+753.0,64,medium,50.0,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+982.0,61,low,68.0,C-,Below Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+570.0,82,medium,50.0,F,Poor,Fail,Medium Risk,0.6174786324786324,69.19999999999999,High
+242.0,94,medium,82.0,B,Good,Pass,Low Risk,0.22823809523809513,76.4,High
+191.0,63,high,68.0,C-,Below Average,Pass,Low Risk,0.33976190476190515,77.8,High
+453.0,60,high,70.89802876691456,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+933.0,57,high,58.0,D-,Poor,Fail,Low Risk,0.12274594849594878,74.19999999999999,High
+899.0,76,medium,82.0,B,Good,Pass,Low Risk,0.0045000000000000595,65.6,High
+826.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+953.0,50,low,90.0,A,Excellent,Pass,Low Risk,0.3298928571428573,30.0,Low
+150.0,92,medium,90.0,A,Excellent,Pass,Low Risk,0.14390476190476198,75.19999999999999,High
+764.0,89,low,58.0,D-,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+797.0,91,high,82.0,B,Good,Pass,Low Risk,0.27863007773586224,94.6,Very High
+674.0,100,high,58.0,D-,Poor,Fail,High Risk,0.92,100.0,Very High
+289.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+224.0,88,high,95.0,A+,Excellent,Pass,Low Risk,0.0,92.8,Very High
+249.0,92,high,82.0,B,Good,Pass,Low Risk,0.038931408460820216,95.19999999999999,Very High
+413.0,80,medium,95.0,A+,Excellent,Pass,Low Risk,0.005555555555555536,68.0,High
+669.0,66,low,68.0,C-,Below Average,Pass,Low Risk,0.0070606060606058785,39.6,Low
+441.0,82,medium,50.0,F,Poor,Fail,Medium Risk,0.6174786324786324,69.19999999999999,High
+404.0,81,low,58.0,D-,Poor,Fail,Medium Risk,0.5218769841269839,48.6,Medium
+791.0,78,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,66.8,High
+781.0,70,medium,72.68014108930286,C,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+937.0,70,high,58.0,D-,Poor,Fail,High Risk,1.0,82.0,Very High
+882.0,89,medium,50.0,F,Poor,Fail,Medium Risk,0.4154589577089578,73.4,High
+153.0,72,medium,68.0,C-,Below Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+543.0,55,low,78.0,B-,Average,Pass,Medium Risk,0.4428888888888889,33.0,Low
+712.0,71,high,90.0,A,Excellent,Pass,Low Risk,0.010000000000000009,82.6,Very High
+363.0,99,low,58.0,D-,Poor,Fail,Low Risk,0.31485556110556123,59.4,Medium
+152.0,87,low,50.0,F,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+671.0,86,high,90.0,A,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+719.0,94,high,95.0,A+,Excellent,Pass,Low Risk,0.13327453102453102,96.4,Very High
+104.0,100,low,68.0,C-,Below Average,Pass,Low Risk,0.0,60.0,Medium
+202.0,57,medium,95.0,A+,Excellent,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+295.0,90,high,50.0,F,Poor,Fail,Medium Risk,0.43445238095238103,94.0,Very High
+873.0,98,high,58.0,D-,Poor,Fail,Low Risk,0.28541602841602876,98.8,Very High
+976.0,84,high,90.0,A,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+983.0,100,low,90.0,A,Excellent,Pass,Low Risk,0.0,60.0,Medium
+449.0,60,low,68.0,C-,Below Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+146.0,73,medium,58.0,D-,Poor,Fail,Low Risk,0.3371540134701899,63.8,High
+966.0,98,low,78.0,B-,Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+922.0,70,medium,78.0,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+919.0,100,low,68.0,C-,Below Average,Pass,Low Risk,0.0,60.0,Medium
+755.0,51,high,58.0,D-,Poor,Fail,Low Risk,0.2330218253968258,70.6,High
+368.0,89,low,68.0,C-,Below Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+469.0,68,medium,69.15901010101011,C-,Below Average,Pass,Low Risk,0.22232142857142845,60.8,High
+735.0,88,low,50.0,F,Poor,Fail,Medium Risk,0.525686507936508,52.8,Medium
+205.0,77,high,50.0,F,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+769.0,66,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,59.6,Medium
+758.0,55,high,68.0,C-,Below Average,Pass,Low Risk,0.2985634920634921,73.0,High
+756.0,68,high,58.0,D-,Poor,Fail,Low Risk,0.22379761904761908,80.8,Very High
+219.0,87,high,78.0,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+930.0,77,high,58.0,D-,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+886.0,51,high,50.0,F,Poor,Fail,Low Risk,0.2330218253968258,70.6,High
+703.0,87,low,58.0,D-,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+157.0,86,high,82.10489874014874,B,Good,Pass,Low Risk,0.1090243367743372,91.6,Very High
+445.0,100,low,95.0,A+,Excellent,Pass,Low Risk,0.0,60.0,Medium
+840.0,53,high,69.33361797434591,C-,Below Average,Pass,Medium Risk,0.4522572879476904,71.8,High
+573.0,71,high,95.0,A+,Excellent,Pass,Low Risk,0.010000000000000009,82.6,Very High
+216.0,75,medium,95.0,A+,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+929.0,98,low,50.0,F,Poor,Fail,Low Risk,0.11711652236652259,58.8,Medium
+890.0,92,high,82.0,B,Good,Pass,Low Risk,0.038931408460820216,95.19999999999999,Very High
+226.0,85,high,68.0,C-,Below Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+492.0,62,medium,90.0,A,Excellent,Pass,Low Risk,0.23344577481342232,57.199999999999996,Medium
+740.0,81,medium,68.0,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+157.0,66,medium,82.0,B,Good,Pass,Low Risk,0.0,59.6,Medium
+733.0,90,low,75.73743145743147,C+,Average,Pass,Low Risk,0.31421545121545125,54.0,Medium
+612.0,85,low,82.0,B,Good,Pass,Low Risk,0.0,51.0,Medium
+850.0,95,high,78.0,B-,Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+901.0,68,high,78.0,B-,Average,Pass,Low Risk,0.22379761904761908,80.8,Very High
+195.0,84,high,50.0,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+737.0,95,medium,68.0,C-,Below Average,Pass,Low Risk,0.007333333333333303,77.0,High
+217.0,89,high,92.48059523809523,A,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+659.0,77,high,90.0,A,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+700.0,50,low,50.0,F,Poor,Fail,Low Risk,0.3298928571428573,30.0,Low
+587.0,91,high,90.0,A,Excellent,Pass,Low Risk,0.27863007773586224,94.6,Very High
+336.0,60,low,78.0,B-,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+984.0,97,high,95.0,A+,Excellent,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+996.0,89,low,82.0,B,Good,Pass,Low Risk,0.34098187923187917,53.4,Medium
+371.0,82,high,90.0,A,Excellent,Pass,Low Risk,0.0,89.19999999999999,Very High
+288.0,61,low,58.0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+803.0,57,medium,90.0,A,Excellent,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+546.0,73,low,95.0,A+,Excellent,Pass,Low Risk,0.2918571428571429,43.8,Medium
+680.0,65,low,95.0,A+,Excellent,Pass,Low Risk,0.17486688311688336,39.0,Low
+889.0,99,low,68.0,C-,Below Average,Pass,Low Risk,0.31485556110556123,59.4,Medium
+960.0,53,high,82.0,B,Good,Pass,Medium Risk,0.4522572879476904,71.8,High
+346.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+175.0,93,medium,50.0,F,Poor,Fail,Low Risk,0.2156293894014486,75.8,High
+253.0,76,medium,90.0,A,Excellent,Pass,Low Risk,0.0045000000000000595,65.6,High
+755.0,58,medium,74.87749999999998,C+,Average,Pass,Low Risk,0.0,54.8,Medium
+534.0,96,low,78.0,B-,Average,Pass,Low Risk,0.0,57.599999999999994,Medium
+185.0,65,medium,95.0,A+,Excellent,Pass,Low Risk,0.03715476190476197,59.0,Medium
+796.0,61,low,58.0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+384.0,80,low,68.0,C-,Below Average,Pass,Low Risk,0.0,48.0,Medium
+319.0,73,low,82.0,B,Good,Pass,Low Risk,0.2918571428571429,43.8,Medium
+168.0,63,medium,58.0,D-,Poor,Fail,Low Risk,0.12037515262515286,57.8,Medium
+146.0,94,high,68.0,C-,Below Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+193.0,74,medium,90.0,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+849.0,83,low,58.0,D-,Poor,Fail,Medium Risk,0.5645,49.8,Medium
+552.0,52,low,68.0,C-,Below Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+303.0,73,medium,90.0,A,Excellent,Pass,Low Risk,0.3371540134701899,63.8,High
+317.0,91,low,90.0,A,Excellent,Pass,Low Risk,0.008910256410256445,54.6,Medium
+573.0,58,low,90.0,A,Excellent,Pass,Low Risk,0.3566190476190476,34.8,Low
+531.0,75,medium,90.0,A,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+440.0,69,medium,50.0,F,Poor,Fail,Low Risk,0.3861904761904763,61.4,High
+650.0,89,medium,90.0,A,Excellent,Pass,Medium Risk,0.4154589577089578,73.4,High
+711.0,59,low,78.0,B-,Average,Pass,Low Risk,0.10713438359026639,35.4,Low
+388.0,68,low,58.0,D-,Poor,Fail,Medium Risk,0.4888571428571429,40.8,Medium
+353.0,52,high,68.0,C-,Below Average,Pass,Medium Risk,0.429952380952381,71.2,High
+833.0,73,high,78.0,B-,Average,Pass,High Risk,0.7816825396825396,83.8,Very High
+456.0,54,medium,50.0,F,Poor,Fail,Low Risk,0.19259523809523826,52.4,Medium
+122.0,52,high,68.56756637806636,C-,Below Average,Pass,Medium Risk,0.429952380952381,71.2,High
+861.0,76,low,95.0,A+,Excellent,Pass,Low Risk,0.14249314574314564,45.6,Medium
+621.0,65,high,95.0,A+,Excellent,Pass,Low Risk,0.0,79.0,High
+857.0,98,low,95.0,A+,Excellent,Pass,Low Risk,0.11711652236652259,58.8,Medium
+936.0,60,medium,82.0,B,Good,Pass,Low Risk,0.2851678778849118,56.0,Medium
+199.0,84,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,70.4,High
+901.0,61,low,68.0,C-,Below Average,Pass,Low Risk,0.33352405002405017,36.6,Low
+279.0,90,high,78.0,B-,Average,Pass,Medium Risk,0.43445238095238103,94.0,Very High
+322.0,60,medium,68.0,C-,Below Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+861.0,75,medium,79.72155699855698,B-,Average,Pass,Low Risk,0.1250811133311136,65.0,High
+758.0,96,high,95.0,A+,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+541.0,83,high,78.62796522921522,B-,Average,Pass,Low Risk,0.017142857142857237,89.8,Very High
+707.0,72,low,82.0,B,Good,Pass,Low Risk,0.0,43.199999999999996,Medium
+868.0,80,high,58.0,D-,Poor,Fail,Medium Risk,0.46134550253667916,88.0,Very High
+424.0,99,high,50.0,F,Poor,Fail,Low Risk,0.0,99.4,Very High
+615.0,69,high,82.0,B,Good,Pass,Low Risk,0.2419301254301256,81.4,Very High
+115.0,61,low,58.0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+891.0,72,low,78.0,B-,Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+435.0,53,medium,68.0,C-,Below Average,Pass,Low Risk,0.12450000000000017,51.8,Medium
+858.0,72,low,80.76582370407368,B,Good,Pass,Low Risk,0.0,43.199999999999996,Medium
+357.0,97,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,78.19999999999999,High
+596.0,97,high,95.0,A+,Excellent,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+995.0,50,medium,50.0,F,Poor,Fail,Low Risk,0.36729761904761904,50.0,Medium
+259.0,74,medium,90.0,A,Excellent,Pass,Low Risk,0.09967031987620245,64.4,High
+574.0,51,high,82.0,B,Good,Pass,Low Risk,0.2330218253968258,70.6,High
+951.0,79,medium,78.0,B-,Average,Pass,Low Risk,0.0,67.4,High
+763.0,52,low,78.0,B-,Average,Pass,Low Risk,0.0024999999999999467,31.2,Low
+789.0,70,low,82.0,B,Good,Pass,Low Risk,0.3232301587301589,42.0,Medium
+774.0,74,low,95.0,A+,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+479.0,69,low,73.0074761904762,C+,Average,Pass,Low Risk,0.20352380952380955,41.4,Medium
+644.0,98,medium,58.0,D-,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+790.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+526.0,70,high,50.0,F,Poor,Fail,High Risk,1.0,82.0,Very High
+712.0,82,medium,95.0,A+,Excellent,Pass,Medium Risk,0.6174786324786324,69.19999999999999,High
+367.0,87,high,90.0,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+934.0,64,medium,59.9635836940837,D-,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+676.0,95,high,79.19442711807456,B-,Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+516.0,64,low,50.0,F,Poor,Fail,Low Risk,0.3854563492063491,38.4,Low
+267.0,95,medium,90.0,A,Excellent,Pass,Low Risk,0.007333333333333303,77.0,High
+941.0,74,high,82.0,B,Good,Pass,Low Risk,0.020000000000000018,84.4,Very High
+142.0,70,medium,78.0,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+655.0,73,medium,82.0,B,Good,Pass,Low Risk,0.3371540134701899,63.8,High
+384.0,54,low,68.0,C-,Below Average,Pass,Low Risk,0.194017676767677,32.4,Low
+496.0,55,medium,82.0,B,Good,Pass,Low Risk,0.3656666666666667,53.0,Medium
+111.0,98,low,68.0,C-,Below Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+706.0,92,low,90.0,A,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+401.0,97,high,82.0,B,Good,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+997.0,93,high,90.0,A,Excellent,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+352.0,96,high,90.0,A,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+598.0,72,high,50.0,F,Poor,Fail,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+853.0,53,high,95.0,A+,Excellent,Pass,Medium Risk,0.4522572879476904,71.8,High
+134.0,76,low,90.0,A,Excellent,Pass,Low Risk,0.14249314574314564,45.6,Medium
+826.0,67,medium,90.0,A,Excellent,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+948.0,70,medium,50.0,F,Poor,Fail,Low Risk,0.3187095404595405,62.0,High
+189.0,77,high,50.0,F,Poor,Fail,Low Risk,0.37589781052281035,86.19999999999999,Very High
+875.0,84,medium,82.0,B,Good,Pass,Low Risk,0.0,70.4,High
+704.0,71,low,50.0,F,Poor,Fail,Medium Risk,0.5383015873015875,42.6,Medium
+701.0,89,low,82.0,B,Good,Pass,Low Risk,0.34098187923187917,53.4,Medium
+517.0,72,low,78.0,B-,Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+214.0,52,high,50.0,F,Poor,Fail,Medium Risk,0.429952380952381,71.2,High
+716.0,89,high,95.0,A+,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+295.0,99,high,90.0,A,Excellent,Pass,Low Risk,0.0,99.4,Very High
+925.0,59,medium,95.0,A+,Excellent,Pass,High Risk,0.7606854256854257,55.4,Medium
+600.0,74,high,68.0,C-,Below Average,Pass,Low Risk,0.020000000000000018,84.4,Very High
+725.0,98,medium,50.0,F,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+592.0,57,high,90.0,A,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+174.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+512.0,54,high,50.0,F,Poor,Fail,Medium Risk,0.4634350649350649,72.4,High
+475.0,94,high,50.0,F,Poor,Fail,Low Risk,0.13327453102453102,96.4,Very High
+519.0,86,low,78.0,B-,Average,Pass,Low Risk,0.0050000000000000044,51.6,Medium
+828.0,94,high,75.08159655785389,C+,Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+376.0,87,high,90.0,A,Excellent,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+860.0,78,low,68.0,C-,Below Average,Pass,Low Risk,0.0,46.8,Medium
+775.0,54,medium,78.0,B-,Average,Pass,Low Risk,0.19259523809523826,52.4,Medium
+493.0,58,low,78.0,B-,Average,Pass,Low Risk,0.3566190476190476,34.8,Low
+968.0,97,low,73.31653174603176,C+,Average,Pass,Low Risk,0.18839718614718648,58.199999999999996,Medium
+556.0,51,medium,95.0,A+,Excellent,Pass,Low Risk,0.04349999999999998,50.599999999999994,Medium
+291.0,50,high,84.41950000000001,B+,Good,Pass,Low Risk,0.09328463203463211,70.0,High
+838.0,89,medium,82.0,B,Good,Pass,Medium Risk,0.4154589577089578,73.4,High
+788.0,100,high,58.0,D-,Poor,Fail,High Risk,0.92,100.0,Very High
+198.0,79,high,58.0,D-,Poor,Fail,Low Risk,0.2977370962370962,87.4,Very High
+647.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+195.0,77,high,95.0,A+,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+763.0,93,medium,50.0,F,Poor,Fail,Low Risk,0.2156293894014486,75.8,High
+762.0,60,high,95.0,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+289.0,88,medium,90.0,A,Excellent,Pass,Low Risk,0.3490050505050506,72.8,High
+835.0,75,medium,82.0,B,Good,Pass,Low Risk,0.1250811133311136,65.0,High
+136.0,62,high,80.78672281803163,B,Good,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+879.0,57,low,68.0,C-,Below Average,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+468.0,77,medium,82.0,B,Good,Pass,Low Risk,0.0,66.19999999999999,High
+794.0,79,high,58.0,D-,Poor,Fail,Low Risk,0.2977370962370962,87.4,Very High
+624.0,58,high,82.0,B,Good,Pass,Low Risk,0.025719017094017138,74.8,High
+378.0,88,medium,68.0,C-,Below Average,Pass,Low Risk,0.3490050505050506,72.8,High
+316.0,80,low,76.48596825396827,C+,Average,Pass,Low Risk,0.0,48.0,Medium
+966.0,70,medium,68.0,C-,Below Average,Pass,Low Risk,0.3187095404595405,62.0,High
+972.0,96,low,68.0,C-,Below Average,Pass,Low Risk,0.0,57.599999999999994,Medium
+897.0,83,low,78.0,B-,Average,Pass,Medium Risk,0.5645,49.8,Medium
+372.0,80,low,78.0,B-,Average,Pass,Low Risk,0.0,48.0,Medium
+980.0,74,medium,78.0,B-,Average,Pass,Low Risk,0.09967031987620245,64.4,High
+161.0,61,medium,78.0,B-,Average,Pass,Low Risk,0.004865967365967339,56.6,Medium
+695.0,50,high,78.0,B-,Average,Pass,Low Risk,0.09328463203463211,70.0,High
+979.0,71,high,68.0,C-,Below Average,Pass,Low Risk,0.010000000000000009,82.6,Very High
+828.0,89,high,90.0,A,Excellent,Pass,Low Risk,0.010000000000000009,93.4,Very High
+441.0,86,high,90.0,A,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+496.0,96,high,95.0,A+,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+798.0,50,high,84.41950000000001,B+,Good,Pass,Low Risk,0.09328463203463211,70.0,High
+118.0,50,low,58.0,D-,Poor,Fail,Low Risk,0.3298928571428573,30.0,Low
+276.0,91,low,90.0,A,Excellent,Pass,Low Risk,0.008910256410256445,54.6,Medium
+711.0,91,high,68.0,C-,Below Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+495.0,70,medium,78.0,B-,Average,Pass,Low Risk,0.3187095404595405,62.0,High
+544.0,64,high,78.0,B-,Average,Pass,Low Risk,0.022499999999999964,78.4,High
+332.0,66,high,50.0,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+175.0,71,low,50.0,F,Poor,Fail,Medium Risk,0.5383015873015875,42.6,Medium
+364.0,87,low,50.0,F,Poor,Fail,High Risk,0.7860079365079365,52.199999999999996,Medium
+554.0,84,low,68.0,C-,Below Average,Pass,Low Risk,0.007499999999999951,50.4,Medium
+895.0,60,high,58.0,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+817.0,60,high,70.89802876691456,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+834.0,57,high,68.0,C-,Below Average,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+483.0,96,low,95.0,A+,Excellent,Pass,Low Risk,0.0,57.599999999999994,Medium
+663.0,66,medium,78.0,B-,Average,Pass,Low Risk,0.0,59.6,Medium
+950.0,66,high,50.0,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+605.0,75,high,82.0,B,Good,Pass,Low Risk,0.3860714285714286,85.0,Very High
+466.0,60,high,95.0,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+243.0,66,high,50.0,F,Poor,Fail,Medium Risk,0.4877518599821231,79.6,High
+984.0,87,high,58.0,D-,Poor,Fail,Low Risk,0.22901962824756938,92.19999999999999,Very High
+168.0,66,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,59.6,Medium
+198.0,97,high,68.0,C-,Below Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+495.0,63,medium,90.0,A,Excellent,Pass,Low Risk,0.12037515262515286,57.8,Medium
+124.0,94,high,78.0,B-,Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+990.0,55,high,58.0,D-,Poor,Fail,Low Risk,0.2985634920634921,73.0,High
+568.0,84,high,58.0,D-,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+583.0,60,low,82.0,B,Good,Pass,Low Risk,0.22068652882264073,36.0,Low
+664.0,63,low,95.0,A+,Excellent,Pass,Low Risk,0.182105339105339,37.8,Low
+250.0,96,high,77.1282671728856,B-,Average,Pass,Low Risk,0.2292165473415474,97.6,Very High
+243.0,57,high,90.0,A,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+668.0,64,medium,50.0,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+138.0,76,low,90.0,A,Excellent,Pass,Low Risk,0.14249314574314564,45.6,Medium
+208.0,60,medium,50.0,F,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+792.0,98,low,77.51965622775917,B-,Average,Pass,Low Risk,0.11711652236652259,58.8,Medium
+141.0,80,high,74.4029735555496,C+,Average,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+285.0,84,low,82.02659770784773,B,Good,Pass,Low Risk,0.007499999999999951,50.4,Medium
+497.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+322.0,54,low,95.0,A+,Excellent,Pass,Low Risk,0.194017676767677,32.4,Low
+733.0,71,low,82.0,B,Good,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+232.0,98,low,82.0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+262.0,72,medium,68.0,C-,Below Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+314.0,74,low,90.0,A,Excellent,Pass,Low Risk,0.16558730158730195,44.4,Medium
+832.0,83,medium,78.0,B-,Average,Pass,Low Risk,0.1860046897546901,69.8,High
+334.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+942.0,60,low,73.18442314005407,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+757.0,54,medium,50.0,F,Poor,Fail,Low Risk,0.19259523809523826,52.4,Medium
+850.0,75,high,58.0,D-,Poor,Fail,Low Risk,0.3860714285714286,85.0,Very High
+687.0,69,low,50.0,F,Poor,Fail,Low Risk,0.20352380952380955,41.4,Medium
+108.0,55,low,78.0,B-,Average,Pass,Medium Risk,0.4428888888888889,33.0,Low
+173.0,55,medium,82.0,B,Good,Pass,Low Risk,0.3656666666666667,53.0,Medium
+591.0,99,medium,68.0,C-,Below Average,Pass,Low Risk,0.09347366522366518,79.4,High
+352.0,67,low,95.0,A+,Excellent,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+329.0,53,high,90.0,A,Excellent,Pass,Medium Risk,0.4522572879476904,71.8,High
+618.0,66,medium,90.0,A,Excellent,Pass,Low Risk,0.0,59.6,Medium
+273.0,63,medium,90.0,A,Excellent,Pass,Low Risk,0.12037515262515286,57.8,Medium
+752.0,63,high,82.0,B,Good,Pass,Low Risk,0.33976190476190515,77.8,High
+267.0,62,high,95.0,A+,Excellent,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+269.0,56,low,68.0,C-,Below Average,Pass,Medium Risk,0.460297619047619,33.6,Low
+492.0,93,high,68.0,C-,Below Average,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+894.0,64,low,90.0,A,Excellent,Pass,Low Risk,0.3854563492063491,38.4,Low
+733.0,68,high,95.0,A+,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+293.0,92,medium,95.0,A+,Excellent,Pass,Low Risk,0.14390476190476198,75.19999999999999,High
+616.0,96,low,95.0,A+,Excellent,Pass,Low Risk,0.0,57.599999999999994,Medium
+128.0,93,low,78.0,B-,Average,Pass,Medium Risk,0.6507261904761905,55.8,Medium
+264.0,60,low,73.18442314005407,C+,Average,Pass,Low Risk,0.22068652882264073,36.0,Low
+521.0,66,high,90.0,A,Excellent,Pass,Medium Risk,0.4877518599821231,79.6,High
+438.0,84,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,70.4,High
+747.0,68,low,58.0,D-,Poor,Fail,Medium Risk,0.4888571428571429,40.8,Medium
+595.0,60,low,95.0,A+,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+464.0,85,low,68.0,C-,Below Average,Pass,Low Risk,0.0,51.0,Medium
+932.0,84,low,68.0,C-,Below Average,Pass,Low Risk,0.007499999999999951,50.4,Medium
+441.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+599.0,97,high,58.0,D-,Poor,Fail,Low Risk,0.2418120144819066,98.19999999999999,Very High
+756.0,93,medium,95.0,A+,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+610.0,89,low,50.0,F,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+426.0,73,medium,58.0,D-,Poor,Fail,Low Risk,0.3371540134701899,63.8,High
+316.0,66,low,90.0,A,Excellent,Pass,Low Risk,0.0070606060606058785,39.6,Low
+400.0,60,high,68.0,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+231.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+903.0,99,high,68.0,C-,Below Average,Pass,Low Risk,0.0,99.4,Very High
+169.0,50,low,78.0,B-,Average,Pass,Low Risk,0.3298928571428573,30.0,Low
+351.0,84,medium,90.0,A,Excellent,Pass,Low Risk,0.0,70.4,High
+514.0,81,high,90.0,A,Excellent,Pass,Low Risk,0.011472527472527472,88.6,Very High
+886.0,85,low,95.0,A+,Excellent,Pass,Low Risk,0.0,51.0,Medium
+544.0,62,low,95.0,A+,Excellent,Pass,Medium Risk,0.5419942279942279,37.199999999999996,Low
+975.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+281.0,63,high,50.0,F,Poor,Fail,Low Risk,0.33976190476190515,77.8,High
+266.0,86,low,82.0,B,Good,Pass,Low Risk,0.0050000000000000044,51.6,Medium
+190.0,97,high,58.0,D-,Poor,Fail,Low Risk,0.2418120144819066,98.19999999999999,Very High
+813.0,64,high,82.0,B,Good,Pass,Low Risk,0.022499999999999964,78.4,High
+957.0,96,medium,82.0,B,Good,Pass,Low Risk,0.0,77.6,High
+630.0,53,medium,90.0,A,Excellent,Pass,Low Risk,0.12450000000000017,51.8,Medium
+138.0,89,low,58.0,D-,Poor,Fail,Low Risk,0.34098187923187917,53.4,Medium
+225.0,60,low,90.0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+550.0,60,low,58.0,D-,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+272.0,65,medium,68.0,C-,Below Average,Pass,Low Risk,0.03715476190476197,59.0,Medium
+752.0,53,low,90.0,A,Excellent,Pass,Low Risk,0.3354642857142859,31.799999999999997,Low
+853.0,94,medium,90.0,A,Excellent,Pass,Low Risk,0.22823809523809513,76.4,High
+319.0,75,medium,90.0,A,Excellent,Pass,Low Risk,0.1250811133311136,65.0,High
+737.0,77,low,50.0,F,Poor,Fail,Low Risk,0.005079365079365239,46.199999999999996,Medium
+157.0,81,high,78.0,B-,Average,Pass,Low Risk,0.011472527472527472,88.6,Very High
+759.0,94,high,90.0,A,Excellent,Pass,Low Risk,0.13327453102453102,96.4,Very High
+575.0,51,high,95.0,A+,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+555.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+928.0,52,medium,58.0,D-,Poor,Fail,Low Risk,0.37448520923520934,51.2,Medium
+994.0,57,medium,68.0,C-,Below Average,Pass,Low Risk,0.0020000000000000018,54.199999999999996,Medium
+460.0,73,medium,78.0,B-,Average,Pass,Low Risk,0.3371540134701899,63.8,High
+100.0,64,medium,50.0,F,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+486.0,92,low,58.0,D-,Poor,Fail,Low Risk,0.1376338106338112,55.199999999999996,Medium
+447.0,80,high,95.0,A+,Excellent,Pass,Medium Risk,0.46134550253667916,88.0,Very High
+289.0,58,high,78.0,B-,Average,Pass,Low Risk,0.025719017094017138,74.8,High
+604.0,88,high,78.0,B-,Average,Pass,Low Risk,0.0,92.8,Very High
+290.0,94,high,68.0,C-,Below Average,Pass,Low Risk,0.13327453102453102,96.4,Very High
+607.0,51,low,78.0,B-,Average,Pass,Low Risk,0.08716666666666673,30.599999999999998,Low
+468.0,57,low,90.0,A,Excellent,Pass,Low Risk,0.19108766233766228,34.199999999999996,Low
+508.0,56,low,78.0,B-,Average,Pass,Medium Risk,0.460297619047619,33.6,Low
+923.0,93,medium,68.0,C-,Below Average,Pass,Low Risk,0.2156293894014486,75.8,High
+216.0,100,low,74.6124523809524,C+,Average,Pass,Low Risk,0.0,60.0,Medium
+233.0,88,medium,68.0,C-,Below Average,Pass,Low Risk,0.3490050505050506,72.8,High
+157.0,91,high,75.72320883446616,C+,Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+655.0,65,low,68.0,C-,Below Average,Pass,Low Risk,0.17486688311688336,39.0,Low
+784.0,84,low,95.0,A+,Excellent,Pass,Low Risk,0.007499999999999951,50.4,Medium
+771.0,79,high,67.7148376068376,C-,Below Average,Pass,Low Risk,0.2977370962370962,87.4,Very High
+272.0,59,low,95.0,A+,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+928.0,87,high,77.97505416805417,B-,Average,Pass,Low Risk,0.22901962824756938,92.19999999999999,Very High
+914.0,67,medium,82.0,B,Good,Pass,Medium Risk,0.5161599511599512,60.199999999999996,High
+248.0,99,high,58.0,D-,Poor,Fail,Low Risk,0.0,99.4,Very High
+179.0,54,medium,90.0,A,Excellent,Pass,Low Risk,0.19259523809523826,52.4,Medium
+985.0,78,low,78.0,B-,Average,Pass,Low Risk,0.0,46.8,Medium
+312.0,88,low,68.0,C-,Below Average,Pass,Medium Risk,0.525686507936508,52.8,Medium
+302.0,83,medium,82.0,B,Good,Pass,Low Risk,0.1860046897546901,69.8,High
+863.0,92,low,90.0,A,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+328.0,94,medium,95.0,A+,Excellent,Pass,Low Risk,0.22823809523809513,76.4,High
+775.0,72,low,68.0,C-,Below Average,Pass,Low Risk,0.0,43.199999999999996,Medium
+326.0,60,high,58.0,D-,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+758.0,79,low,95.0,A+,Excellent,Pass,Low Risk,0.0,47.4,Medium
+631.0,55,high,90.0,A,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+540.0,95,high,90.0,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+501.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+146.0,53,low,82.0,B,Good,Pass,Low Risk,0.3354642857142859,31.799999999999997,Low
+332.0,78,medium,58.0,D-,Poor,Fail,Low Risk,0.0,66.8,High
+404.0,72,low,80.76582370407368,B,Good,Pass,Low Risk,0.0,43.199999999999996,Medium
+625.0,55,high,95.0,A+,Excellent,Pass,Low Risk,0.2985634920634921,73.0,High
+242.0,81,high,84.34961005661006,B+,Good,Pass,Low Risk,0.011472527472527472,88.6,Very High
+514.0,91,low,68.0,C-,Below Average,Pass,Low Risk,0.008910256410256445,54.6,Medium
+612.0,67,low,50.0,F,Poor,Fail,Low Risk,0.2817857142857143,40.199999999999996,Medium
+472.0,64,medium,59.9635836940837,D-,Poor,Fail,High Risk,0.7560452831482244,58.4,Medium
+665.0,89,low,82.0,B,Good,Pass,Low Risk,0.34098187923187917,53.4,Medium
+985.0,81,low,50.0,F,Poor,Fail,Medium Risk,0.5218769841269839,48.6,Medium
+358.0,58,low,50.0,F,Poor,Fail,Low Risk,0.3566190476190476,34.8,Low
+755.0,60,medium,95.0,A+,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+570.0,60,low,90.0,A,Excellent,Pass,Low Risk,0.22068652882264073,36.0,Low
+111.0,69,high,68.0,C-,Below Average,Pass,Low Risk,0.2419301254301256,81.4,Very High
+429.0,55,medium,58.0,D-,Poor,Fail,Low Risk,0.3656666666666667,53.0,Medium
+835.0,97,high,95.0,A+,Excellent,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+883.0,60,high,78.0,B-,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+457.0,91,high,50.0,F,Poor,Fail,Low Risk,0.27863007773586224,94.6,Very High
+507.0,60,high,70.89802876691456,C,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+767.0,92,low,50.0,F,Poor,Fail,Low Risk,0.1376338106338112,55.199999999999996,Medium
+472.0,66,high,90.0,A,Excellent,Pass,Medium Risk,0.4877518599821231,79.6,High
+107.0,81,medium,68.82052102670292,C-,Below Average,Pass,Low Risk,0.35945050855577176,68.6,High
+221.0,53,medium,81.50690476190474,B,Good,Pass,Low Risk,0.12450000000000017,51.8,Medium
+447.0,53,high,58.0,D-,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+775.0,66,high,68.0,C-,Below Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+189.0,90,low,90.0,A,Excellent,Pass,Low Risk,0.31421545121545125,54.0,Medium
+747.0,68,high,90.0,A,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+797.0,54,high,78.0,B-,Average,Pass,Medium Risk,0.4634350649350649,72.4,High
+415.0,81,low,90.0,A,Excellent,Pass,Medium Risk,0.5218769841269839,48.6,Medium
+277.0,71,high,82.0,B,Good,Pass,Low Risk,0.010000000000000009,82.6,Very High
+639.0,55,medium,73.78228571428572,C+,Average,Pass,Low Risk,0.3656666666666667,53.0,Medium
+831.0,84,high,95.0,A+,Excellent,Pass,Medium Risk,0.5282060015148249,90.4,Very High
+968.0,71,low,90.0,A,Excellent,Pass,Medium Risk,0.5383015873015875,42.6,Medium
+140.0,50,low,68.0,C-,Below Average,Pass,Low Risk,0.3298928571428573,30.0,Low
+839.0,69,medium,58.0,D-,Poor,Fail,Low Risk,0.3861904761904763,61.4,High
+803.0,71,low,50.0,F,Poor,Fail,Medium Risk,0.5383015873015875,42.6,Medium
+601.0,60,low,50.0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+244.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+300.0,62,high,58.0,D-,Poor,Fail,Low Risk,0.12021259175607013,77.19999999999999,High
+823.0,91,medium,50.0,F,Poor,Fail,High Risk,0.8683333333333334,74.6,High
+560.0,52,high,82.0,B,Good,Pass,Medium Risk,0.429952380952381,71.2,High
+831.0,58,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,54.8,Medium
+851.0,61,high,82.0,B,Good,Pass,Low Risk,0.3639055299539171,76.6,High
+657.0,72,medium,70.92478968253968,C,Average,Pass,Low Risk,0.15221015096015134,63.199999999999996,High
+646.0,63,medium,95.0,A+,Excellent,Pass,Low Risk,0.12037515262515286,57.8,Medium
+352.0,82,medium,58.0,D-,Poor,Fail,Medium Risk,0.6174786324786324,69.19999999999999,High
+489.0,67,high,68.0,C-,Below Average,Pass,Low Risk,0.04632591093117411,80.19999999999999,Very High
+693.0,98,medium,58.0,D-,Poor,Fail,High Risk,0.7269527417027417,78.8,High
+982.0,90,low,82.0,B,Good,Pass,Low Risk,0.31421545121545125,54.0,Medium
+355.0,60,high,78.0,B-,Average,Pass,Low Risk,0.33532916367571486,76.0,High
+808.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+914.0,59,high,95.0,A+,Excellent,Pass,Low Risk,0.01778662565504674,75.4,High
+549.0,68,high,90.0,A,Excellent,Pass,Low Risk,0.22379761904761908,80.8,Very High
+109.0,96,medium,78.0,B-,Average,Pass,Low Risk,0.0,77.6,High
+923.0,60,high,95.0,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+897.0,60,medium,78.0,B-,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+341.0,72,low,90.0,A,Excellent,Pass,Low Risk,0.0,43.199999999999996,Medium
+350.0,79,high,82.0,B,Good,Pass,Low Risk,0.2977370962370962,87.4,Very High
+976.0,74,low,50.0,F,Poor,Fail,Low Risk,0.16558730158730195,44.4,Medium
+104.0,77,high,90.0,A,Excellent,Pass,Low Risk,0.37589781052281035,86.19999999999999,Very High
+218.0,83,high,78.62796522921522,B-,Average,Pass,Low Risk,0.017142857142857237,89.8,Very High
+900.0,94,high,90.0,A,Excellent,Pass,Low Risk,0.13327453102453102,96.4,Very High
+473.0,97,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,78.19999999999999,High
+164.0,96,high,78.0,B-,Average,Pass,Low Risk,0.2292165473415474,97.6,Very High
+245.0,74,high,78.0,B-,Average,Pass,Low Risk,0.020000000000000018,84.4,Very High
+323.0,59,medium,58.0,D-,Poor,Fail,High Risk,0.7606854256854257,55.4,Medium
+338.0,63,high,78.0,B-,Average,Pass,Low Risk,0.33976190476190515,77.8,High
+276.0,91,medium,57.92395238095237,D-,Poor,Fail,High Risk,0.8683333333333334,74.6,High
+878.0,95,high,68.0,C-,Below Average,Pass,Low Risk,0.202268763486256,97.0,Very High
+952.0,79,low,82.0,B,Good,Pass,Low Risk,0.0,47.4,Medium
+381.0,90,low,58.0,D-,Poor,Fail,Low Risk,0.31421545121545125,54.0,Medium
+162.0,74,high,90.0,A,Excellent,Pass,Low Risk,0.020000000000000018,84.4,Very High
+316.0,63,medium,82.0,B,Good,Pass,Low Risk,0.12037515262515286,57.8,Medium
+953.0,84,high,50.0,F,Poor,Fail,Medium Risk,0.5282060015148249,90.4,Very High
+926.0,97,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,78.19999999999999,High
+894.0,83,high,78.0,B-,Average,Pass,Low Risk,0.017142857142857237,89.8,Very High
+788.0,59,medium,58.0,D-,Poor,Fail,High Risk,0.7606854256854257,55.4,Medium
+560.0,84,low,90.0,A,Excellent,Pass,Low Risk,0.007499999999999951,50.4,Medium
+709.0,60,high,95.0,A+,Excellent,Pass,Low Risk,0.33532916367571486,76.0,High
+204.0,60,low,50.0,F,Poor,Fail,Low Risk,0.22068652882264073,36.0,Low
+198.0,70,low,95.0,A+,Excellent,Pass,Low Risk,0.3232301587301589,42.0,Medium
+610.0,60,high,82.0,B,Good,Pass,Low Risk,0.33532916367571486,76.0,High
+484.0,71,high,78.0,B-,Average,Pass,Low Risk,0.010000000000000009,82.6,Very High
+504.0,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
+922.0,56,medium,82.0,B,Good,Pass,Low Risk,0.0,53.6,Medium
+617.0,66,high,68.0,C-,Below Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+575.0,51,medium,82.0,B,Good,Pass,Low Risk,0.04349999999999998,50.599999999999994,Medium
+808.0,61,medium,50.0,F,Poor,Fail,Low Risk,0.004865967365967339,56.6,Medium
+962.0,91,high,75.72320883446616,C+,Average,Pass,Low Risk,0.27863007773586224,94.6,Very High
+744.0,67,medium,50.0,F,Poor,Fail,Medium Risk,0.5161599511599512,60.199999999999996,High
+969.0,60,low,82.0,B,Good,Pass,Low Risk,0.22068652882264073,36.0,Low
+870.0,65,medium,90.0,A,Excellent,Pass,Low Risk,0.03715476190476197,59.0,Medium
+536.0,98,low,82.0,B,Good,Pass,Low Risk,0.11711652236652259,58.8,Medium
+122.0,100,high,58.0,D-,Poor,Fail,High Risk,0.92,100.0,Very High
+664.0,67,low,82.0,B,Good,Pass,Low Risk,0.2817857142857143,40.199999999999996,Medium
+776.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+813.0,75,high,90.0,A,Excellent,Pass,Low Risk,0.3860714285714286,85.0,Very High
+557.0,65,medium,68.0,C-,Below Average,Pass,Low Risk,0.03715476190476197,59.0,Medium
+182.0,55,high,50.0,F,Poor,Fail,Low Risk,0.2985634920634921,73.0,High
+244.0,93,high,78.0,B-,Average,Pass,Low Risk,0.0024999999999999467,95.8,Very High
+184.0,92,low,95.0,A+,Excellent,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+177.0,96,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,77.6,High
+556.0,96,high,82.0,B,Good,Pass,Low Risk,0.2292165473415474,97.6,Very High
+977.0,97,high,68.0,C-,Below Average,Pass,Low Risk,0.2418120144819066,98.19999999999999,Very High
+100.0,91,high,82.0,B,Good,Pass,Low Risk,0.27863007773586224,94.6,Very High
+150.0,61,low,95.0,A+,Excellent,Pass,Low Risk,0.33352405002405017,36.6,Low
+784.0,62,medium,50.0,F,Poor,Fail,Low Risk,0.23344577481342232,57.199999999999996,Medium
+816.0,53,high,50.0,F,Poor,Fail,Medium Risk,0.4522572879476904,71.8,High
+871.0,88,medium,50.0,F,Poor,Fail,Low Risk,0.3490050505050506,72.8,High
+545.0,51,high,90.0,A,Excellent,Pass,Low Risk,0.2330218253968258,70.6,High
+548.0,75,medium,78.0,B-,Average,Pass,Low Risk,0.1250811133311136,65.0,High
+980.0,76,high,68.0,C-,Below Average,Pass,Low Risk,0.03428571428571425,85.6,Very High
+587.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+899.0,64,high,78.0,B-,Average,Pass,Low Risk,0.022499999999999964,78.4,High
+133.0,60,high,68.0,C-,Below Average,Pass,Low Risk,0.33532916367571486,76.0,High
+447.0,56,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,53.6,Medium
+194.0,96,high,95.0,A+,Excellent,Pass,Low Risk,0.2292165473415474,97.6,Very High
+171.0,95,high,90.0,A,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+650.0,89,low,68.0,C-,Below Average,Pass,Low Risk,0.34098187923187917,53.4,Medium
+253.0,61,low,58.0,D-,Poor,Fail,Low Risk,0.33352405002405017,36.6,Low
+349.0,62,low,50.0,F,Poor,Fail,Medium Risk,0.5419942279942279,37.199999999999996,Low
+773.0,92,low,68.0,C-,Below Average,Pass,Low Risk,0.1376338106338112,55.199999999999996,Medium
+537.0,66,high,78.0,B-,Average,Pass,Medium Risk,0.4877518599821231,79.6,High
+217.0,66,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,59.6,Medium
+870.0,85,high,71.55375468975465,C,Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+990.0,60,high,50.0,F,Poor,Fail,Low Risk,0.33532916367571486,76.0,High
+405.0,57,high,95.0,A+,Excellent,Pass,Low Risk,0.12274594849594878,74.19999999999999,High
+367.0,54,medium,72.88523701298698,C,Average,Pass,Low Risk,0.19259523809523826,52.4,Medium
+153.0,75,low,90.0,A,Excellent,Pass,Low Risk,0.022333333333333205,45.0,Medium
+335.0,65,high,90.0,A,Excellent,Pass,Low Risk,0.0,79.0,High
+488.0,85,high,68.0,C-,Below Average,Pass,Low Risk,0.01666666666666672,91.0,Very High
+833.0,77,low,72.17618253968254,C,Average,Pass,Low Risk,0.005079365079365239,46.199999999999996,Medium
+862.0,78,high,90.0,A,Excellent,Pass,Low Risk,0.34269078144078147,86.8,Very High
+924.0,96,medium,68.0,C-,Below Average,Pass,Low Risk,0.0,77.6,High
+500.0,61,high,50.0,F,Poor,Fail,Low Risk,0.3639055299539171,76.6,High
+723.0,86,high,95.0,A+,Excellent,Pass,Low Risk,0.1090243367743372,91.6,Very High
+866.0,79,low,90.0,A,Excellent,Pass,Low Risk,0.0,47.4,Medium
+402.0,72,high,95.0,A+,Excellent,Pass,Medium Risk,0.46946428571428567,83.19999999999999,Very High
+306.0,65,high,77.46935714285715,B-,Average,Pass,Low Risk,0.0,79.0,High
+328.0,60,medium,58.0,D-,Poor,Fail,Low Risk,0.2851678778849118,56.0,Medium
+952.0,59,low,90.0,A,Excellent,Pass,Low Risk,0.10713438359026639,35.4,Low
+677.0,56,medium,95.0,A+,Excellent,Pass,Low Risk,0.0,53.6,Medium
+174.0,94,medium,58.0,D-,Poor,Fail,Low Risk,0.22823809523809513,76.4,High
+534.0,86,high,58.0,D-,Poor,Fail,Low Risk,0.1090243367743372,91.6,Very High
+202.0,78,low,90.0,A,Excellent,Pass,Low Risk,0.0,46.8,Medium
+521.0,52,low,58.0,D-,Poor,Fail,Low Risk,0.0024999999999999467,31.2,Low
+803.0,60,medium,90.0,A,Excellent,Pass,Low Risk,0.2851678778849118,56.0,Medium
+863.0,85,high,90.0,A,Excellent,Pass,Low Risk,0.01666666666666672,91.0,Very High
+837.0,96,low,82.0,B,Good,Pass,Low Risk,0.0,57.599999999999994,Medium
+905.0,95,high,95.0,A+,Excellent,Pass,Low Risk,0.202268763486256,97.0,Very High
+405.0,68,low,78.0,B-,Average,Pass,Medium Risk,0.4888571428571429,40.8,Medium
+197.0,62,high,90.0,A,Excellent,Pass,Low Risk,0.12021259175607013,77.19999999999999,High
+949.0,91,high,95.0,A+,Excellent,Pass,Low Risk,0.27863007773586224,94.6,Very High
+202.0,93,medium,90.0,A,Excellent,Pass,Low Risk,0.2156293894014486,75.8,High
+,60,medium,75.32494819268568,C+,Average,Pass,Low Risk,0.2851678778849118,56.0,Medium
